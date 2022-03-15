@@ -1,0 +1,2081 @@
+Date,Sample,Category,mass (kg)
+23-Feb,23-A1,Food/Organic,36.52
+23-Feb,23-B1,Food/Organic,65.04
+23-Feb,23-A2,Food/Organic,62.42
+23-Feb,23-B2,Food/Organic,72.6
+23-Feb,23-A3,Food/Organic,88.56
+23-Feb,23-B3,Food/Organic,69.14
+23-Feb,23-A4,Food/Organic,65.98
+23-Feb,23-B4,Food/Organic,89.58
+23-Feb,23-A5,Food/Organic,53.89
+23-Feb,23-B5,Food/Organic,67.47
+24-Feb,24-A1,Food/Organic,52.6
+24-Feb,24-B1,Food/Organic,110.55
+24-Feb,24-A2,Food/Organic,60.72
+24-Feb,24-B2,Food/Organic,115.53
+24-Feb,24-A3,Food/Organic,78
+24-Feb,24-B3,Food/Organic,85.42
+26-Feb,26-B1,Food/Organic,63.81
+26-Feb,26-B2,Food/Organic,58.27
+26-Feb,26-B3,Food/Organic,63.79
+26-Feb,26-B4,Food/Organic,52.87
+26-Feb,26-B5X,Food/Organic,109.65
+26-Feb,26-B5Y,Food/Organic,38.7
+26-Feb,26-B6,Food/Organic,44.64
+26-Feb,26-B7,Food/Organic,41.06
+26-Feb,26-B8,Food/Organic,63.9
+26-Feb,26-B9,Food/Organic,58.72
+26-Feb,26-B10,Food/Organic,53.45
+27-Feb,27-A1,Food/Organic,51.38
+27-Feb,27-B1,Food/Organic,66.56
+27-Feb,27-A2,Food/Organic,61.22
+27-Feb,27-B2,Food/Organic,40.34
+27-Feb,27-A3,Food/Organic,54.98
+27-Feb,27-B3,Food/Organic,39.42
+27-Feb,27-A4,Food/Organic,46.83
+27-Feb,27-B4,Food/Organic,81.18
+27-Feb,27-A5,Food/Organic,44.87
+27-Feb,27-B5,Food/Organic,32.69
+28-Feb,28-B1,Food/Organic,26.6
+28-Feb,28-A1,Food/Organic,60
+28-Feb,28-A2,Food/Organic,31.03
+28-Feb,28-B2,Food/Organic,46.24
+28-Feb,28-A3,Food/Organic,38.11
+28-Feb,28-A4,Food/Organic,58.33
+28-Feb,28-B4,Food/Organic,42.65
+28-Feb,28-A5,Food/Organic,30.24
+28-Feb,28-B5,Food/Organic,38.8
+1-Mar,1-A1,Food/Organic,36.55
+1-Mar,1-B1,Food/Organic,13.92
+1-Mar,1-A2,Food/Organic,29.3
+1-Mar,1-B2,Food/Organic,19.61
+1-Mar,1-A3,Food/Organic,26.54
+1-Mar,1-B3,Food/Organic,66.63
+1-Mar,1-A4,Food/Organic,37.61
+1-Mar,1-B4,Food/Organic,69.26
+1-Mar,1-A5,Food/Organic,75.56
+1-Mar,1-B5,Food/Organic,59.91
+2-Mar,2-A1,Food/Organic,69.4
+2-Mar,2-B1,Food/Organic,54.92
+2-Mar,2-A2,Food/Organic,52.52
+2-Mar,2-B2,Food/Organic,59.04
+2-Mar,2-A3,Food/Organic,54.43
+2-Mar,2-B3,Food/Organic,41.38
+2-Mar,2-A4,Food/Organic,68.89
+2-Mar,2-B4,Food/Organic,58.69
+2-Mar,2-A5,Food/Organic,41.95
+2-Mar,2-B5,Food/Organic,41.98
+3-Mar,3-A1,Food/Organic,72.71
+3-Mar,3-B1,Food/Organic,41.95
+3-Mar,3-A2,Food/Organic,90.72
+3-Mar,3-B2,Food/Organic,62.04
+3-Mar,3-B3,Food/Organic,72.27
+3-Mar,3-A3,Food/Organic,70.49
+3-Mar,3-A4,Food/Organic,51.82
+3-Mar,3-B4,Food/Organic,46.16
+3-Mar,3-A5,Food/Organic,73.33
+3-Mar,3-B5,Food/Organic,68.4
+3-Mar,4-B1,Food/Organic,67.92
+3-Mar,4-A1,Food/Organic,79.36
+3-Mar,5-A1,Food/Organic,69.69
+3-Mar,5-B1,Food/Organic,53.09
+23-Feb,23-A1,Paper (white),1.64
+23-Feb,23-B1,Paper (white),0
+23-Feb,23-A2,Paper (white),0.32
+23-Feb,23-B2,Paper (white),0
+23-Feb,23-A3,Paper (white),1.07
+23-Feb,23-B3,Paper (white),0
+23-Feb,23-A4,Paper (white),0
+23-Feb,23-B4,Paper (white),0
+23-Feb,23-A5,Paper (white),0
+23-Feb,23-B5,Paper (white),0
+24-Feb,24-A1,Paper (white),0
+24-Feb,24-B1,Paper (white),0
+24-Feb,24-A2,Paper (white),0
+24-Feb,24-B2,Paper (white),0
+24-Feb,24-A3,Paper (white),0
+24-Feb,24-B3,Paper (white),0
+26-Feb,26-B1,Paper (white),0
+26-Feb,26-B2,Paper (white),0
+26-Feb,26-B3,Paper (white),0
+26-Feb,26-B4,Paper (white),0
+26-Feb,26-B5X,Paper (white),0
+26-Feb,26-B5Y,Paper (white),0
+26-Feb,26-B6,Paper (white),0
+26-Feb,26-B7,Paper (white),0
+26-Feb,26-B8,Paper (white),0
+26-Feb,26-B9,Paper (white),0
+26-Feb,26-B10,Paper (white),0
+27-Feb,27-A1,Paper (white),0
+27-Feb,27-B1,Paper (white),0
+27-Feb,27-A2,Paper (white),0
+27-Feb,27-B2,Paper (white),0
+27-Feb,27-A3,Paper (white),0
+27-Feb,27-B3,Paper (white),0
+27-Feb,27-A4,Paper (white),0
+27-Feb,27-B4,Paper (white),0
+27-Feb,27-A5,Paper (white),0
+27-Feb,27-B5,Paper (white),0
+28-Feb,28-B1,Paper (white),0
+28-Feb,28-A1,Paper (white),0
+28-Feb,28-A2,Paper (white),0
+28-Feb,28-B2,Paper (white),0
+28-Feb,28-A3,Paper (white),0
+28-Feb,28-A4,Paper (white),0
+28-Feb,28-B4,Paper (white),0
+28-Feb,28-A5,Paper (white),0
+28-Feb,28-B5,Paper (white),0
+1-Mar,1-A1,Paper (white),0
+1-Mar,1-B1,Paper (white),0
+1-Mar,1-A2,Paper (white),0
+1-Mar,1-B2,Paper (white),0
+1-Mar,1-A3,Paper (white),0
+1-Mar,1-B3,Paper (white),0
+1-Mar,1-A4,Paper (white),0
+1-Mar,1-B4,Paper (white),0
+1-Mar,1-A5,Paper (white),0
+1-Mar,1-B5,Paper (white),0
+2-Mar,2-A1,Paper (white),0
+2-Mar,2-B1,Paper (white),0
+2-Mar,2-A2,Paper (white),0
+2-Mar,2-B2,Paper (white),0
+2-Mar,2-A3,Paper (white),0
+2-Mar,2-B3,Paper (white),0
+2-Mar,2-A4,Paper (white),0
+2-Mar,2-B4,Paper (white),0
+2-Mar,2-A5,Paper (white),1.09
+2-Mar,2-B5,Paper (white),0
+3-Mar,3-A1,Paper (white),0
+3-Mar,3-B1,Paper (white),0.39
+3-Mar,3-A2,Paper (white),0
+3-Mar,3-B2,Paper (white),0
+3-Mar,3-B3,Paper (white),0
+3-Mar,3-A3,Paper (white),0
+3-Mar,3-A4,Paper (white),0
+3-Mar,3-B4,Paper (white),0
+3-Mar,3-A5,Paper (white),0
+3-Mar,3-B5,Paper (white),0
+3-Mar,4-B1,Paper (white),0
+3-Mar,4-A1,Paper (white),0
+3-Mar,5-A1,Paper (white),0.13
+3-Mar,5-B1,Paper (white),0.08
+23-Feb,23-A1,Other recyclable Paper,0
+23-Feb,23-B1,Other recyclable Paper,0
+23-Feb,23-A2,Other recyclable Paper,0.33
+23-Feb,23-B2,Other recyclable Paper,0
+23-Feb,23-A3,Other recyclable Paper,0
+23-Feb,23-B3,Other recyclable Paper,0
+23-Feb,23-A4,Other recyclable Paper,2.77
+23-Feb,23-B4,Other recyclable Paper,0
+23-Feb,23-A5,Other recyclable Paper,3.5
+23-Feb,23-B5,Other recyclable Paper,2.7
+24-Feb,24-A1,Other recyclable Paper,3.14
+24-Feb,24-B1,Other recyclable Paper,4.51
+24-Feb,24-A2,Other recyclable Paper,4.05
+24-Feb,24-B2,Other recyclable Paper,0
+24-Feb,24-A3,Other recyclable Paper,1.97
+24-Feb,24-B3,Other recyclable Paper,2.91
+26-Feb,26-B1,Other recyclable Paper,0.67
+26-Feb,26-B2,Other recyclable Paper,0.96
+26-Feb,26-B3,Other recyclable Paper,0
+26-Feb,26-B4,Other recyclable Paper,0
+26-Feb,26-B5X,Other recyclable Paper,0
+26-Feb,26-B5Y,Other recyclable Paper,0.28
+26-Feb,26-B6,Other recyclable Paper,0.88
+26-Feb,26-B7,Other recyclable Paper,1.19
+26-Feb,26-B8,Other recyclable Paper,1
+26-Feb,26-B9,Other recyclable Paper,1.01
+26-Feb,26-B10,Other recyclable Paper,0.29
+27-Feb,27-A1,Other recyclable Paper,1.01
+27-Feb,27-B1,Other recyclable Paper,0.23
+27-Feb,27-A2,Other recyclable Paper,2.02
+27-Feb,27-B2,Other recyclable Paper,0
+27-Feb,27-A3,Other recyclable Paper,0.61
+27-Feb,27-B3,Other recyclable Paper,0.63
+27-Feb,27-A4,Other recyclable Paper,2.91
+27-Feb,27-B4,Other recyclable Paper,0.16
+27-Feb,27-A5,Other recyclable Paper,3.69
+27-Feb,27-B5,Other recyclable Paper,3.34
+28-Feb,28-B1,Other recyclable Paper,1.09
+28-Feb,28-A1,Other recyclable Paper,0.95
+28-Feb,28-A2,Other recyclable Paper,1.78
+28-Feb,28-B2,Other recyclable Paper,0.84
+28-Feb,28-A3,Other recyclable Paper,0
+28-Feb,28-A4,Other recyclable Paper,0.26
+28-Feb,28-B4,Other recyclable Paper,1.54
+28-Feb,28-A5,Other recyclable Paper,0.14
+28-Feb,28-B5,Other recyclable Paper,3.73
+1-Mar,1-A1,Other recyclable Paper,0.4
+1-Mar,1-B1,Other recyclable Paper,1.02
+1-Mar,1-A2,Other recyclable Paper,0.85
+1-Mar,1-B2,Other recyclable Paper,0.23
+1-Mar,1-A3,Other recyclable Paper,1.55
+1-Mar,1-B3,Other recyclable Paper,0.3
+1-Mar,1-A4,Other recyclable Paper,0.44
+1-Mar,1-B4,Other recyclable Paper,0.83
+1-Mar,1-A5,Other recyclable Paper,0.26
+1-Mar,1-B5,Other recyclable Paper,0.8
+2-Mar,2-A1,Other recyclable Paper,0
+2-Mar,2-B1,Other recyclable Paper,0.22
+2-Mar,2-A2,Other recyclable Paper,0.49
+2-Mar,2-B2,Other recyclable Paper,0.31
+2-Mar,2-A3,Other recyclable Paper,0.37
+2-Mar,2-B3,Other recyclable Paper,0.46
+2-Mar,2-A4,Other recyclable Paper,0.81
+2-Mar,2-B4,Other recyclable Paper,0
+2-Mar,2-A5,Other recyclable Paper,0
+2-Mar,2-B5,Other recyclable Paper,0
+3-Mar,3-A1,Other recyclable Paper,0.94
+3-Mar,3-B1,Other recyclable Paper,0.31
+3-Mar,3-A2,Other recyclable Paper,0.63
+3-Mar,3-B2,Other recyclable Paper,0.17
+3-Mar,3-B3,Other recyclable Paper,0.42
+3-Mar,3-A3,Other recyclable Paper,1.29
+3-Mar,3-A4,Other recyclable Paper,1.18
+3-Mar,3-B4,Other recyclable Paper,1.51
+3-Mar,3-A5,Other recyclable Paper,0.53
+3-Mar,3-B5,Other recyclable Paper,0.45
+3-Mar,4-B1,Other recyclable Paper,0.88
+3-Mar,4-A1,Other recyclable Paper,2.74
+3-Mar,5-A1,Other recyclable Paper,2.3
+3-Mar,5-B1,Other recyclable Paper,0.8
+23-Feb,23-A1,Non-recyclable Paper,0.29
+23-Feb,23-B1,Non-recyclable Paper,0.56
+23-Feb,23-A2,Non-recyclable Paper,0.22
+23-Feb,23-B2,Non-recyclable Paper,1.5
+23-Feb,23-A3,Non-recyclable Paper,0.67
+23-Feb,23-B3,Non-recyclable Paper,1.64
+23-Feb,23-A4,Non-recyclable Paper,2.51
+23-Feb,23-B4,Non-recyclable Paper,2.5
+23-Feb,23-A5,Non-recyclable Paper,2.25
+23-Feb,23-B5,Non-recyclable Paper,4.98
+24-Feb,24-A1,Non-recyclable Paper,0
+24-Feb,24-B1,Non-recyclable Paper,0.87
+24-Feb,24-A2,Non-recyclable Paper,3.15
+24-Feb,24-B2,Non-recyclable Paper,4.21
+24-Feb,24-A3,Non-recyclable Paper,1.16
+24-Feb,24-B3,Non-recyclable Paper,3.82
+26-Feb,26-B1,Non-recyclable Paper,6.82
+26-Feb,26-B2,Non-recyclable Paper,2.37
+26-Feb,26-B3,Non-recyclable Paper,2.56
+26-Feb,26-B4,Non-recyclable Paper,2.17
+26-Feb,26-B5X,Non-recyclable Paper,6.06
+26-Feb,26-B5Y,Non-recyclable Paper,3.11
+26-Feb,26-B6,Non-recyclable Paper,1.14
+26-Feb,26-B7,Non-recyclable Paper,3.83
+26-Feb,26-B8,Non-recyclable Paper,1.73
+26-Feb,26-B9,Non-recyclable Paper,0.62
+26-Feb,26-B10,Non-recyclable Paper,1.46
+27-Feb,27-A1,Non-recyclable Paper,1.12
+27-Feb,27-B1,Non-recyclable Paper,0.95
+27-Feb,27-A2,Non-recyclable Paper,0.59
+27-Feb,27-B2,Non-recyclable Paper,0.79
+27-Feb,27-A3,Non-recyclable Paper,0.29
+27-Feb,27-B3,Non-recyclable Paper,0.97
+27-Feb,27-A4,Non-recyclable Paper,3.06
+27-Feb,27-B4,Non-recyclable Paper,0.32
+27-Feb,27-A5,Non-recyclable Paper,3.11
+27-Feb,27-B5,Non-recyclable Paper,4.61
+28-Feb,28-B1,Non-recyclable Paper,0.26
+28-Feb,28-A1,Non-recyclable Paper,2.11
+28-Feb,28-A2,Non-recyclable Paper,1.55
+28-Feb,28-B2,Non-recyclable Paper,0.74
+28-Feb,28-A3,Non-recyclable Paper,3.75
+28-Feb,28-A4,Non-recyclable Paper,2.02
+28-Feb,28-B4,Non-recyclable Paper,1.72
+28-Feb,28-A5,Non-recyclable Paper,2.95
+28-Feb,28-B5,Non-recyclable Paper,6.05
+1-Mar,1-A1,Non-recyclable Paper,0.72
+1-Mar,1-B1,Non-recyclable Paper,0.78
+1-Mar,1-A2,Non-recyclable Paper,0.75
+1-Mar,1-B2,Non-recyclable Paper,1.39
+1-Mar,1-A3,Non-recyclable Paper,0.48
+1-Mar,1-B3,Non-recyclable Paper,1.5
+1-Mar,1-A4,Non-recyclable Paper,0.82
+1-Mar,1-B4,Non-recyclable Paper,0.94
+1-Mar,1-A5,Non-recyclable Paper,1.84
+1-Mar,1-B5,Non-recyclable Paper,4.71
+2-Mar,2-A1,Non-recyclable Paper,4.54
+2-Mar,2-B1,Non-recyclable Paper,1.81
+2-Mar,2-A2,Non-recyclable Paper,1.03
+2-Mar,2-B2,Non-recyclable Paper,0.78
+2-Mar,2-A3,Non-recyclable Paper,1.11
+2-Mar,2-B3,Non-recyclable Paper,1.11
+2-Mar,2-A4,Non-recyclable Paper,0.35
+2-Mar,2-B4,Non-recyclable Paper,1.55
+2-Mar,2-A5,Non-recyclable Paper,2.93
+2-Mar,2-B5,Non-recyclable Paper,0.73
+3-Mar,3-A1,Non-recyclable Paper,1.32
+3-Mar,3-B1,Non-recyclable Paper,0.75
+3-Mar,3-A2,Non-recyclable Paper,0.7
+3-Mar,3-B2,Non-recyclable Paper,0.48
+3-Mar,3-B3,Non-recyclable Paper,1.95
+3-Mar,3-A3,Non-recyclable Paper,2.86
+3-Mar,3-A4,Non-recyclable Paper,1.32
+3-Mar,3-B4,Non-recyclable Paper,1.05
+3-Mar,3-A5,Non-recyclable Paper,1.57
+3-Mar,3-B5,Non-recyclable Paper,1.61
+3-Mar,4-B1,Non-recyclable Paper,0.52
+3-Mar,4-A1,Non-recyclable Paper,0.51
+3-Mar,5-A1,Non-recyclable Paper,0.35
+3-Mar,5-B1,Non-recyclable Paper,1.03
+23-Feb,23-A1,Cardboards,1.52
+23-Feb,23-B1,Cardboards,3.75
+23-Feb,23-A2,Cardboards,4.08
+23-Feb,23-B2,Cardboards,1.66
+23-Feb,23-A3,Cardboards,1.97
+23-Feb,23-B3,Cardboards,1.08
+23-Feb,23-A4,Cardboards,0.96
+23-Feb,23-B4,Cardboards,0.61
+23-Feb,23-A5,Cardboards,0
+23-Feb,23-B5,Cardboards,0.46
+24-Feb,24-A1,Cardboards,0.26
+24-Feb,24-B1,Cardboards,0.7
+24-Feb,24-A2,Cardboards,0.25
+24-Feb,24-B2,Cardboards,0.61
+24-Feb,24-A3,Cardboards,0.84
+24-Feb,24-B3,Cardboards,1.45
+26-Feb,26-B1,Cardboards,3.81
+26-Feb,26-B2,Cardboards,0.52
+26-Feb,26-B3,Cardboards,1.83
+26-Feb,26-B4,Cardboards,0.69
+26-Feb,26-B5X,Cardboards,0.8
+26-Feb,26-B5Y,Cardboards,1.98
+26-Feb,26-B6,Cardboards,0.29
+26-Feb,26-B7,Cardboards,1.12
+26-Feb,26-B8,Cardboards,1.64
+26-Feb,26-B9,Cardboards,0.44
+26-Feb,26-B10,Cardboards,1.16
+27-Feb,27-A1,Cardboards,0.64
+27-Feb,27-B1,Cardboards,2.54
+27-Feb,27-A2,Cardboards,2.9
+27-Feb,27-B2,Cardboards,2.35
+27-Feb,27-A3,Cardboards,1.19
+27-Feb,27-B3,Cardboards,0.51
+27-Feb,27-A4,Cardboards,0.94
+27-Feb,27-B4,Cardboards,0.71
+27-Feb,27-A5,Cardboards,0.08
+27-Feb,27-B5,Cardboards,4.76
+28-Feb,28-B1,Cardboards,0.64
+28-Feb,28-A1,Cardboards,0.68
+28-Feb,28-A2,Cardboards,2.39
+28-Feb,28-B2,Cardboards,5.09
+28-Feb,28-A3,Cardboards,0.91
+28-Feb,28-A4,Cardboards,0.87
+28-Feb,28-B4,Cardboards,0.87
+28-Feb,28-A5,Cardboards,0.3
+28-Feb,28-B5,Cardboards,0.22
+1-Mar,1-A1,Cardboards,2.92
+1-Mar,1-B1,Cardboards,3.83
+1-Mar,1-A2,Cardboards,2.66
+1-Mar,1-B2,Cardboards,3.2
+1-Mar,1-A3,Cardboards,1.71
+1-Mar,1-B3,Cardboards,1.02
+1-Mar,1-A4,Cardboards,1.78
+1-Mar,1-B4,Cardboards,0.43
+1-Mar,1-A5,Cardboards,1.14
+1-Mar,1-B5,Cardboards,0.59
+2-Mar,2-A1,Cardboards,2.11
+2-Mar,2-B1,Cardboards,2.06
+2-Mar,2-A2,Cardboards,2.38
+2-Mar,2-B2,Cardboards,1.59
+2-Mar,2-A3,Cardboards,1.04
+2-Mar,2-B3,Cardboards,5.95
+2-Mar,2-A4,Cardboards,1.81
+2-Mar,2-B4,Cardboards,2.06
+2-Mar,2-A5,Cardboards,4.73
+2-Mar,2-B5,Cardboards,2.17
+3-Mar,3-A1,Cardboards,1.31
+3-Mar,3-B1,Cardboards,5.11
+3-Mar,3-A2,Cardboards,2.76
+3-Mar,3-B2,Cardboards,2.61
+3-Mar,3-B3,Cardboards,1.29
+3-Mar,3-A3,Cardboards,0.63
+3-Mar,3-A4,Cardboards,1.88
+3-Mar,3-B4,Cardboards,1
+3-Mar,3-A5,Cardboards,1.11
+3-Mar,3-B5,Cardboards,1.74
+3-Mar,4-B1,Cardboards,1.13
+3-Mar,4-A1,Cardboards,0.96
+3-Mar,5-A1,Cardboards,1.8
+3-Mar,5-B1,Cardboards,2.7
+23-Feb,23-A1,Textile,1.11
+23-Feb,23-B1,Textile,3.49
+23-Feb,23-A2,Textile,2.94
+23-Feb,23-B2,Textile,12.76
+23-Feb,23-A3,Textile,3.17
+23-Feb,23-B3,Textile,2.59
+23-Feb,23-A4,Textile,4.26
+23-Feb,23-B4,Textile,2.8
+23-Feb,23-A5,Textile,2.67
+23-Feb,23-B5,Textile,5.95
+24-Feb,24-A1,Textile,3.19
+24-Feb,24-B1,Textile,1.33
+24-Feb,24-A2,Textile,1.18
+24-Feb,24-B2,Textile,3.6
+24-Feb,24-A3,Textile,1.02
+24-Feb,24-B3,Textile,1.37
+26-Feb,26-B1,Textile,2.26
+26-Feb,26-B2,Textile,3.45
+26-Feb,26-B3,Textile,0.93
+26-Feb,26-B4,Textile,0.65
+26-Feb,26-B5X,Textile,0.78
+26-Feb,26-B5Y,Textile,0.83
+26-Feb,26-B6,Textile,2.38
+26-Feb,26-B7,Textile,4.74
+26-Feb,26-B8,Textile,4.44
+26-Feb,26-B9,Textile,5.11
+26-Feb,26-B10,Textile,3.77
+27-Feb,27-A1,Textile,6.72
+27-Feb,27-B1,Textile,3.22
+27-Feb,27-A2,Textile,0.22
+27-Feb,27-B2,Textile,1.34
+27-Feb,27-A3,Textile,2.26
+27-Feb,27-B3,Textile,7.94
+27-Feb,27-A4,Textile,2.69
+27-Feb,27-B4,Textile,0.33
+27-Feb,27-A5,Textile,0.28
+27-Feb,27-B5,Textile,1.86
+28-Feb,28-B1,Textile,0.55
+28-Feb,28-A1,Textile,2.61
+28-Feb,28-A2,Textile,2.47
+28-Feb,28-B2,Textile,2.6
+28-Feb,28-A3,Textile,0.46
+28-Feb,28-A4,Textile,3.28
+28-Feb,28-B4,Textile,6.65
+28-Feb,28-A5,Textile,8.57
+28-Feb,28-B5,Textile,1.07
+1-Mar,1-A1,Textile,3.83
+1-Mar,1-B1,Textile,1.96
+1-Mar,1-A2,Textile,0.91
+1-Mar,1-B2,Textile,2.15
+1-Mar,1-A3,Textile,4.55
+1-Mar,1-B3,Textile,3.58
+1-Mar,1-A4,Textile,3.6
+1-Mar,1-B4,Textile,1.57
+1-Mar,1-A5,Textile,2.85
+1-Mar,1-B5,Textile,2.09
+2-Mar,2-A1,Textile,3.07
+2-Mar,2-B1,Textile,5.49
+2-Mar,2-A2,Textile,2.7
+2-Mar,2-B2,Textile,2.21
+2-Mar,2-A3,Textile,3.07
+2-Mar,2-B3,Textile,3.56
+2-Mar,2-A4,Textile,3.15
+2-Mar,2-B4,Textile,1.26
+2-Mar,2-A5,Textile,4.85
+2-Mar,2-B5,Textile,0.42
+3-Mar,3-A1,Textile,1.39
+3-Mar,3-B1,Textile,0.07
+3-Mar,3-A2,Textile,2.86
+3-Mar,3-B2,Textile,0.72
+3-Mar,3-B3,Textile,2.23
+3-Mar,3-A3,Textile,1.33
+3-Mar,3-A4,Textile,0.67
+3-Mar,3-B4,Textile,4.42
+3-Mar,3-A5,Textile,1.24
+3-Mar,3-B5,Textile,1.61
+3-Mar,4-B1,Textile,2.17
+3-Mar,4-A1,Textile,3.27
+3-Mar,5-A1,Textile,1.57
+3-Mar,5-B1,Textile,0.42
+23-Feb,23-A1,All Low Value Plastic,8.06
+23-Feb,23-B1,All Low Value Plastic,16.23
+23-Feb,23-A2,All Low Value Plastic,7.99
+23-Feb,23-B2,All Low Value Plastic,14.57
+23-Feb,23-A3,All Low Value Plastic,14.06
+23-Feb,23-B3,All Low Value Plastic,17.13
+23-Feb,23-A4,All Low Value Plastic,10.98
+23-Feb,23-B4,All Low Value Plastic,15.16
+23-Feb,23-A5,All Low Value Plastic,4.41
+23-Feb,23-B5,All Low Value Plastic,17.96
+24-Feb,24-A1,All Low Value Plastic,6.47
+24-Feb,24-B1,All Low Value Plastic,10.3
+24-Feb,24-A2,All Low Value Plastic,6.69
+24-Feb,24-B2,All Low Value Plastic,10.13
+24-Feb,24-A3,All Low Value Plastic,3.91
+24-Feb,24-B3,All Low Value Plastic,4.65
+26-Feb,26-B1,All Low Value Plastic,11.41
+26-Feb,26-B2,All Low Value Plastic,4.02
+26-Feb,26-B3,All Low Value Plastic,4.94
+26-Feb,26-B4,All Low Value Plastic,2.03
+26-Feb,26-B5X,All Low Value Plastic,3.98
+26-Feb,26-B5Y,All Low Value Plastic,6.1
+26-Feb,26-B6,All Low Value Plastic,4.06
+26-Feb,26-B7,All Low Value Plastic,4.88
+26-Feb,26-B8,All Low Value Plastic,4.45
+26-Feb,26-B9,All Low Value Plastic,2.84
+26-Feb,26-B10,All Low Value Plastic,4.83
+27-Feb,27-A1,All Low Value Plastic,4.75
+27-Feb,27-B1,All Low Value Plastic,4.33
+27-Feb,27-A2,All Low Value Plastic,6.08
+27-Feb,27-B2,All Low Value Plastic,2.71
+27-Feb,27-A3,All Low Value Plastic,3.69
+27-Feb,27-B3,All Low Value Plastic,4.81
+27-Feb,27-A4,All Low Value Plastic,3.49
+27-Feb,27-B4,All Low Value Plastic,3.2
+27-Feb,27-A5,All Low Value Plastic,2.86
+27-Feb,27-B5,All Low Value Plastic,3.51
+28-Feb,28-B1,All Low Value Plastic,1.55
+28-Feb,28-A1,All Low Value Plastic,7.8
+28-Feb,28-A2,All Low Value Plastic,4.35
+28-Feb,28-B2,All Low Value Plastic,4.29
+28-Feb,28-A3,All Low Value Plastic,3.9
+28-Feb,28-A4,All Low Value Plastic,3.05
+28-Feb,28-B4,All Low Value Plastic,3.15
+28-Feb,28-A5,All Low Value Plastic,2.67
+28-Feb,28-B5,All Low Value Plastic,3.49
+1-Mar,1-A1,All Low Value Plastic,4.29
+1-Mar,1-B1,All Low Value Plastic,4.05
+1-Mar,1-A2,All Low Value Plastic,4.47
+1-Mar,1-B2,All Low Value Plastic,5.92
+1-Mar,1-A3,All Low Value Plastic,2.69
+1-Mar,1-B3,All Low Value Plastic,3.07
+1-Mar,1-A4,All Low Value Plastic,2.15
+1-Mar,1-B4,All Low Value Plastic,4.01
+1-Mar,1-A5,All Low Value Plastic,3.44
+1-Mar,1-B5,All Low Value Plastic,3.31
+2-Mar,2-A1,All Low Value Plastic,4.15
+2-Mar,2-B1,All Low Value Plastic,2.68
+2-Mar,2-A2,All Low Value Plastic,5.58
+2-Mar,2-B2,All Low Value Plastic,3.69
+2-Mar,2-A3,All Low Value Plastic,3.33
+2-Mar,2-B3,All Low Value Plastic,2.48
+2-Mar,2-A4,All Low Value Plastic,5.19
+2-Mar,2-B4,All Low Value Plastic,2.46
+2-Mar,2-A5,All Low Value Plastic,4.47
+2-Mar,2-B5,All Low Value Plastic,2.51
+3-Mar,3-A1,All Low Value Plastic,5.04
+3-Mar,3-B1,All Low Value Plastic,2.93
+3-Mar,3-A2,All Low Value Plastic,6.49
+3-Mar,3-B2,All Low Value Plastic,3.27
+3-Mar,3-B3,All Low Value Plastic,3.94
+3-Mar,3-A3,All Low Value Plastic,3.98
+3-Mar,3-A4,All Low Value Plastic,2.96
+3-Mar,3-B4,All Low Value Plastic,3.67
+3-Mar,3-A5,All Low Value Plastic,4.92
+3-Mar,3-B5,All Low Value Plastic,3.55
+3-Mar,4-B1,All Low Value Plastic,4.32
+3-Mar,4-A1,All Low Value Plastic,5.5
+3-Mar,5-A1,All Low Value Plastic,2.84
+3-Mar,5-B1,All Low Value Plastic,6.9
+23-Feb,23-A1,Medium Value Plastic (#4),0.11
+23-Feb,23-B1,Medium Value Plastic (#4),0.04
+23-Feb,23-A2,Medium Value Plastic (#4),0.17
+23-Feb,23-B2,Medium Value Plastic (#4),0
+23-Feb,23-A3,Medium Value Plastic (#4),0.07
+23-Feb,23-B3,Medium Value Plastic (#4),0.04
+23-Feb,23-A4,Medium Value Plastic (#4),0
+23-Feb,23-B4,Medium Value Plastic (#4),0.02
+23-Feb,23-A5,Medium Value Plastic (#4),3.47
+23-Feb,23-B5,Medium Value Plastic (#4),1.78
+24-Feb,24-A1,Medium Value Plastic (#4),4.38
+24-Feb,24-B1,Medium Value Plastic (#4),10.37
+24-Feb,24-A2,Medium Value Plastic (#4),5.67
+24-Feb,24-B2,Medium Value Plastic (#4),9.47
+24-Feb,24-A3,Medium Value Plastic (#4),3.22
+24-Feb,24-B3,Medium Value Plastic (#4),2.61
+26-Feb,26-B1,Medium Value Plastic (#4),3.97
+26-Feb,26-B2,Medium Value Plastic (#4),3.66
+26-Feb,26-B3,Medium Value Plastic (#4),5.29
+26-Feb,26-B4,Medium Value Plastic (#4),2.08
+26-Feb,26-B5X,Medium Value Plastic (#4),2.78
+26-Feb,26-B5Y,Medium Value Plastic (#4),5.74
+26-Feb,26-B6,Medium Value Plastic (#4),5.37
+26-Feb,26-B7,Medium Value Plastic (#4),4
+26-Feb,26-B8,Medium Value Plastic (#4),3.3
+26-Feb,26-B9,Medium Value Plastic (#4),3.46
+26-Feb,26-B10,Medium Value Plastic (#4),3
+27-Feb,27-A1,Medium Value Plastic (#4),5.08
+27-Feb,27-B1,Medium Value Plastic (#4),3.65
+27-Feb,27-A2,Medium Value Plastic (#4),3.11
+27-Feb,27-B2,Medium Value Plastic (#4),0.93
+27-Feb,27-A3,Medium Value Plastic (#4),3.2
+27-Feb,27-B3,Medium Value Plastic (#4),3.14
+27-Feb,27-A4,Medium Value Plastic (#4),3
+27-Feb,27-B4,Medium Value Plastic (#4),1.97
+27-Feb,27-A5,Medium Value Plastic (#4),0.8
+27-Feb,27-B5,Medium Value Plastic (#4),1.51
+28-Feb,28-B1,Medium Value Plastic (#4),1.34
+28-Feb,28-A1,Medium Value Plastic (#4),2.81
+28-Feb,28-A2,Medium Value Plastic (#4),2.08
+28-Feb,28-B2,Medium Value Plastic (#4),3.06
+28-Feb,28-A3,Medium Value Plastic (#4),4.01
+28-Feb,28-A4,Medium Value Plastic (#4),3.65
+28-Feb,28-B4,Medium Value Plastic (#4),3.34
+28-Feb,28-A5,Medium Value Plastic (#4),1.24
+28-Feb,28-B5,Medium Value Plastic (#4),1.65
+1-Mar,1-A1,Medium Value Plastic (#4),2.46
+1-Mar,1-B1,Medium Value Plastic (#4),1.46
+1-Mar,1-A2,Medium Value Plastic (#4),3.21
+1-Mar,1-B2,Medium Value Plastic (#4),1.29
+1-Mar,1-A3,Medium Value Plastic (#4),2.79
+1-Mar,1-B3,Medium Value Plastic (#4),2.75
+1-Mar,1-A4,Medium Value Plastic (#4),2.05
+1-Mar,1-B4,Medium Value Plastic (#4),2.73
+1-Mar,1-A5,Medium Value Plastic (#4),3.67
+1-Mar,1-B5,Medium Value Plastic (#4),2.01
+2-Mar,2-A1,Medium Value Plastic (#4),4.21
+2-Mar,2-B1,Medium Value Plastic (#4),4.05
+2-Mar,2-A2,Medium Value Plastic (#4),2.83
+2-Mar,2-B2,Medium Value Plastic (#4),5.69
+2-Mar,2-A3,Medium Value Plastic (#4),3.04
+2-Mar,2-B3,Medium Value Plastic (#4),2.53
+2-Mar,2-A4,Medium Value Plastic (#4),4.15
+2-Mar,2-B4,Medium Value Plastic (#4),3.19
+2-Mar,2-A5,Medium Value Plastic (#4),3.43
+2-Mar,2-B5,Medium Value Plastic (#4),4.1
+3-Mar,3-A1,Medium Value Plastic (#4),2.65
+3-Mar,3-B1,Medium Value Plastic (#4),3.6
+3-Mar,3-A2,Medium Value Plastic (#4),3.93
+3-Mar,3-B2,Medium Value Plastic (#4),2.54
+3-Mar,3-B3,Medium Value Plastic (#4),3.84
+3-Mar,3-A3,Medium Value Plastic (#4),2.67
+3-Mar,3-A4,Medium Value Plastic (#4),3.3
+3-Mar,3-B4,Medium Value Plastic (#4),2.83
+3-Mar,3-A5,Medium Value Plastic (#4),3.26
+3-Mar,3-B5,Medium Value Plastic (#4),3.93
+3-Mar,4-B1,Medium Value Plastic (#4),2.94
+3-Mar,4-A1,Medium Value Plastic (#4),5.35
+3-Mar,5-A1,Medium Value Plastic (#4),1.54
+3-Mar,5-B1,Medium Value Plastic (#4),4.5
+23-Feb,23-A1,PP (#5),0
+23-Feb,23-B1,PP (#5),0.09
+23-Feb,23-A2,PP (#5),0.22
+23-Feb,23-B2,PP (#5),0.17
+23-Feb,23-A3,PP (#5),0
+23-Feb,23-B3,PP (#5),0.23
+23-Feb,23-A4,PP (#5),0.69
+23-Feb,23-B4,PP (#5),0
+23-Feb,23-A5,PP (#5),0.45
+23-Feb,23-B5,PP (#5),0.35
+24-Feb,24-A1,PP (#5),0.48
+24-Feb,24-B1,PP (#5),0.24
+24-Feb,24-A2,PP (#5),0.93
+24-Feb,24-B2,PP (#5),1.17
+24-Feb,24-A3,PP (#5),0.37
+24-Feb,24-B3,PP (#5),0.31
+26-Feb,26-B1,PP (#5),0.64
+26-Feb,26-B2,PP (#5),0.59
+26-Feb,26-B3,PP (#5),1.32
+26-Feb,26-B4,PP (#5),0.2
+26-Feb,26-B5X,PP (#5),0.23
+26-Feb,26-B5Y,PP (#5),0.88
+26-Feb,26-B6,PP (#5),0.74
+26-Feb,26-B7,PP (#5),0.16
+26-Feb,26-B8,PP (#5),0.32
+26-Feb,26-B9,PP (#5),0.24
+26-Feb,26-B10,PP (#5),0.29
+27-Feb,27-A1,PP (#5),0.72
+27-Feb,27-B1,PP (#5),0.42
+27-Feb,27-A2,PP (#5),0.19
+27-Feb,27-B2,PP (#5),0.08
+27-Feb,27-A3,PP (#5),0.43
+27-Feb,27-B3,PP (#5),0.06
+27-Feb,27-A4,PP (#5),0.24
+27-Feb,27-B4,PP (#5),0.03
+27-Feb,27-A5,PP (#5),0.33
+27-Feb,27-B5,PP (#5),0.38
+28-Feb,28-B1,PP (#5),0.16
+28-Feb,28-A1,PP (#5),0.25
+28-Feb,28-A2,PP (#5),0.14
+28-Feb,28-B2,PP (#5),0.16
+28-Feb,28-A3,PP (#5),0.44
+28-Feb,28-A4,PP (#5),0.26
+28-Feb,28-B4,PP (#5),0.27
+28-Feb,28-A5,PP (#5),0.24
+28-Feb,28-B5,PP (#5),0.04
+1-Mar,1-A1,PP (#5),0.55
+1-Mar,1-B1,PP (#5),0.46
+1-Mar,1-A2,PP (#5),0.05
+1-Mar,1-B2,PP (#5),0.16
+1-Mar,1-A3,PP (#5),0.33
+1-Mar,1-B3,PP (#5),0.39
+1-Mar,1-A4,PP (#5),0.06
+1-Mar,1-B4,PP (#5),0.33
+1-Mar,1-A5,PP (#5),0.12
+1-Mar,1-B5,PP (#5),0.47
+2-Mar,2-A1,PP (#5),0.5
+2-Mar,2-B1,PP (#5),0.71
+2-Mar,2-A2,PP (#5),2.09
+2-Mar,2-B2,PP (#5),0.79
+2-Mar,2-A3,PP (#5),0.34
+2-Mar,2-B3,PP (#5),0.17
+2-Mar,2-A4,PP (#5),0.32
+2-Mar,2-B4,PP (#5),0.33
+2-Mar,2-A5,PP (#5),0.07
+2-Mar,2-B5,PP (#5),0.43
+3-Mar,3-A1,PP (#5),0.89
+3-Mar,3-B1,PP (#5),0.25
+3-Mar,3-A2,PP (#5),0.61
+3-Mar,3-B2,PP (#5),0.29
+3-Mar,3-B3,PP (#5),0.43
+3-Mar,3-A3,PP (#5),0.6
+3-Mar,3-A4,PP (#5),0.56
+3-Mar,3-B4,PP (#5),0.44
+3-Mar,3-A5,PP (#5),0.88
+3-Mar,3-B5,PP (#5),0.38
+3-Mar,4-B1,PP (#5),0.3
+3-Mar,4-A1,PP (#5),0.97
+3-Mar,5-A1,PP (#5),0.22
+3-Mar,5-B1,PP (#5),0.14
+23-Feb,23-A1,PET (#1),0.24
+23-Feb,23-B1,PET (#1),10.45
+23-Feb,23-A2,PET (#1),0.49
+23-Feb,23-B2,PET (#1),0.94
+23-Feb,23-A3,PET (#1),1.16
+23-Feb,23-B3,PET (#1),0
+23-Feb,23-A4,PET (#1),0.71
+23-Feb,23-B4,PET (#1),0.39
+23-Feb,23-A5,PET (#1),0.75
+23-Feb,23-B5,PET (#1),1.98
+24-Feb,24-A1,PET (#1),0.21
+24-Feb,24-B1,PET (#1),0.68
+24-Feb,24-A2,PET (#1),0.42
+24-Feb,24-B2,PET (#1),0.57
+24-Feb,24-A3,PET (#1),0.56
+24-Feb,24-B3,PET (#1),0.48
+26-Feb,26-B1,PET (#1),0.35
+26-Feb,26-B2,PET (#1),1.39
+26-Feb,26-B3,PET (#1),1
+26-Feb,26-B4,PET (#1),1.31
+26-Feb,26-B5X,PET (#1),0.22
+26-Feb,26-B5Y,PET (#1),1.64
+26-Feb,26-B6,PET (#1),1.76
+26-Feb,26-B7,PET (#1),0.43
+26-Feb,26-B8,PET (#1),0.42
+26-Feb,26-B9,PET (#1),0.56
+26-Feb,26-B10,PET (#1),0.23
+27-Feb,27-A1,PET (#1),0
+27-Feb,27-B1,PET (#1),0.09
+27-Feb,27-A2,PET (#1),0.47
+27-Feb,27-B2,PET (#1),0.41
+27-Feb,27-A3,PET (#1),0.08
+27-Feb,27-B3,PET (#1),0.28
+27-Feb,27-A4,PET (#1),0.97
+27-Feb,27-B4,PET (#1),0.08
+27-Feb,27-A5,PET (#1),0.53
+27-Feb,27-B5,PET (#1),0.35
+28-Feb,28-B1,PET (#1),0.36
+28-Feb,28-A1,PET (#1),0.23
+28-Feb,28-A2,PET (#1),0.46
+28-Feb,28-B2,PET (#1),0.23
+28-Feb,28-A3,PET (#1),0.86
+28-Feb,28-A4,PET (#1),2.87
+28-Feb,28-B4,PET (#1),0.46
+28-Feb,28-A5,PET (#1),1.07
+28-Feb,28-B5,PET (#1),0.35
+1-Mar,1-A1,PET (#1),0.32
+1-Mar,1-B1,PET (#1),1.72
+1-Mar,1-A2,PET (#1),0.36
+1-Mar,1-B2,PET (#1),0.54
+1-Mar,1-A3,PET (#1),0.27
+1-Mar,1-B3,PET (#1),0.24
+1-Mar,1-A4,PET (#1),0.31
+1-Mar,1-B4,PET (#1),0.32
+1-Mar,1-A5,PET (#1),0.46
+1-Mar,1-B5,PET (#1),1.18
+2-Mar,2-A1,PET (#1),0.49
+2-Mar,2-B1,PET (#1),0.3
+2-Mar,2-A2,PET (#1),0.56
+2-Mar,2-B2,PET (#1),0.4
+2-Mar,2-A3,PET (#1),0.45
+2-Mar,2-B3,PET (#1),0.23
+2-Mar,2-A4,PET (#1),0.48
+2-Mar,2-B4,PET (#1),1.09
+2-Mar,2-A5,PET (#1),0.56
+2-Mar,2-B5,PET (#1),0.93
+3-Mar,3-A1,PET (#1),1.01
+3-Mar,3-B1,PET (#1),0.56
+3-Mar,3-A2,PET (#1),0.78
+3-Mar,3-B2,PET (#1),0.9
+3-Mar,3-B3,PET (#1),0.34
+3-Mar,3-A3,PET (#1),1.05
+3-Mar,3-A4,PET (#1),0.49
+3-Mar,3-B4,PET (#1),0.89
+3-Mar,3-A5,PET (#1),0.56
+3-Mar,3-B5,PET (#1),0.64
+3-Mar,4-B1,PET (#1),0.44
+3-Mar,4-A1,PET (#1),1.21
+3-Mar,5-A1,PET (#1),0.68
+3-Mar,5-B1,PET (#1),0.72
+23-Feb,23-A1,HDPE (#2),0.23
+23-Feb,23-B1,HDPE (#2),0.98
+23-Feb,23-A2,HDPE (#2),0.49
+23-Feb,23-B2,HDPE (#2),0.85
+23-Feb,23-A3,HDPE (#2),2.76
+23-Feb,23-B3,HDPE (#2),0.32
+23-Feb,23-A4,HDPE (#2),0.07
+23-Feb,23-B4,HDPE (#2),0.7
+23-Feb,23-A5,HDPE (#2),0.1
+23-Feb,23-B5,HDPE (#2),0.63
+24-Feb,24-A1,HDPE (#2),0.4
+24-Feb,24-B1,HDPE (#2),1.34
+24-Feb,24-A2,HDPE (#2),0.08
+24-Feb,24-B2,HDPE (#2),0.24
+24-Feb,24-A3,HDPE (#2),0.31
+24-Feb,24-B3,HDPE (#2),0.5
+26-Feb,26-B1,HDPE (#2),0.4
+26-Feb,26-B2,HDPE (#2),0.19
+26-Feb,26-B3,HDPE (#2),0.49
+26-Feb,26-B4,HDPE (#2),0.23
+26-Feb,26-B5X,HDPE (#2),0
+26-Feb,26-B5Y,HDPE (#2),0.45
+26-Feb,26-B6,HDPE (#2),0
+26-Feb,26-B7,HDPE (#2),0.33
+26-Feb,26-B8,HDPE (#2),0.38
+26-Feb,26-B9,HDPE (#2),0.17
+26-Feb,26-B10,HDPE (#2),0.32
+27-Feb,27-A1,HDPE (#2),0.1
+27-Feb,27-B1,HDPE (#2),0.38
+27-Feb,27-A2,HDPE (#2),0.18
+27-Feb,27-B2,HDPE (#2),0.12
+27-Feb,27-A3,HDPE (#2),0.24
+27-Feb,27-B3,HDPE (#2),0.64
+27-Feb,27-A4,HDPE (#2),0.08
+27-Feb,27-B4,HDPE (#2),0.23
+27-Feb,27-A5,HDPE (#2),0.13
+27-Feb,27-B5,HDPE (#2),0.51
+28-Feb,28-B1,HDPE (#2),0.16
+28-Feb,28-A1,HDPE (#2),0.33
+28-Feb,28-A2,HDPE (#2),0
+28-Feb,28-B2,HDPE (#2),0.12
+28-Feb,28-A3,HDPE (#2),0.62
+28-Feb,28-A4,HDPE (#2),0.67
+28-Feb,28-B4,HDPE (#2),0.42
+28-Feb,28-A5,HDPE (#2),0.24
+28-Feb,28-B5,HDPE (#2),0.45
+1-Mar,1-A1,HDPE (#2),0
+1-Mar,1-B1,HDPE (#2),0.35
+1-Mar,1-A2,HDPE (#2),0.26
+1-Mar,1-B2,HDPE (#2),1.01
+1-Mar,1-A3,HDPE (#2),0.07
+1-Mar,1-B3,HDPE (#2),0.14
+1-Mar,1-A4,HDPE (#2),0.46
+1-Mar,1-B4,HDPE (#2),0.17
+1-Mar,1-A5,HDPE (#2),0.77
+1-Mar,1-B5,HDPE (#2),0
+2-Mar,2-A1,HDPE (#2),0.51
+2-Mar,2-B1,HDPE (#2),0.19
+2-Mar,2-A2,HDPE (#2),0.96
+2-Mar,2-B2,HDPE (#2),0.1
+2-Mar,2-A3,HDPE (#2),0.21
+2-Mar,2-B3,HDPE (#2),0
+2-Mar,2-A4,HDPE (#2),0.19
+2-Mar,2-B4,HDPE (#2),0.71
+2-Mar,2-A5,HDPE (#2),0.43
+2-Mar,2-B5,HDPE (#2),0.14
+3-Mar,3-A1,HDPE (#2),0.54
+3-Mar,3-B1,HDPE (#2),0.23
+3-Mar,3-A2,HDPE (#2),0.3
+3-Mar,3-B2,HDPE (#2),0
+3-Mar,3-B3,HDPE (#2),0.33
+3-Mar,3-A3,HDPE (#2),0.36
+3-Mar,3-A4,HDPE (#2),1.68
+3-Mar,3-B4,HDPE (#2),0.48
+3-Mar,3-A5,HDPE (#2),0.12
+3-Mar,3-B5,HDPE (#2),0.26
+3-Mar,4-B1,HDPE (#2),0.33
+3-Mar,4-A1,HDPE (#2),0.12
+3-Mar,5-A1,HDPE (#2),0.31
+3-Mar,5-B1,HDPE (#2),0
+23-Feb,23-A1,PVC (#3),0
+23-Feb,23-B1,PVC (#3),0.04
+23-Feb,23-A2,PVC (#3),0
+23-Feb,23-B2,PVC (#3),0
+23-Feb,23-A3,PVC (#3),0
+23-Feb,23-B3,PVC (#3),0.03
+23-Feb,23-A4,PVC (#3),0
+23-Feb,23-B4,PVC (#3),0
+23-Feb,23-A5,PVC (#3),0
+23-Feb,23-B5,PVC (#3),0
+24-Feb,24-A1,PVC (#3),0
+24-Feb,24-B1,PVC (#3),0.05
+24-Feb,24-A2,PVC (#3),0
+24-Feb,24-B2,PVC (#3),0
+24-Feb,24-A3,PVC (#3),0
+24-Feb,24-B3,PVC (#3),0
+26-Feb,26-B1,PVC (#3),0
+26-Feb,26-B2,PVC (#3),0
+26-Feb,26-B3,PVC (#3),0
+26-Feb,26-B4,PVC (#3),0
+26-Feb,26-B5X,PVC (#3),0
+26-Feb,26-B5Y,PVC (#3),0
+26-Feb,26-B6,PVC (#3),0
+26-Feb,26-B7,PVC (#3),0
+26-Feb,26-B8,PVC (#3),0
+26-Feb,26-B9,PVC (#3),0
+26-Feb,26-B10,PVC (#3),0
+27-Feb,27-A1,PVC (#3),0
+27-Feb,27-B1,PVC (#3),0
+27-Feb,27-A2,PVC (#3),0
+27-Feb,27-B2,PVC (#3),0
+27-Feb,27-A3,PVC (#3),0
+27-Feb,27-B3,PVC (#3),0
+27-Feb,27-A4,PVC (#3),0.16
+27-Feb,27-B4,PVC (#3),0
+27-Feb,27-A5,PVC (#3),0
+27-Feb,27-B5,PVC (#3),0
+28-Feb,28-B1,PVC (#3),0
+28-Feb,28-A1,PVC (#3),0
+28-Feb,28-A2,PVC (#3),0
+28-Feb,28-B2,PVC (#3),0
+28-Feb,28-A3,PVC (#3),0
+28-Feb,28-A4,PVC (#3),0
+28-Feb,28-B4,PVC (#3),0
+28-Feb,28-A5,PVC (#3),0.06
+28-Feb,28-B5,PVC (#3),0
+1-Mar,1-A1,PVC (#3),0.05
+1-Mar,1-B1,PVC (#3),1.23
+1-Mar,1-A2,PVC (#3),0
+1-Mar,1-B2,PVC (#3),0.04
+1-Mar,1-A3,PVC (#3),0
+1-Mar,1-B3,PVC (#3),0.16
+1-Mar,1-A4,PVC (#3),0.36
+1-Mar,1-B4,PVC (#3),0
+1-Mar,1-A5,PVC (#3),0.02
+1-Mar,1-B5,PVC (#3),0
+2-Mar,2-A1,PVC (#3),0
+2-Mar,2-B1,PVC (#3),0
+2-Mar,2-A2,PVC (#3),0
+2-Mar,2-B2,PVC (#3),0
+2-Mar,2-A3,PVC (#3),0
+2-Mar,2-B3,PVC (#3),0
+2-Mar,2-A4,PVC (#3),0.7
+2-Mar,2-B4,PVC (#3),0.18
+2-Mar,2-A5,PVC (#3),0
+2-Mar,2-B5,PVC (#3),0.03
+3-Mar,3-A1,PVC (#3),0
+3-Mar,3-B1,PVC (#3),0
+3-Mar,3-A2,PVC (#3),0
+3-Mar,3-B2,PVC (#3),0
+3-Mar,3-B3,PVC (#3),0
+3-Mar,3-A3,PVC (#3),0
+3-Mar,3-A4,PVC (#3),0
+3-Mar,3-B4,PVC (#3),0.12
+3-Mar,3-A5,PVC (#3),0
+3-Mar,3-B5,PVC (#3),0
+3-Mar,4-B1,PVC (#3),0
+3-Mar,4-A1,PVC (#3),0
+3-Mar,5-A1,PVC (#3),0.03
+3-Mar,5-B1,PVC (#3),0
+23-Feb,23-A1,Rubber,0
+23-Feb,23-B1,Rubber,0.23
+23-Feb,23-A2,Rubber,0
+23-Feb,23-B2,Rubber,1.68
+23-Feb,23-A3,Rubber,0.85
+23-Feb,23-B3,Rubber,0
+23-Feb,23-A4,Rubber,0.13
+23-Feb,23-B4,Rubber,0.39
+23-Feb,23-A5,Rubber,0.48
+23-Feb,23-B5,Rubber,0.24
+24-Feb,24-A1,Rubber,0.09
+24-Feb,24-B1,Rubber,0.57
+24-Feb,24-A2,Rubber,1.07
+24-Feb,24-B2,Rubber,1.87
+24-Feb,24-A3,Rubber,0.48
+24-Feb,24-B3,Rubber,0.18
+26-Feb,26-B1,Rubber,0.54
+26-Feb,26-B2,Rubber,0
+26-Feb,26-B3,Rubber,0.25
+26-Feb,26-B4,Rubber,0
+26-Feb,26-B5X,Rubber,0.07
+26-Feb,26-B5Y,Rubber,1.49
+26-Feb,26-B6,Rubber,1.01
+26-Feb,26-B7,Rubber,0.27
+26-Feb,26-B8,Rubber,0.1
+26-Feb,26-B9,Rubber,0.37
+26-Feb,26-B10,Rubber,0.1
+27-Feb,27-A1,Rubber,0
+27-Feb,27-B1,Rubber,1.02
+27-Feb,27-A2,Rubber,0.17
+27-Feb,27-B2,Rubber,0.03
+27-Feb,27-A3,Rubber,0
+27-Feb,27-B3,Rubber,0.34
+27-Feb,27-A4,Rubber,0
+27-Feb,27-B4,Rubber,0
+27-Feb,27-A5,Rubber,0.13
+27-Feb,27-B5,Rubber,0
+28-Feb,28-B1,Rubber,0.84
+28-Feb,28-A1,Rubber,0.33
+28-Feb,28-A2,Rubber,0.38
+28-Feb,28-B2,Rubber,0.06
+28-Feb,28-A3,Rubber,0.64
+28-Feb,28-A4,Rubber,0
+28-Feb,28-B4,Rubber,0
+28-Feb,28-A5,Rubber,0
+28-Feb,28-B5,Rubber,0
+1-Mar,1-A1,Rubber,0.03
+1-Mar,1-B1,Rubber,0.25
+1-Mar,1-A2,Rubber,1.08
+1-Mar,1-B2,Rubber,1.07
+1-Mar,1-A3,Rubber,0.22
+1-Mar,1-B3,Rubber,2.32
+1-Mar,1-A4,Rubber,0
+1-Mar,1-B4,Rubber,0.98
+1-Mar,1-A5,Rubber,0.14
+1-Mar,1-B5,Rubber,0
+2-Mar,2-A1,Rubber,0.1
+2-Mar,2-B1,Rubber,0.3
+2-Mar,2-A2,Rubber,0
+2-Mar,2-B2,Rubber,0.48
+2-Mar,2-A3,Rubber,0
+2-Mar,2-B3,Rubber,0
+2-Mar,2-A4,Rubber,0
+2-Mar,2-B4,Rubber,0
+2-Mar,2-A5,Rubber,0.14
+2-Mar,2-B5,Rubber,0
+3-Mar,3-A1,Rubber,0.45
+3-Mar,3-B1,Rubber,0
+3-Mar,3-A2,Rubber,0.32
+3-Mar,3-B2,Rubber,0.08
+3-Mar,3-B3,Rubber,0.44
+3-Mar,3-A3,Rubber,0
+3-Mar,3-A4,Rubber,0.03
+3-Mar,3-B4,Rubber,0.23
+3-Mar,3-A5,Rubber,0.06
+3-Mar,3-B5,Rubber,0.22
+3-Mar,4-B1,Rubber,0.32
+3-Mar,4-A1,Rubber,0
+3-Mar,5-A1,Rubber,0
+3-Mar,5-B1,Rubber,0
+23-Feb,23-A1,Ferrous Metals,0
+23-Feb,23-B1,Ferrous Metals,0
+23-Feb,23-A2,Ferrous Metals,0
+23-Feb,23-B2,Ferrous Metals,0
+23-Feb,23-A3,Ferrous Metals,0
+23-Feb,23-B3,Ferrous Metals,0
+23-Feb,23-A4,Ferrous Metals,0
+23-Feb,23-B4,Ferrous Metals,0.18
+23-Feb,23-A5,Ferrous Metals,0.69
+23-Feb,23-B5,Ferrous Metals,1.57
+24-Feb,24-A1,Ferrous Metals,1.13
+24-Feb,24-B1,Ferrous Metals,0
+24-Feb,24-A2,Ferrous Metals,0.1
+24-Feb,24-B2,Ferrous Metals,0
+24-Feb,24-A3,Ferrous Metals,0
+24-Feb,24-B3,Ferrous Metals,0
+26-Feb,26-B1,Ferrous Metals,0
+26-Feb,26-B2,Ferrous Metals,0
+26-Feb,26-B3,Ferrous Metals,0
+26-Feb,26-B4,Ferrous Metals,0.31
+26-Feb,26-B5X,Ferrous Metals,0
+26-Feb,26-B5Y,Ferrous Metals,0
+26-Feb,26-B6,Ferrous Metals,0.22
+26-Feb,26-B7,Ferrous Metals,0
+26-Feb,26-B8,Ferrous Metals,0.21
+26-Feb,26-B9,Ferrous Metals,0.59
+26-Feb,26-B10,Ferrous Metals,0
+27-Feb,27-A1,Ferrous Metals,0.99
+27-Feb,27-B1,Ferrous Metals,0.23
+27-Feb,27-A2,Ferrous Metals,0
+27-Feb,27-B2,Ferrous Metals,0.42
+27-Feb,27-A3,Ferrous Metals,0
+27-Feb,27-B3,Ferrous Metals,0.24
+27-Feb,27-A4,Ferrous Metals,0
+27-Feb,27-B4,Ferrous Metals,0.55
+27-Feb,27-A5,Ferrous Metals,0
+27-Feb,27-B5,Ferrous Metals,0.56
+28-Feb,28-B1,Ferrous Metals,0
+28-Feb,28-A1,Ferrous Metals,0.84
+28-Feb,28-A2,Ferrous Metals,0.29
+28-Feb,28-B2,Ferrous Metals,0.23
+28-Feb,28-A3,Ferrous Metals,0
+28-Feb,28-A4,Ferrous Metals,0.42
+28-Feb,28-B4,Ferrous Metals,0.27
+28-Feb,28-A5,Ferrous Metals,0.59
+28-Feb,28-B5,Ferrous Metals,0.67
+1-Mar,1-A1,Ferrous Metals,0
+1-Mar,1-B1,Ferrous Metals,1.41
+1-Mar,1-A2,Ferrous Metals,0
+1-Mar,1-B2,Ferrous Metals,0
+1-Mar,1-A3,Ferrous Metals,0.23
+1-Mar,1-B3,Ferrous Metals,0.22
+1-Mar,1-A4,Ferrous Metals,0.43
+1-Mar,1-B4,Ferrous Metals,0
+1-Mar,1-A5,Ferrous Metals,0
+1-Mar,1-B5,Ferrous Metals,0
+2-Mar,2-A1,Ferrous Metals,0.33
+2-Mar,2-B1,Ferrous Metals,0
+2-Mar,2-A2,Ferrous Metals,1.16
+2-Mar,2-B2,Ferrous Metals,0
+2-Mar,2-A3,Ferrous Metals,0.2
+2-Mar,2-B3,Ferrous Metals,0
+2-Mar,2-A4,Ferrous Metals,0
+2-Mar,2-B4,Ferrous Metals,0
+2-Mar,2-A5,Ferrous Metals,0.72
+2-Mar,2-B5,Ferrous Metals,0
+3-Mar,3-A1,Ferrous Metals,0
+3-Mar,3-B1,Ferrous Metals,0.4
+3-Mar,3-A2,Ferrous Metals,0.23
+3-Mar,3-B2,Ferrous Metals,0
+3-Mar,3-B3,Ferrous Metals,0
+3-Mar,3-A3,Ferrous Metals,0
+3-Mar,3-A4,Ferrous Metals,0.88
+3-Mar,3-B4,Ferrous Metals,0
+3-Mar,3-A5,Ferrous Metals,0
+3-Mar,3-B5,Ferrous Metals,0
+3-Mar,4-B1,Ferrous Metals,0
+3-Mar,4-A1,Ferrous Metals,0
+3-Mar,5-A1,Ferrous Metals,0
+3-Mar,5-B1,Ferrous Metals,1.16
+23-Feb,23-A1,Other Ferrous Metals,0.66
+23-Feb,23-B1,Other Ferrous Metals,1.17
+23-Feb,23-A2,Other Ferrous Metals,0.59
+23-Feb,23-B2,Other Ferrous Metals,3.85
+23-Feb,23-A3,Other Ferrous Metals,0.26
+23-Feb,23-B3,Other Ferrous Metals,0.68
+23-Feb,23-A4,Other Ferrous Metals,0.6
+23-Feb,23-B4,Other Ferrous Metals,0.22
+23-Feb,23-A5,Other Ferrous Metals,0.09
+23-Feb,23-B5,Other Ferrous Metals,0.36
+24-Feb,24-A1,Other Ferrous Metals,0
+24-Feb,24-B1,Other Ferrous Metals,0
+24-Feb,24-A2,Other Ferrous Metals,0
+24-Feb,24-B2,Other Ferrous Metals,0
+24-Feb,24-A3,Other Ferrous Metals,0.89
+24-Feb,24-B3,Other Ferrous Metals,0.4
+26-Feb,26-B1,Other Ferrous Metals,0.7
+26-Feb,26-B2,Other Ferrous Metals,0.84
+26-Feb,26-B3,Other Ferrous Metals,1.06
+26-Feb,26-B4,Other Ferrous Metals,0.27
+26-Feb,26-B5X,Other Ferrous Metals,0.51
+26-Feb,26-B5Y,Other Ferrous Metals,2.34
+26-Feb,26-B6,Other Ferrous Metals,1.78
+26-Feb,26-B7,Other Ferrous Metals,1.85
+26-Feb,26-B8,Other Ferrous Metals,1.5
+26-Feb,26-B9,Other Ferrous Metals,1.96
+26-Feb,26-B10,Other Ferrous Metals,1.03
+27-Feb,27-A1,Other Ferrous Metals,0
+27-Feb,27-B1,Other Ferrous Metals,0.45
+27-Feb,27-A2,Other Ferrous Metals,0.64
+27-Feb,27-B2,Other Ferrous Metals,0
+27-Feb,27-A3,Other Ferrous Metals,1.13
+27-Feb,27-B3,Other Ferrous Metals,0.65
+27-Feb,27-A4,Other Ferrous Metals,0.34
+27-Feb,27-B4,Other Ferrous Metals,0
+27-Feb,27-A5,Other Ferrous Metals,0
+27-Feb,27-B5,Other Ferrous Metals,0.24
+28-Feb,28-B1,Other Ferrous Metals,0.47
+28-Feb,28-A1,Other Ferrous Metals,0.31
+28-Feb,28-A2,Other Ferrous Metals,0.91
+28-Feb,28-B2,Other Ferrous Metals,0.34
+28-Feb,28-A3,Other Ferrous Metals,1.44
+28-Feb,28-A4,Other Ferrous Metals,0.26
+28-Feb,28-B4,Other Ferrous Metals,0.92
+28-Feb,28-A5,Other Ferrous Metals,0.61
+28-Feb,28-B5,Other Ferrous Metals,0
+1-Mar,1-A1,Other Ferrous Metals,1.34
+1-Mar,1-B1,Other Ferrous Metals,1.57
+1-Mar,1-A2,Other Ferrous Metals,0.41
+1-Mar,1-B2,Other Ferrous Metals,0.29
+1-Mar,1-A3,Other Ferrous Metals,0.78
+1-Mar,1-B3,Other Ferrous Metals,0.97
+1-Mar,1-A4,Other Ferrous Metals,1.41
+1-Mar,1-B4,Other Ferrous Metals,1.39
+1-Mar,1-A5,Other Ferrous Metals,1.35
+1-Mar,1-B5,Other Ferrous Metals,1.47
+2-Mar,2-A1,Other Ferrous Metals,0.8
+2-Mar,2-B1,Other Ferrous Metals,1.12
+2-Mar,2-A2,Other Ferrous Metals,0.79
+2-Mar,2-B2,Other Ferrous Metals,1.49
+2-Mar,2-A3,Other Ferrous Metals,1.44
+2-Mar,2-B3,Other Ferrous Metals,0.89
+2-Mar,2-A4,Other Ferrous Metals,0.34
+2-Mar,2-B4,Other Ferrous Metals,2.1
+2-Mar,2-A5,Other Ferrous Metals,0.22
+2-Mar,2-B5,Other Ferrous Metals,2.07
+3-Mar,3-A1,Other Ferrous Metals,0.65
+3-Mar,3-B1,Other Ferrous Metals,0
+3-Mar,3-A2,Other Ferrous Metals,1.04
+3-Mar,3-B2,Other Ferrous Metals,0.75
+3-Mar,3-B3,Other Ferrous Metals,1.13
+3-Mar,3-A3,Other Ferrous Metals,1.58
+3-Mar,3-A4,Other Ferrous Metals,0.82
+3-Mar,3-B4,Other Ferrous Metals,2.47
+3-Mar,3-A5,Other Ferrous Metals,1.7
+3-Mar,3-B5,Other Ferrous Metals,1.64
+3-Mar,4-B1,Other Ferrous Metals,0.83
+3-Mar,4-A1,Other Ferrous Metals,1.18
+3-Mar,5-A1,Other Ferrous Metals,0.65
+3-Mar,5-B1,Other Ferrous Metals,0.9
+23-Feb,23-A1,Aluminum Waste,0
+23-Feb,23-B1,Aluminum Waste,0.17
+23-Feb,23-A2,Aluminum Waste,0.34
+23-Feb,23-B2,Aluminum Waste,0.08
+23-Feb,23-A3,Aluminum Waste,0.07
+23-Feb,23-B3,Aluminum Waste,0.09
+23-Feb,23-A4,Aluminum Waste,0
+23-Feb,23-B4,Aluminum Waste,0.11
+23-Feb,23-A5,Aluminum Waste,0.58
+23-Feb,23-B5,Aluminum Waste,0.68
+24-Feb,24-A1,Aluminum Waste,0.06
+24-Feb,24-B1,Aluminum Waste,1.16
+24-Feb,24-A2,Aluminum Waste,0.78
+24-Feb,24-B2,Aluminum Waste,0.55
+24-Feb,24-A3,Aluminum Waste,0
+24-Feb,24-B3,Aluminum Waste,0.64
+26-Feb,26-B1,Aluminum Waste,0.5
+26-Feb,26-B2,Aluminum Waste,0.16
+26-Feb,26-B3,Aluminum Waste,0.66
+26-Feb,26-B4,Aluminum Waste,0.19
+26-Feb,26-B5X,Aluminum Waste,0
+26-Feb,26-B5Y,Aluminum Waste,0.1
+26-Feb,26-B6,Aluminum Waste,0.4
+26-Feb,26-B7,Aluminum Waste,0
+26-Feb,26-B8,Aluminum Waste,0
+26-Feb,26-B9,Aluminum Waste,0.08
+26-Feb,26-B10,Aluminum Waste,0.28
+27-Feb,27-A1,Aluminum Waste,0
+27-Feb,27-B1,Aluminum Waste,0.09
+27-Feb,27-A2,Aluminum Waste,0
+27-Feb,27-B2,Aluminum Waste,0.11
+27-Feb,27-A3,Aluminum Waste,0.24
+27-Feb,27-B3,Aluminum Waste,0
+27-Feb,27-A4,Aluminum Waste,0.1
+27-Feb,27-B4,Aluminum Waste,0
+27-Feb,27-A5,Aluminum Waste,0.02
+27-Feb,27-B5,Aluminum Waste,0.14
+28-Feb,28-B1,Aluminum Waste,0
+28-Feb,28-A1,Aluminum Waste,0
+28-Feb,28-A2,Aluminum Waste,0.06
+28-Feb,28-B2,Aluminum Waste,0
+28-Feb,28-A3,Aluminum Waste,0.12
+28-Feb,28-A4,Aluminum Waste,0.63
+28-Feb,28-B4,Aluminum Waste,0.11
+28-Feb,28-A5,Aluminum Waste,0.08
+28-Feb,28-B5,Aluminum Waste,0.02
+1-Mar,1-A1,Aluminum Waste,0
+1-Mar,1-B1,Aluminum Waste,0.05
+1-Mar,1-A2,Aluminum Waste,0
+1-Mar,1-B2,Aluminum Waste,0.03
+1-Mar,1-A3,Aluminum Waste,0
+1-Mar,1-B3,Aluminum Waste,0.06
+1-Mar,1-A4,Aluminum Waste,0
+1-Mar,1-B4,Aluminum Waste,0
+1-Mar,1-A5,Aluminum Waste,0.1
+1-Mar,1-B5,Aluminum Waste,0.09
+2-Mar,2-A1,Aluminum Waste,0
+2-Mar,2-B1,Aluminum Waste,0
+2-Mar,2-A2,Aluminum Waste,0.03
+2-Mar,2-B2,Aluminum Waste,0.08
+2-Mar,2-A3,Aluminum Waste,0.01
+2-Mar,2-B3,Aluminum Waste,0
+2-Mar,2-A4,Aluminum Waste,0.12
+2-Mar,2-B4,Aluminum Waste,0
+2-Mar,2-A5,Aluminum Waste,0
+2-Mar,2-B5,Aluminum Waste,0.04
+3-Mar,3-A1,Aluminum Waste,0
+3-Mar,3-B1,Aluminum Waste,0.18
+3-Mar,3-A2,Aluminum Waste,0
+3-Mar,3-B2,Aluminum Waste,0.34
+3-Mar,3-B3,Aluminum Waste,0.13
+3-Mar,3-A3,Aluminum Waste,0.06
+3-Mar,3-A4,Aluminum Waste,0.04
+3-Mar,3-B4,Aluminum Waste,0.05
+3-Mar,3-A5,Aluminum Waste,0.15
+3-Mar,3-B5,Aluminum Waste,0
+3-Mar,4-B1,Aluminum Waste,0
+3-Mar,4-A1,Aluminum Waste,0.37
+3-Mar,5-A1,Aluminum Waste,0
+3-Mar,5-B1,Aluminum Waste,0.03
+23-Feb,23-A1,Onter Non-Ferrous Metals,0
+23-Feb,23-B1,Onter Non-Ferrous Metals,0.12
+23-Feb,23-A2,Onter Non-Ferrous Metals,0
+23-Feb,23-B2,Onter Non-Ferrous Metals,0.04
+23-Feb,23-A3,Onter Non-Ferrous Metals,0.17
+23-Feb,23-B3,Onter Non-Ferrous Metals,0.1
+23-Feb,23-A4,Onter Non-Ferrous Metals,0.01
+23-Feb,23-B4,Onter Non-Ferrous Metals,0
+23-Feb,23-A5,Onter Non-Ferrous Metals,0.13
+23-Feb,23-B5,Onter Non-Ferrous Metals,0.06
+24-Feb,24-A1,Onter Non-Ferrous Metals,1.72
+24-Feb,24-B1,Onter Non-Ferrous Metals,0.64
+24-Feb,24-A2,Onter Non-Ferrous Metals,1.38
+24-Feb,24-B2,Onter Non-Ferrous Metals,1.55
+24-Feb,24-A3,Onter Non-Ferrous Metals,0.13
+24-Feb,24-B3,Onter Non-Ferrous Metals,0.68
+26-Feb,26-B1,Onter Non-Ferrous Metals,0
+26-Feb,26-B2,Onter Non-Ferrous Metals,0.49
+26-Feb,26-B3,Onter Non-Ferrous Metals,0.6
+26-Feb,26-B4,Onter Non-Ferrous Metals,0.62
+26-Feb,26-B5X,Onter Non-Ferrous Metals,0.3
+26-Feb,26-B5Y,Onter Non-Ferrous Metals,0
+26-Feb,26-B6,Onter Non-Ferrous Metals,0.13
+26-Feb,26-B7,Onter Non-Ferrous Metals,3.1
+26-Feb,26-B8,Onter Non-Ferrous Metals,0.17
+26-Feb,26-B9,Onter Non-Ferrous Metals,0.03
+26-Feb,26-B10,Onter Non-Ferrous Metals,0.13
+27-Feb,27-A1,Onter Non-Ferrous Metals,1.27
+27-Feb,27-B1,Onter Non-Ferrous Metals,0.89
+27-Feb,27-A2,Onter Non-Ferrous Metals,0.47
+27-Feb,27-B2,Onter Non-Ferrous Metals,0.29
+27-Feb,27-A3,Onter Non-Ferrous Metals,0.27
+27-Feb,27-B3,Onter Non-Ferrous Metals,0.42
+27-Feb,27-A4,Onter Non-Ferrous Metals,0.97
+27-Feb,27-B4,Onter Non-Ferrous Metals,0.33
+27-Feb,27-A5,Onter Non-Ferrous Metals,0.57
+27-Feb,27-B5,Onter Non-Ferrous Metals,0.93
+28-Feb,28-B1,Onter Non-Ferrous Metals,0.85
+28-Feb,28-A1,Onter Non-Ferrous Metals,0.4
+28-Feb,28-A2,Onter Non-Ferrous Metals,0.54
+28-Feb,28-B2,Onter Non-Ferrous Metals,0.99
+28-Feb,28-A3,Onter Non-Ferrous Metals,0.17
+28-Feb,28-A4,Onter Non-Ferrous Metals,0.3
+28-Feb,28-B4,Onter Non-Ferrous Metals,0.69
+28-Feb,28-A5,Onter Non-Ferrous Metals,0.28
+28-Feb,28-B5,Onter Non-Ferrous Metals,0.72
+1-Mar,1-A1,Onter Non-Ferrous Metals,0.53
+1-Mar,1-B1,Onter Non-Ferrous Metals,0.69
+1-Mar,1-A2,Onter Non-Ferrous Metals,0.7
+1-Mar,1-B2,Onter Non-Ferrous Metals,0.53
+1-Mar,1-A3,Onter Non-Ferrous Metals,0.36
+1-Mar,1-B3,Onter Non-Ferrous Metals,0.82
+1-Mar,1-A4,Onter Non-Ferrous Metals,0.52
+1-Mar,1-B4,Onter Non-Ferrous Metals,0.62
+1-Mar,1-A5,Onter Non-Ferrous Metals,0.76
+1-Mar,1-B5,Onter Non-Ferrous Metals,0.83
+2-Mar,2-A1,Onter Non-Ferrous Metals,1.05
+2-Mar,2-B1,Onter Non-Ferrous Metals,0.97
+2-Mar,2-A2,Onter Non-Ferrous Metals,1.09
+2-Mar,2-B2,Onter Non-Ferrous Metals,0.78
+2-Mar,2-A3,Onter Non-Ferrous Metals,0.99
+2-Mar,2-B3,Onter Non-Ferrous Metals,0.94
+2-Mar,2-A4,Onter Non-Ferrous Metals,0.9
+2-Mar,2-B4,Onter Non-Ferrous Metals,1.05
+2-Mar,2-A5,Onter Non-Ferrous Metals,0.64
+2-Mar,2-B5,Onter Non-Ferrous Metals,0.64
+3-Mar,3-A1,Onter Non-Ferrous Metals,1.27
+3-Mar,3-B1,Onter Non-Ferrous Metals,0.46
+3-Mar,3-A2,Onter Non-Ferrous Metals,1.19
+3-Mar,3-B2,Onter Non-Ferrous Metals,0.55
+3-Mar,3-B3,Onter Non-Ferrous Metals,1.3
+3-Mar,3-A3,Onter Non-Ferrous Metals,1.28
+3-Mar,3-A4,Onter Non-Ferrous Metals,1.05
+3-Mar,3-B4,Onter Non-Ferrous Metals,1.45
+3-Mar,3-A5,Onter Non-Ferrous Metals,1.51
+3-Mar,3-B5,Onter Non-Ferrous Metals,1.11
+3-Mar,4-B1,Onter Non-Ferrous Metals,0.81
+3-Mar,4-A1,Onter Non-Ferrous Metals,1.48
+3-Mar,5-A1,Onter Non-Ferrous Metals,0.8
+3-Mar,5-B1,Onter Non-Ferrous Metals,0.82
+23-Feb,23-A1,Copper waste,0
+23-Feb,23-B1,Copper waste,0.09
+23-Feb,23-A2,Copper waste,1.12
+23-Feb,23-B2,Copper waste,0.01
+23-Feb,23-A3,Copper waste,0
+23-Feb,23-B3,Copper waste,0
+23-Feb,23-A4,Copper waste,0.02
+23-Feb,23-B4,Copper waste,0
+23-Feb,23-A5,Copper waste,0.03
+23-Feb,23-B5,Copper waste,0.04
+24-Feb,24-A1,Copper waste,0
+24-Feb,24-B1,Copper waste,0
+24-Feb,24-A2,Copper waste,0
+24-Feb,24-B2,Copper waste,0
+24-Feb,24-A3,Copper waste,0.02
+24-Feb,24-B3,Copper waste,0
+26-Feb,26-B1,Copper waste,0
+26-Feb,26-B2,Copper waste,0
+26-Feb,26-B3,Copper waste,0
+26-Feb,26-B4,Copper waste,0
+26-Feb,26-B5X,Copper waste,0
+26-Feb,26-B5Y,Copper waste,0
+26-Feb,26-B6,Copper waste,0
+26-Feb,26-B7,Copper waste,0
+26-Feb,26-B8,Copper waste,0
+26-Feb,26-B9,Copper waste,0
+26-Feb,26-B10,Copper waste,0
+27-Feb,27-A1,Copper waste,0
+27-Feb,27-B1,Copper waste,0
+27-Feb,27-A2,Copper waste,0
+27-Feb,27-B2,Copper waste,0
+27-Feb,27-A3,Copper waste,0
+27-Feb,27-B3,Copper waste,0
+27-Feb,27-A4,Copper waste,0
+27-Feb,27-B4,Copper waste,0
+27-Feb,27-A5,Copper waste,0
+27-Feb,27-B5,Copper waste,0.02
+28-Feb,28-B1,Copper waste,0
+28-Feb,28-A1,Copper waste,0
+28-Feb,28-A2,Copper waste,0.01
+28-Feb,28-B2,Copper waste,0.13
+28-Feb,28-A3,Copper waste,0
+28-Feb,28-A4,Copper waste,0
+28-Feb,28-B4,Copper waste,0
+28-Feb,28-A5,Copper waste,0
+28-Feb,28-B5,Copper waste,0.02
+1-Mar,1-A1,Copper waste,0
+1-Mar,1-B1,Copper waste,0.02
+1-Mar,1-A2,Copper waste,0
+1-Mar,1-B2,Copper waste,0
+1-Mar,1-A3,Copper waste,0
+1-Mar,1-B3,Copper waste,0.03
+1-Mar,1-A4,Copper waste,0.02
+1-Mar,1-B4,Copper waste,0.03
+1-Mar,1-A5,Copper waste,0
+1-Mar,1-B5,Copper waste,0
+2-Mar,2-A1,Copper waste,0
+2-Mar,2-B1,Copper waste,0.01
+2-Mar,2-A2,Copper waste,0
+2-Mar,2-B2,Copper waste,0
+2-Mar,2-A3,Copper waste,0
+2-Mar,2-B3,Copper waste,0
+2-Mar,2-A4,Copper waste,0
+2-Mar,2-B4,Copper waste,0
+2-Mar,2-A5,Copper waste,0
+2-Mar,2-B5,Copper waste,0
+3-Mar,3-A1,Copper waste,0
+3-Mar,3-B1,Copper waste,0
+3-Mar,3-A2,Copper waste,0
+3-Mar,3-B2,Copper waste,0
+3-Mar,3-B3,Copper waste,0
+3-Mar,3-A3,Copper waste,0
+3-Mar,3-A4,Copper waste,0.04
+3-Mar,3-B4,Copper waste,0
+3-Mar,3-A5,Copper waste,0
+3-Mar,3-B5,Copper waste,0.11
+3-Mar,4-B1,Copper waste,0.04
+3-Mar,4-A1,Copper waste,0
+3-Mar,5-A1,Copper waste,0.08
+3-Mar,5-B1,Copper waste,0
+23-Feb,23-A1,Glass,0
+23-Feb,23-B1,Glass,0.69
+23-Feb,23-A2,Glass,0
+23-Feb,23-B2,Glass,2.01
+23-Feb,23-A3,Glass,2.77
+23-Feb,23-B3,Glass,0.94
+23-Feb,23-A4,Glass,0.19
+23-Feb,23-B4,Glass,0
+23-Feb,23-A5,Glass,1.42
+23-Feb,23-B5,Glass,3.32
+24-Feb,24-A1,Glass,0.87
+24-Feb,24-B1,Glass,0.6
+24-Feb,24-A2,Glass,1.16
+24-Feb,24-B2,Glass,0.59
+24-Feb,24-A3,Glass,0.43
+24-Feb,24-B3,Glass,1.06
+26-Feb,26-B1,Glass,1.21
+26-Feb,26-B2,Glass,4.13
+26-Feb,26-B3,Glass,1.44
+26-Feb,26-B4,Glass,9.72
+26-Feb,26-B5X,Glass,0
+26-Feb,26-B5Y,Glass,1.33
+26-Feb,26-B6,Glass,2.75
+26-Feb,26-B7,Glass,3.1
+26-Feb,26-B8,Glass,0.68
+26-Feb,26-B9,Glass,0.17
+26-Feb,26-B10,Glass,0.46
+27-Feb,27-A1,Glass,0
+27-Feb,27-B1,Glass,0.16
+27-Feb,27-A2,Glass,0.81
+27-Feb,27-B2,Glass,0.15
+27-Feb,27-A3,Glass,1.06
+27-Feb,27-B3,Glass,0
+27-Feb,27-A4,Glass,0.25
+27-Feb,27-B4,Glass,0.16
+27-Feb,27-A5,Glass,0
+27-Feb,27-B5,Glass,3.44
+28-Feb,28-B1,Glass,3.2
+28-Feb,28-A1,Glass,0.76
+28-Feb,28-A2,Glass,0.23
+28-Feb,28-B2,Glass,0.45
+28-Feb,28-A3,Glass,2.05
+28-Feb,28-A4,Glass,2.49
+28-Feb,28-B4,Glass,1.32
+28-Feb,28-A5,Glass,1.31
+28-Feb,28-B5,Glass,0.02
+1-Mar,1-A1,Glass,1.22
+1-Mar,1-B1,Glass,0.5
+1-Mar,1-A2,Glass,5.34
+1-Mar,1-B2,Glass,1.38
+1-Mar,1-A3,Glass,0.36
+1-Mar,1-B3,Glass,2.1
+1-Mar,1-A4,Glass,0.65
+1-Mar,1-B4,Glass,0.93
+1-Mar,1-A5,Glass,0.7
+1-Mar,1-B5,Glass,2.43
+2-Mar,2-A1,Glass,1.01
+2-Mar,2-B1,Glass,1.09
+2-Mar,2-A2,Glass,0.75
+2-Mar,2-B2,Glass,2.09
+2-Mar,2-A3,Glass,0.57
+2-Mar,2-B3,Glass,0
+2-Mar,2-A4,Glass,0.81
+2-Mar,2-B4,Glass,0.93
+2-Mar,2-A5,Glass,0.47
+2-Mar,2-B5,Glass,3.11
+3-Mar,3-A1,Glass,0.95
+3-Mar,3-B1,Glass,7.26
+3-Mar,3-A2,Glass,0.38
+3-Mar,3-B2,Glass,1.6
+3-Mar,3-B3,Glass,1.89
+3-Mar,3-A3,Glass,1.11
+3-Mar,3-A4,Glass,1.55
+3-Mar,3-B4,Glass,1.32
+3-Mar,3-A5,Glass,0.12
+3-Mar,3-B5,Glass,0.24
+3-Mar,4-B1,Glass,1
+3-Mar,4-A1,Glass,0.89
+3-Mar,5-A1,Glass,0.38
+3-Mar,5-B1,Glass,0.45
+23-Feb,23-A1,Leather,0
+23-Feb,23-B1,Leather,0.89
+23-Feb,23-A2,Leather,0
+23-Feb,23-B2,Leather,0.13
+23-Feb,23-A3,Leather,1.33
+23-Feb,23-B3,Leather,0.89
+23-Feb,23-A4,Leather,0.62
+23-Feb,23-B4,Leather,1.98
+23-Feb,23-A5,Leather,0
+23-Feb,23-B5,Leather,0
+24-Feb,24-A1,Leather,0.33
+24-Feb,24-B1,Leather,0
+24-Feb,24-A2,Leather,0
+24-Feb,24-B2,Leather,0
+24-Feb,24-A3,Leather,0
+24-Feb,24-B3,Leather,0
+26-Feb,26-B1,Leather,0
+26-Feb,26-B2,Leather,1.16
+26-Feb,26-B3,Leather,0
+26-Feb,26-B4,Leather,0
+26-Feb,26-B5X,Leather,0
+26-Feb,26-B5Y,Leather,0
+26-Feb,26-B6,Leather,1.38
+26-Feb,26-B7,Leather,0
+26-Feb,26-B8,Leather,0.57
+26-Feb,26-B9,Leather,0
+26-Feb,26-B10,Leather,0
+27-Feb,27-A1,Leather,2.46
+27-Feb,27-B1,Leather,0
+27-Feb,27-A2,Leather,0.7
+27-Feb,27-B2,Leather,0.61
+27-Feb,27-A3,Leather,0.48
+27-Feb,27-B3,Leather,0.41
+27-Feb,27-A4,Leather,0
+27-Feb,27-B4,Leather,0.86
+27-Feb,27-A5,Leather,3.07
+27-Feb,27-B5,Leather,0
+28-Feb,28-B1,Leather,0.9
+28-Feb,28-A1,Leather,0
+28-Feb,28-A2,Leather,0
+28-Feb,28-B2,Leather,0
+28-Feb,28-A3,Leather,0.19
+28-Feb,28-A4,Leather,0
+28-Feb,28-B4,Leather,0
+28-Feb,28-A5,Leather,0.08
+28-Feb,28-B5,Leather,0
+1-Mar,1-A1,Leather,0.02
+1-Mar,1-B1,Leather,0
+1-Mar,1-A2,Leather,0.97
+1-Mar,1-B2,Leather,0.16
+1-Mar,1-A3,Leather,0.89
+1-Mar,1-B3,Leather,0
+1-Mar,1-A4,Leather,1.51
+1-Mar,1-B4,Leather,0
+1-Mar,1-A5,Leather,0
+1-Mar,1-B5,Leather,0
+2-Mar,2-A1,Leather,0.4
+2-Mar,2-B1,Leather,0.26
+2-Mar,2-A2,Leather,0
+2-Mar,2-B2,Leather,0
+2-Mar,2-A3,Leather,0.97
+2-Mar,2-B3,Leather,0.35
+2-Mar,2-A4,Leather,0
+2-Mar,2-B4,Leather,0
+2-Mar,2-A5,Leather,0
+2-Mar,2-B5,Leather,0
+3-Mar,3-A1,Leather,0.91
+3-Mar,3-B1,Leather,0
+3-Mar,3-A2,Leather,0
+3-Mar,3-B2,Leather,0
+3-Mar,3-B3,Leather,0
+3-Mar,3-A3,Leather,0.12
+3-Mar,3-A4,Leather,0.17
+3-Mar,3-B4,Leather,0.2
+3-Mar,3-A5,Leather,0
+3-Mar,3-B5,Leather,0
+3-Mar,4-B1,Leather,0
+3-Mar,4-A1,Leather,0.45
+3-Mar,5-A1,Leather,0
+3-Mar,5-B1,Leather,0.42
+23-Feb,23-A1,Rattan & Wood,0.79
+23-Feb,23-B1,Rattan & Wood,1.41
+23-Feb,23-A2,Rattan & Wood,0.47
+23-Feb,23-B2,Rattan & Wood,0.76
+23-Feb,23-A3,Rattan & Wood,1.19
+23-Feb,23-B3,Rattan & Wood,2.85
+23-Feb,23-A4,Rattan & Wood,0.64
+23-Feb,23-B4,Rattan & Wood,2.25
+23-Feb,23-A5,Rattan & Wood,1.14
+23-Feb,23-B5,Rattan & Wood,1.75
+24-Feb,24-A1,Rattan & Wood,0.52
+24-Feb,24-B1,Rattan & Wood,0.77
+24-Feb,24-A2,Rattan & Wood,0.65
+24-Feb,24-B2,Rattan & Wood,0.51
+24-Feb,24-A3,Rattan & Wood,1.06
+24-Feb,24-B3,Rattan & Wood,0.56
+26-Feb,26-B1,Rattan & Wood,1.86
+26-Feb,26-B2,Rattan & Wood,0.04
+26-Feb,26-B3,Rattan & Wood,0
+26-Feb,26-B4,Rattan & Wood,0.06
+26-Feb,26-B5X,Rattan & Wood,0
+26-Feb,26-B5Y,Rattan & Wood,1.31
+26-Feb,26-B6,Rattan & Wood,0.15
+26-Feb,26-B7,Rattan & Wood,0.27
+26-Feb,26-B8,Rattan & Wood,0.1
+26-Feb,26-B9,Rattan & Wood,0.67
+26-Feb,26-B10,Rattan & Wood,2.88
+27-Feb,27-A1,Rattan & Wood,0.24
+27-Feb,27-B1,Rattan & Wood,0.15
+27-Feb,27-A2,Rattan & Wood,0.55
+27-Feb,27-B2,Rattan & Wood,4.78
+27-Feb,27-A3,Rattan & Wood,1.12
+27-Feb,27-B3,Rattan & Wood,0.98
+27-Feb,27-A4,Rattan & Wood,0.31
+27-Feb,27-B4,Rattan & Wood,0.31
+27-Feb,27-A5,Rattan & Wood,0.09
+27-Feb,27-B5,Rattan & Wood,3.36
+28-Feb,28-B1,Rattan & Wood,0.98
+28-Feb,28-A1,Rattan & Wood,0.66
+28-Feb,28-A2,Rattan & Wood,0.11
+28-Feb,28-B2,Rattan & Wood,0.08
+28-Feb,28-A3,Rattan & Wood,0
+28-Feb,28-A4,Rattan & Wood,0.19
+28-Feb,28-B4,Rattan & Wood,0.18
+28-Feb,28-A5,Rattan & Wood,0.28
+28-Feb,28-B5,Rattan & Wood,0.05
+1-Mar,1-A1,Rattan & Wood,0.81
+1-Mar,1-B1,Rattan & Wood,1.1
+1-Mar,1-A2,Rattan & Wood,0.08
+1-Mar,1-B2,Rattan & Wood,0.22
+1-Mar,1-A3,Rattan & Wood,2.41
+1-Mar,1-B3,Rattan & Wood,1.83
+1-Mar,1-A4,Rattan & Wood,1.69
+1-Mar,1-B4,Rattan & Wood,1.45
+1-Mar,1-A5,Rattan & Wood,0
+1-Mar,1-B5,Rattan & Wood,1.87
+2-Mar,2-A1,Rattan & Wood,2.47
+2-Mar,2-B1,Rattan & Wood,0.05
+2-Mar,2-A2,Rattan & Wood,1.66
+2-Mar,2-B2,Rattan & Wood,0.09
+2-Mar,2-A3,Rattan & Wood,0.14
+2-Mar,2-B3,Rattan & Wood,0.04
+2-Mar,2-A4,Rattan & Wood,0.12
+2-Mar,2-B4,Rattan & Wood,0.03
+2-Mar,2-A5,Rattan & Wood,0.15
+2-Mar,2-B5,Rattan & Wood,0
+3-Mar,3-A1,Rattan & Wood,0.31
+3-Mar,3-B1,Rattan & Wood,2.85
+3-Mar,3-A2,Rattan & Wood,0.9
+3-Mar,3-B2,Rattan & Wood,0.19
+3-Mar,3-B3,Rattan & Wood,0.88
+3-Mar,3-A3,Rattan & Wood,0.63
+3-Mar,3-A4,Rattan & Wood,0.55
+3-Mar,3-B4,Rattan & Wood,0.15
+3-Mar,3-A5,Rattan & Wood,0.13
+3-Mar,3-B5,Rattan & Wood,0
+3-Mar,4-B1,Rattan & Wood,0.39
+3-Mar,4-A1,Rattan & Wood,0.6
+3-Mar,5-A1,Rattan & Wood,0.66
+3-Mar,5-B1,Rattan & Wood,0.33
+23-Feb,23-A1,Inerts,9.6
+23-Feb,23-B1,Inerts,3.46
+23-Feb,23-A2,Inerts,0
+23-Feb,23-B2,Inerts,1.13
+23-Feb,23-A3,Inerts,0
+23-Feb,23-B3,Inerts,1.81
+23-Feb,23-A4,Inerts,0.83
+23-Feb,23-B4,Inerts,0.17
+23-Feb,23-A5,Inerts,2.84
+23-Feb,23-B5,Inerts,2.13
+24-Feb,24-A1,Inerts,14.52
+24-Feb,24-B1,Inerts,1.09
+24-Feb,24-A2,Inerts,1
+24-Feb,24-B2,Inerts,0.49
+24-Feb,24-A3,Inerts,2.86
+24-Feb,24-B3,Inerts,5.89
+26-Feb,26-B1,Inerts,0
+26-Feb,26-B2,Inerts,0.58
+26-Feb,26-B3,Inerts,0.01
+26-Feb,26-B4,Inerts,0
+26-Feb,26-B5X,Inerts,0.08
+26-Feb,26-B5Y,Inerts,0.34
+26-Feb,26-B6,Inerts,0.61
+26-Feb,26-B7,Inerts,1.1
+26-Feb,26-B8,Inerts,0.12
+26-Feb,26-B9,Inerts,0.21
+26-Feb,26-B10,Inerts,3.81
+27-Feb,27-A1,Inerts,5.44
+27-Feb,27-B1,Inerts,0
+27-Feb,27-A2,Inerts,1.37
+27-Feb,27-B2,Inerts,27.27
+27-Feb,27-A3,Inerts,14.49
+27-Feb,27-B3,Inerts,3.88
+27-Feb,27-A4,Inerts,2.78
+27-Feb,27-B4,Inerts,0
+27-Feb,27-A5,Inerts,0.97
+27-Feb,27-B5,Inerts,10.23
+28-Feb,28-B1,Inerts,6.88
+28-Feb,28-A1,Inerts,0
+28-Feb,28-A2,Inerts,25.61
+28-Feb,28-B2,Inerts,0.12
+28-Feb,28-A3,Inerts,4.45
+28-Feb,28-A4,Inerts,0
+28-Feb,28-B4,Inerts,7.68
+28-Feb,28-A5,Inerts,17.39
+28-Feb,28-B5,Inerts,13.84
+1-Mar,1-A1,Inerts,11.57
+1-Mar,1-B1,Inerts,13.26
+1-Mar,1-A2,Inerts,12.25
+1-Mar,1-B2,Inerts,8.65
+1-Mar,1-A3,Inerts,10.59
+1-Mar,1-B3,Inerts,11.18
+1-Mar,1-A4,Inerts,2.76
+1-Mar,1-B4,Inerts,2.47
+1-Mar,1-A5,Inerts,4.27
+1-Mar,1-B5,Inerts,7.89
+2-Mar,2-A1,Inerts,4.34
+2-Mar,2-B1,Inerts,2.18
+2-Mar,2-A2,Inerts,4.26
+2-Mar,2-B2,Inerts,0
+2-Mar,2-A3,Inerts,0.43
+2-Mar,2-B3,Inerts,1.11
+2-Mar,2-A4,Inerts,4.83
+2-Mar,2-B4,Inerts,0
+2-Mar,2-A5,Inerts,3.79
+2-Mar,2-B5,Inerts,0
+3-Mar,3-A1,Inerts,0.56
+3-Mar,3-B1,Inerts,9.87
+3-Mar,3-A2,Inerts,7.41
+3-Mar,3-B2,Inerts,6.73
+3-Mar,3-B3,Inerts,1.96
+3-Mar,3-A3,Inerts,0.53
+3-Mar,3-A4,Inerts,2.31
+3-Mar,3-B4,Inerts,3.38
+3-Mar,3-A5,Inerts,1.55
+3-Mar,3-B5,Inerts,0
+3-Mar,4-B1,Inerts,8.62
+3-Mar,4-A1,Inerts,1.08
+3-Mar,5-A1,Inerts,1.68
+3-Mar,5-B1,Inerts,22.4
+23-Feb,23-A1,Unclassified Waste,0.69
+23-Feb,23-B1,Unclassified Waste,0.22
+23-Feb,23-A2,Unclassified Waste,0.79
+23-Feb,23-B2,Unclassified Waste,1.06
+23-Feb,23-A3,Unclassified Waste,5.92
+23-Feb,23-B3,Unclassified Waste,9.72
+23-Feb,23-A4,Unclassified Waste,0.12
+23-Feb,23-B4,Unclassified Waste,0.8
+23-Feb,23-A5,Unclassified Waste,17.35
+23-Feb,23-B5,Unclassified Waste,6.29
+24-Feb,24-A1,Unclassified Waste,12.01
+24-Feb,24-B1,Unclassified Waste,3.23
+24-Feb,24-A2,Unclassified Waste,10.19
+24-Feb,24-B2,Unclassified Waste,1.48
+24-Feb,24-A3,Unclassified Waste,8.04
+24-Feb,24-B3,Unclassified Waste,0
+26-Feb,26-B1,Unclassified Waste,0.27
+26-Feb,26-B2,Unclassified Waste,0.22
+26-Feb,26-B3,Unclassified Waste,0.11
+26-Feb,26-B4,Unclassified Waste,0.16
+26-Feb,26-B5X,Unclassified Waste,0.33
+26-Feb,26-B5Y,Unclassified Waste,4.54
+26-Feb,26-B6,Unclassified Waste,0.16
+26-Feb,26-B7,Unclassified Waste,0
+26-Feb,26-B8,Unclassified Waste,0.59
+26-Feb,26-B9,Unclassified Waste,0
+26-Feb,26-B10,Unclassified Waste,0.96
+27-Feb,27-A1,Unclassified Waste,0.42
+27-Feb,27-B1,Unclassified Waste,0.46
+27-Feb,27-A2,Unclassified Waste,0.09
+27-Feb,27-B2,Unclassified Waste,0.45
+27-Feb,27-A3,Unclassified Waste,0.48
+27-Feb,27-B3,Unclassified Waste,0.16
+27-Feb,27-A4,Unclassified Waste,0.19
+27-Feb,27-B4,Unclassified Waste,0.04
+27-Feb,27-A5,Unclassified Waste,0
+27-Feb,27-B5,Unclassified Waste,0
+28-Feb,28-B1,Unclassified Waste,0.12
+28-Feb,28-A1,Unclassified Waste,0.29
+28-Feb,28-A2,Unclassified Waste,1.74
+28-Feb,28-B2,Unclassified Waste,2.1
+28-Feb,28-A3,Unclassified Waste,1.03
+28-Feb,28-A4,Unclassified Waste,0.98
+28-Feb,28-B4,Unclassified Waste,0.29
+28-Feb,28-A5,Unclassified Waste,0.45
+28-Feb,28-B5,Unclassified Waste,0.33
+1-Mar,1-A1,Unclassified Waste,0.75
+1-Mar,1-B1,Unclassified Waste,0.79
+1-Mar,1-A2,Unclassified Waste,1
+1-Mar,1-B2,Unclassified Waste,0.53
+1-Mar,1-A3,Unclassified Waste,0.18
+1-Mar,1-B3,Unclassified Waste,0.03
+1-Mar,1-A4,Unclassified Waste,1.01
+1-Mar,1-B4,Unclassified Waste,0.37
+1-Mar,1-A5,Unclassified Waste,1.97
+1-Mar,1-B5,Unclassified Waste,0.44
+2-Mar,2-A1,Unclassified Waste,0.21
+2-Mar,2-B1,Unclassified Waste,0.2
+2-Mar,2-A2,Unclassified Waste,0.18
+2-Mar,2-B2,Unclassified Waste,0.64
+2-Mar,2-A3,Unclassified Waste,0.07
+2-Mar,2-B3,Unclassified Waste,0.89
+2-Mar,2-A4,Unclassified Waste,0.27
+2-Mar,2-B4,Unclassified Waste,0.18
+2-Mar,2-A5,Unclassified Waste,0.43
+2-Mar,2-B5,Unclassified Waste,0.32
+3-Mar,3-A1,Unclassified Waste,1.15
+3-Mar,3-B1,Unclassified Waste,0.51
+3-Mar,3-A2,Unclassified Waste,0.16
+3-Mar,3-B2,Unclassified Waste,2.02
+3-Mar,3-B3,Unclassified Waste,0.66
+3-Mar,3-A3,Unclassified Waste,0.35
+3-Mar,3-A4,Unclassified Waste,0.23
+3-Mar,3-B4,Unclassified Waste,0.4
+3-Mar,3-A5,Unclassified Waste,0.34
+3-Mar,3-B5,Unclassified Waste,0.58
+3-Mar,4-B1,Unclassified Waste,0.45
+3-Mar,4-A1,Unclassified Waste,0.16
+3-Mar,5-A1,Unclassified Waste,1.22
+3-Mar,5-B1,Unclassified Waste,0.34
+23-Feb,23-A1,(Household) Hazardous waste,0.08
+23-Feb,23-B1,(Household) Hazardous waste,0.1
+23-Feb,23-A2,(Household) Hazardous waste,0.62
+23-Feb,23-B2,(Household) Hazardous waste,0.19
+23-Feb,23-A3,(Household) Hazardous waste,0.11
+23-Feb,23-B3,(Household) Hazardous waste,0
+23-Feb,23-A4,(Household) Hazardous waste,0.03
+23-Feb,23-B4,(Household) Hazardous waste,0.04
+23-Feb,23-A5,(Household) Hazardous waste,0.06
+23-Feb,23-B5,(Household) Hazardous waste,0.35
+24-Feb,24-A1,(Household) Hazardous waste,0.03
+24-Feb,24-B1,(Household) Hazardous waste,0.07
+24-Feb,24-A2,(Household) Hazardous waste,0.14
+24-Feb,24-B2,(Household) Hazardous waste,0.11
+24-Feb,24-A3,(Household) Hazardous waste,0.01
+24-Feb,24-B3,(Household) Hazardous waste,0.02
+26-Feb,26-B1,(Household) Hazardous waste,0.03
+26-Feb,26-B2,(Household) Hazardous waste,0.03
+26-Feb,26-B3,(Household) Hazardous waste,0.03
+26-Feb,26-B4,(Household) Hazardous waste,0.09
+26-Feb,26-B5X,(Household) Hazardous waste,0
+26-Feb,26-B5Y,(Household) Hazardous waste,0.04
+26-Feb,26-B6,(Household) Hazardous waste,0.51
+26-Feb,26-B7,(Household) Hazardous waste,0.11
+26-Feb,26-B8,(Household) Hazardous waste,0.08
+26-Feb,26-B9,(Household) Hazardous waste,0.03
+26-Feb,26-B10,(Household) Hazardous waste,0.02
+27-Feb,27-A1,(Household) Hazardous waste,0.01
+27-Feb,27-B1,(Household) Hazardous waste,0.04
+27-Feb,27-A2,(Household) Hazardous waste,0.01
+27-Feb,27-B2,(Household) Hazardous waste,0.01
+27-Feb,27-A3,(Household) Hazardous waste,0.7
+27-Feb,27-B3,(Household) Hazardous waste,0.02
+27-Feb,27-A4,(Household) Hazardous waste,0.03
+27-Feb,27-B4,(Household) Hazardous waste,0.01
+27-Feb,27-A5,(Household) Hazardous waste,0.03
+27-Feb,27-B5,(Household) Hazardous waste,0.06
+28-Feb,28-B1,(Household) Hazardous waste,0.05
+28-Feb,28-A1,(Household) Hazardous waste,0.05
+28-Feb,28-A2,(Household) Hazardous waste,0.01
+28-Feb,28-B2,(Household) Hazardous waste,0.06
+28-Feb,28-A3,(Household) Hazardous waste,0.08
+28-Feb,28-A4,(Household) Hazardous waste,0.09
+28-Feb,28-B4,(Household) Hazardous waste,0.26
+28-Feb,28-A5,(Household) Hazardous waste,0.03
+28-Feb,28-B5,(Household) Hazardous waste,0.2
+1-Mar,1-A1,(Household) Hazardous waste,0.2
+1-Mar,1-B1,(Household) Hazardous waste,0.19
+1-Mar,1-A2,(Household) Hazardous waste,0.05
+1-Mar,1-B2,(Household) Hazardous waste,0.08
+1-Mar,1-A3,(Household) Hazardous waste,0.09
+1-Mar,1-B3,(Household) Hazardous waste,0.03
+1-Mar,1-A4,(Household) Hazardous waste,0.1
+1-Mar,1-B4,(Household) Hazardous waste,0.09
+1-Mar,1-A5,(Household) Hazardous waste,0.08
+1-Mar,1-B5,(Household) Hazardous waste,0.4
+2-Mar,2-A1,(Household) Hazardous waste,0.26
+2-Mar,2-B1,(Household) Hazardous waste,0.69
+2-Mar,2-A2,(Household) Hazardous waste,0.16
+2-Mar,2-B2,(Household) Hazardous waste,0.21
+2-Mar,2-A3,(Household) Hazardous waste,0.13
+2-Mar,2-B3,(Household) Hazardous waste,0.07
+2-Mar,2-A4,(Household) Hazardous waste,0
+2-Mar,2-B4,(Household) Hazardous waste,0.24
+2-Mar,2-A5,(Household) Hazardous waste,0.02
+2-Mar,2-B5,(Household) Hazardous waste,0.2
+3-Mar,3-A1,(Household) Hazardous waste,0.39
+3-Mar,3-B1,(Household) Hazardous waste,0.03
+3-Mar,3-A2,(Household) Hazardous waste,0.09
+3-Mar,3-B2,(Household) Hazardous waste,0.03
+3-Mar,3-B3,(Household) Hazardous waste,0.04
+3-Mar,3-A3,(Household) Hazardous waste,0.23
+3-Mar,3-A4,(Household) Hazardous waste,0.91
+3-Mar,3-B4,(Household) Hazardous waste,0.29
+3-Mar,3-A5,(Household) Hazardous waste,0.67
+3-Mar,3-B5,(Household) Hazardous waste,0.1
+3-Mar,4-B1,(Household) Hazardous waste,0.15
+3-Mar,4-A1,(Household) Hazardous waste,0.06
+3-Mar,5-A1,(Household) Hazardous waste,0.06
+3-Mar,5-B1,(Household) Hazardous waste,0.09
+23-Feb,23-A1,Hygiene Items,8.53
+23-Feb,23-B1,Hygiene Items,10.25
+23-Feb,23-A2,Hygiene Items,5.99
+23-Feb,23-B2,Hygiene Items,12.43
+23-Feb,23-A3,Hygiene Items,9.31
+23-Feb,23-B3,Hygiene Items,17.16
+23-Feb,23-A4,Hygiene Items,3.79
+23-Feb,23-B4,Hygiene Items,9.48
+23-Feb,23-A5,Hygiene Items,3.2
+23-Feb,23-B5,Hygiene Items,12.85
+24-Feb,24-A1,Hygiene Items,5.32
+24-Feb,24-B1,Hygiene Items,16.49
+24-Feb,24-A2,Hygiene Items,4.43
+24-Feb,24-B2,Hygiene Items,13.32
+24-Feb,24-A3,Hygiene Items,4.31
+24-Feb,24-B3,Hygiene Items,2.15
+26-Feb,26-B1,Hygiene Items,3.68
+26-Feb,26-B2,Hygiene Items,12.82
+26-Feb,26-B3,Hygiene Items,8.18
+26-Feb,26-B4,Hygiene Items,1.54
+26-Feb,26-B5X,Hygiene Items,0.15
+26-Feb,26-B5Y,Hygiene Items,5.41
+26-Feb,26-B6,Hygiene Items,7.42
+26-Feb,26-B7,Hygiene Items,5.14
+26-Feb,26-B8,Hygiene Items,1.61
+26-Feb,26-B9,Hygiene Items,3.93
+26-Feb,26-B10,Hygiene Items,3.91
+27-Feb,27-A1,Hygiene Items,3.46
+27-Feb,27-B1,Hygiene Items,2.01
+27-Feb,27-A2,Hygiene Items,2.59
+27-Feb,27-B2,Hygiene Items,0
+27-Feb,27-A3,Hygiene Items,3.66
+27-Feb,27-B3,Hygiene Items,5.12
+27-Feb,27-A4,Hygiene Items,3.3
+27-Feb,27-B4,Hygiene Items,0
+27-Feb,27-A5,Hygiene Items,0
+27-Feb,27-B5,Hygiene Items,0.01
+28-Feb,28-B1,Hygiene Items,2.27
+28-Feb,28-A1,Hygiene Items,3.34
+28-Feb,28-A2,Hygiene Items,0.67
+28-Feb,28-B2,Hygiene Items,1.52
+28-Feb,28-A3,Hygiene Items,4.9
+28-Feb,28-A4,Hygiene Items,6.44
+28-Feb,28-B4,Hygiene Items,2.1
+28-Feb,28-A5,Hygiene Items,2.74
+28-Feb,28-B5,Hygiene Items,2.16
+1-Mar,1-A1,Hygiene Items,4.87
+1-Mar,1-B1,Hygiene Items,0.14
+1-Mar,1-A2,Hygiene Items,1.87
+1-Mar,1-B2,Hygiene Items,0.85
+1-Mar,1-A3,Hygiene Items,1.64
+1-Mar,1-B3,Hygiene Items,7.77
+1-Mar,1-A4,Hygiene Items,0.5
+1-Mar,1-B4,Hygiene Items,-0.57
+1-Mar,1-A5,Hygiene Items,5.36
+1-Mar,1-B5,Hygiene Items,5.59
+2-Mar,2-A1,Hygiene Items,5.42
+2-Mar,2-B1,Hygiene Items,4.6
+2-Mar,2-A2,Hygiene Items,5.2
+2-Mar,2-B2,Hygiene Items,3.71
+2-Mar,2-A3,Hygiene Items,7.26
+2-Mar,2-B3,Hygiene Items,5.42
+2-Mar,2-A4,Hygiene Items,9.19
+2-Mar,2-B4,Hygiene Items,7.56
+2-Mar,2-A5,Hygiene Items,2.37
+2-Mar,2-B5,Hygiene Items,8.91
+3-Mar,3-A1,Hygiene Items,0
+3-Mar,3-B1,Hygiene Items,3.22
+3-Mar,3-A2,Hygiene Items,1.65
+3-Mar,3-B2,Hygiene Items,4.88
+3-Mar,3-B3,Hygiene Items,6.38
+3-Mar,3-A3,Hygiene Items,6.47
+3-Mar,3-A4,Hygiene Items,2.42
+3-Mar,3-B4,Hygiene Items,7.56
+3-Mar,3-A5,Hygiene Items,10.96
+3-Mar,3-B5,Hygiene Items,10.7
+3-Mar,4-B1,Hygiene Items,2.42
+3-Mar,4-A1,Hygiene Items,9.61
+3-Mar,5-A1,Hygiene Items,2.26
+3-Mar,5-B1,Hygiene Items,1.71
+23-Feb,23-A1,Fines,0.08
+23-Feb,23-B1,Fines,0
+23-Feb,23-A2,Fines,0
+23-Feb,23-B2,Fines,0
+23-Feb,23-A3,Fines,0
+23-Feb,23-B3,Fines,0
+23-Feb,23-A4,Fines,0
+23-Feb,23-B4,Fines,0
+23-Feb,23-A5,Fines,0
+23-Feb,23-B5,Fines,0
+24-Feb,24-A1,Fines,0
+24-Feb,24-B1,Fines,0
+24-Feb,24-A2,Fines,0
+24-Feb,24-B2,Fines,0
+24-Feb,24-A3,Fines,0
+24-Feb,24-B3,Fines,0
+26-Feb,26-B1,Fines,0
+26-Feb,26-B2,Fines,0
+26-Feb,26-B3,Fines,0
+26-Feb,26-B4,Fines,0
+26-Feb,26-B5X,Fines,0
+26-Feb,26-B5Y,Fines,0
+26-Feb,26-B6,Fines,0
+26-Feb,26-B7,Fines,0
+26-Feb,26-B8,Fines,0
+26-Feb,26-B9,Fines,0
+26-Feb,26-B10,Fines,0
+27-Feb,27-A1,Fines,0
+27-Feb,27-B1,Fines,0
+27-Feb,27-A2,Fines,0
+27-Feb,27-B2,Fines,0
+27-Feb,27-A3,Fines,0
+27-Feb,27-B3,Fines,0
+27-Feb,27-A4,Fines,0
+27-Feb,27-B4,Fines,0
+27-Feb,27-A5,Fines,0
+27-Feb,27-B5,Fines,0
+28-Feb,28-B1,Fines,0
+28-Feb,28-A1,Fines,0
+28-Feb,28-A2,Fines,0
+28-Feb,28-B2,Fines,0
+28-Feb,28-A3,Fines,0
+28-Feb,28-A4,Fines,0
+28-Feb,28-B4,Fines,0
+28-Feb,28-A5,Fines,0
+28-Feb,28-B5,Fines,0
+1-Mar,1-A1,Fines,0
+1-Mar,1-B1,Fines,0
+1-Mar,1-A2,Fines,0
+1-Mar,1-B2,Fines,0
+1-Mar,1-A3,Fines,0
+1-Mar,1-B3,Fines,0
+1-Mar,1-A4,Fines,0
+1-Mar,1-B4,Fines,0
+1-Mar,1-A5,Fines,0
+1-Mar,1-B5,Fines,0
+2-Mar,2-A1,Fines,0
+2-Mar,2-B1,Fines,0
+2-Mar,2-A2,Fines,0
+2-Mar,2-B2,Fines,0
+2-Mar,2-A3,Fines,0
+2-Mar,2-B3,Fines,0
+2-Mar,2-A4,Fines,0
+2-Mar,2-B4,Fines,0
+2-Mar,2-A5,Fines,0
+2-Mar,2-B5,Fines,0
+3-Mar,3-A1,Fines,0
+3-Mar,3-B1,Fines,0
+3-Mar,3-A2,Fines,0
+3-Mar,3-B2,Fines,0
+3-Mar,3-B3,Fines,0
+3-Mar,3-A3,Fines,0
+3-Mar,3-A4,Fines,0
+3-Mar,3-B4,Fines,0
+3-Mar,3-A5,Fines,0
+3-Mar,3-B5,Fines,0
+3-Mar,4-B1,Fines,0
+3-Mar,4-A1,Fines,0
+3-Mar,5-A1,Fines,0
+3-Mar,5-B1,Fines,0
