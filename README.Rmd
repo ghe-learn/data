@@ -43,6 +43,8 @@ dat <- read_csv("data/raw/Abidjan, Cote d'Ivoire, waste characterization data, F
 
 ```
 
+### Exploration
+
 - 2080 observations
 - 8 days of data collection
 - 80 samples with measurements in 26 waste categories each
@@ -61,28 +63,21 @@ dat %>%
   count(category) 
 
 dat %>% 
-  arrange(sample) 
+  arrange(sample)
+
+```
+
+### Summary tables
+
+```{r}
 
 dat %>% 
   group_by(sample) %>% 
   summarise(
     sum_mass_kg = sum(mass_kg)
   ) %>% 
-  arrange(desc(sum_mass_kg))
-
-dat %>% 
-  arrange(sample) 
-
-dat %>% 
-  group_by(category) %>% 
-  summarise(
-    count = n(),
-    mean = mean(mass_kg),
-    sd = sd(mass_kg),
-    min = min(mass_kg),
-    max = max(mass_kg)
-  ) 
-
+  arrange(desc(sum_mass_kg)) 
+  
 dat %>% 
   arrange(sample) %>% 
   group_by(category) %>% 
@@ -93,9 +88,12 @@ dat %>%
     min = min(percent),
     max = max(percent)
   ) %>% 
-  arrange(desc(mean))
+  arrange(desc(mean)) %>% 
+  knitr::kable(digits = 1)
 
 ```
+
+### Data visualisation
 
 ```{r}
 

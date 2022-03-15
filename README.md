@@ -5,6 +5,9 @@ Data resources
 -   [Waste Management](#waste-management)
     -   [Abidjan, Cote d’Ivoire, waste characterization data, Feb-Mar
         2018](#abidjan-cote-divoire-waste-characterization-data-feb-mar-2018)
+        -   [Exploration](#exploration)
+        -   [Summary tables](#summary-tables)
+        -   [Data visualisation](#data-visualisation)
 -   [References](#references)
 
 ``` r
@@ -39,6 +42,8 @@ dat <- read_csv("data/raw/Abidjan, Cote d'Ivoire, waste characterization data, F
     percent = mass_kg / sum(mass_kg) * 100
   )
 ```
+
+### Exploration
 
 -   2080 observations
 -   8 days of data collection
@@ -130,7 +135,7 @@ dat %>%
 
 ``` r
 dat %>% 
-  arrange(sample) 
+  arrange(sample)
 ```
 
     ## # A tibble: 2,080 × 5
@@ -149,13 +154,15 @@ dat %>%
     ## 10 1-Mar 1-A1   PET (#1)                     0.32   0.436
     ## # … with 2,070 more rows
 
+### Summary tables
+
 ``` r
 dat %>% 
   group_by(sample) %>% 
   summarise(
     sum_mass_kg = sum(mass_kg)
   ) %>% 
-  arrange(desc(sum_mass_kg))
+  arrange(desc(sum_mass_kg)) 
 ```
 
     ## # A tibble: 80 × 2
@@ -175,54 +182,6 @@ dat %>%
 
 ``` r
 dat %>% 
-  arrange(sample) 
-```
-
-    ## # A tibble: 2,080 × 5
-    ## # Groups:   sample [80]
-    ##    date  sample category                  mass_kg percent
-    ##    <chr> <chr>  <chr>                       <dbl>   <dbl>
-    ##  1 1-Mar 1-A1   Food/Organic                36.6   49.8  
-    ##  2 1-Mar 1-A1   Paper (white)                0      0    
-    ##  3 1-Mar 1-A1   Other recyclable Paper       0.4    0.545
-    ##  4 1-Mar 1-A1   Non-recyclable Paper         0.72   0.981
-    ##  5 1-Mar 1-A1   Cardboards                   2.92   3.98 
-    ##  6 1-Mar 1-A1   Textile                      3.83   5.22 
-    ##  7 1-Mar 1-A1   All Low Value Plastic        4.29   5.84 
-    ##  8 1-Mar 1-A1   Medium Value Plastic (#4)    2.46   3.35 
-    ##  9 1-Mar 1-A1   PP (#5)                      0.55   0.749
-    ## 10 1-Mar 1-A1   PET (#1)                     0.32   0.436
-    ## # … with 2,070 more rows
-
-``` r
-dat %>% 
-  group_by(category) %>% 
-  summarise(
-    count = n(),
-    mean = mean(mass_kg),
-    sd = sd(mass_kg),
-    min = min(mass_kg),
-    max = max(mass_kg)
-  ) 
-```
-
-    ## # A tibble: 26 × 6
-    ##    category                    count    mean       sd   min    max
-    ##    <chr>                       <int>   <dbl>    <dbl> <dbl>  <dbl>
-    ##  1 (Household) Hazardous waste    80  0.139   0.183    0      0.91
-    ##  2 All Low Value Plastic          80  5.38    3.60     1.55  18.0 
-    ##  3 Aluminum Waste                 80  0.142   0.224    0      1.16
-    ##  4 Cardboards                     80  1.68    1.30     0      5.95
-    ##  5 Copper waste                   80  0.0236  0.126    0      1.12
-    ##  6 Ferrous Metals                 80  0.233   0.370    0      1.57
-    ##  7 Fines                          80  0.001   0.00894  0      0.08
-    ##  8 Food/Organic                   80 57.7    19.7     13.9  116.  
-    ##  9 Glass                          80  1.31    1.58     0      9.72
-    ## 10 HDPE (#2)                      80  0.379   0.407    0      2.76
-    ## # … with 16 more rows
-
-``` r
-dat %>% 
   arrange(sample) %>% 
   group_by(category) %>% 
   summarise(
@@ -232,23 +191,40 @@ dat %>%
     min = min(percent),
     max = max(percent)
   ) %>% 
-  arrange(desc(mean))
+  arrange(desc(mean)) %>% 
+  knitr::kable(digits = 1)
 ```
 
-    ## # A tibble: 26 × 6
-    ##    category                  count  mean    sd     min   max
-    ##    <chr>                     <int> <dbl> <dbl>   <dbl> <dbl>
-    ##  1 Food/Organic                 80 62.5  11.0  27.4    89.7 
-    ##  2 Inerts                       80  5.83  7.83  0      33.3 
-    ##  3 All Low Value Plastic        80  5.74  2.78  2.70   13.6 
-    ##  4 Hygiene Items                80  5.20  3.47 -0.645  13.6 
-    ##  5 Medium Value Plastic (#4)    80  3.41  1.70  0       7.49
-    ##  6 Textile                      80  3.14  2.49  0.0865 12.0 
-    ##  7 Cardboards                   80  2.05  1.89  0       8.80
-    ##  8 Non-recyclable Paper         80  2.04  1.66  0       8.19
-    ##  9 Glass                        80  1.57  2.12  0      12.9 
-    ## 10 Unclassified Waste           80  1.43  2.77  0      17.4 
-    ## # … with 16 more rows
+| category                    | count | mean |   sd |  min |  max |
+|:----------------------------|------:|-----:|-----:|-----:|-----:|
+| Food/Organic                |    80 | 62.5 | 11.0 | 27.4 | 89.7 |
+| Inerts                      |    80 |  5.8 |  7.8 |  0.0 | 33.3 |
+| All Low Value Plastic       |    80 |  5.7 |  2.8 |  2.7 | 13.6 |
+| Hygiene Items               |    80 |  5.2 |  3.5 | -0.6 | 13.6 |
+| Medium Value Plastic (#4)   |    80 |  3.4 |  1.7 |  0.0 |  7.5 |
+| Textile                     |    80 |  3.1 |  2.5 |  0.1 | 12.0 |
+| Cardboards                  |    80 |  2.1 |  1.9 |  0.0 |  8.8 |
+| Non-recyclable Paper        |    80 |  2.0 |  1.7 |  0.0 |  8.2 |
+| Glass                       |    80 |  1.6 |  2.1 |  0.0 | 12.9 |
+| Unclassified Waste          |    80 |  1.4 |  2.8 |  0.0 | 17.4 |
+| Other recyclable Paper      |    80 |  1.2 |  1.3 |  0.0 |  6.0 |
+| Other Ferrous Metals        |    80 |  1.0 |  0.8 |  0.0 |  3.1 |
+| Rattan & Wood               |    80 |  0.9 |  1.1 |  0.0 |  5.7 |
+| PET (#1)                    |    80 |  0.8 |  1.1 |  0.0 |  8.7 |
+| Onter Non-Ferrous Metals    |    80 |  0.8 |  0.6 |  0.0 |  4.0 |
+| PP (#5)                     |    80 |  0.4 |  0.4 |  0.0 |  2.4 |
+| HDPE (#2)                   |    80 |  0.4 |  0.4 |  0.0 |  2.2 |
+| Leather                     |    80 |  0.4 |  0.8 |  0.0 |  5.0 |
+| Rubber                      |    80 |  0.4 |  0.5 |  0.0 |  2.2 |
+| Ferrous Metals              |    80 |  0.3 |  0.5 |  0.0 |  2.8 |
+| (Household) Hazardous waste |    80 |  0.2 |  0.2 |  0.0 |  1.2 |
+| Aluminum Waste              |    80 |  0.1 |  0.2 |  0.0 |  0.7 |
+| Paper (white)               |    80 |  0.1 |  0.3 |  0.0 |  2.3 |
+| PVC (#3)                    |    80 |  0.1 |  0.3 |  0.0 |  2.4 |
+| Copper waste                |    80 |  0.0 |  0.1 |  0.0 |  1.3 |
+| Fines                       |    80 |  0.0 |  0.0 |  0.0 |  0.1 |
+
+### Data visualisation
 
 ``` r
 dat %>% 
@@ -256,7 +232,7 @@ dat %>%
   geom_col()
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 dat %>% 
@@ -265,7 +241,7 @@ dat %>%
   geom_jitter(width = 0.1, alpha = 0.3)
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
 
 # References
 
