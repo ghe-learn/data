@@ -27,19 +27,20 @@ For now, all exploration is done in a single R Markdown script rendered to this 
 
 ## Abidjan, Cote d'Ivoire, waste characterization data, Feb-Mar 2018
 
-Source: [@innovations2020abidjan]
+Reference: [@innovations2020abidjan]
 
 Results of municipal solid waste characterization study conducted in Abidjan, Cote d'Ivoire, in February-March, 2018 by [Waste2Worth Innovations](https://www.w2wglobal.com/).
 
 
 ```{r}
 
-dat <- read_csv("data/raw/Abidjan, Cote d'Ivoire, waste characterization data, Feb-Mar 2018.csv") %>% 
+dat <- read_csv("data/raw/@innovations2020abidjan/Abidjan, Cote d'Ivoire, waste characterization data, Feb-Mar 2018.csv") %>% 
   janitor::clean_names() %>% 
   group_by(sample) %>% 
   mutate(
     percent = mass_kg / sum(mass_kg) * 100
-  )
+  ) %>% 
+  ungroup()
 
 ```
 
@@ -110,5 +111,18 @@ dat %>%
 
 
 ```
+
+## @ramadan2022activity
+
+Reference: [@ramadan2022activity]
+
+```{r}
+
+readxl::read_excel("data/raw/@ramadan2022activity/10163_2022_1371_MOESM2_ESM.xls")
+
+```
+
+
+
 
 # References
