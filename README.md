@@ -8,7 +8,8 @@ Data resources
         -   [Exploration](#exploration)
         -   [Summary tables](#summary-tables)
         -   [Data visualisation](#data-visualisation)
-    -   [(**ramadan2022activity?**)](#ramadan2022activity)
+    -   [Ramadan, Rachman, and Matsumoto (2022)](#ramadan2022activity)
+    -   [Zürich (2022)](#stadtzurich2022abfallgefasse)
 -   [References](#references)
 
 ``` r
@@ -195,7 +196,7 @@ dat %>%
 | Inerts                      |    80 |  5.8 |  7.8 |  0.0 | 33.3 |
 | All Low Value Plastic       |    80 |  5.7 |  2.8 |  2.7 | 13.6 |
 | Hygiene Items               |    80 |  5.2 |  3.5 | -0.6 | 13.6 |
-| Medium Value Plastic (\#4)  |    80 |  3.4 |  1.7 |  0.0 |  7.5 |
+| Medium Value Plastic (#4)   |    80 |  3.4 |  1.7 |  0.0 |  7.5 |
 | Textile                     |    80 |  3.1 |  2.5 |  0.1 | 12.0 |
 | Cardboards                  |    80 |  2.1 |  1.9 |  0.0 |  8.8 |
 | Non-recyclable Paper        |    80 |  2.0 |  1.7 |  0.0 |  8.2 |
@@ -204,17 +205,17 @@ dat %>%
 | Other recyclable Paper      |    80 |  1.2 |  1.3 |  0.0 |  6.0 |
 | Other Ferrous Metals        |    80 |  1.0 |  0.8 |  0.0 |  3.1 |
 | Rattan & Wood               |    80 |  0.9 |  1.1 |  0.0 |  5.7 |
-| PET (\#1)                   |    80 |  0.8 |  1.1 |  0.0 |  8.7 |
+| PET (#1)                    |    80 |  0.8 |  1.1 |  0.0 |  8.7 |
 | Onter Non-Ferrous Metals    |    80 |  0.8 |  0.6 |  0.0 |  4.0 |
-| PP (\#5)                    |    80 |  0.4 |  0.4 |  0.0 |  2.4 |
-| HDPE (\#2)                  |    80 |  0.4 |  0.4 |  0.0 |  2.2 |
+| PP (#5)                     |    80 |  0.4 |  0.4 |  0.0 |  2.4 |
+| HDPE (#2)                   |    80 |  0.4 |  0.4 |  0.0 |  2.2 |
 | Leather                     |    80 |  0.4 |  0.8 |  0.0 |  5.0 |
 | Rubber                      |    80 |  0.4 |  0.5 |  0.0 |  2.2 |
 | Ferrous Metals              |    80 |  0.3 |  0.5 |  0.0 |  2.8 |
 | (Household) Hazardous waste |    80 |  0.2 |  0.2 |  0.0 |  1.2 |
 | Aluminum Waste              |    80 |  0.1 |  0.2 |  0.0 |  0.7 |
 | Paper (white)               |    80 |  0.1 |  0.3 |  0.0 |  2.3 |
-| PVC (\#3)                   |    80 |  0.1 |  0.3 |  0.0 |  2.4 |
+| PVC (#3)                    |    80 |  0.1 |  0.3 |  0.0 |  2.4 |
 | Copper waste                |    80 |  0.0 |  0.1 |  0.0 |  1.3 |
 | Fines                       |    80 |  0.0 |  0.0 |  0.0 |  0.1 |
 
@@ -237,44 +238,46 @@ dat %>%
 
 ![](README_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
 
-## (**ramadan2022activity?**)
+## Ramadan, Rachman, and Matsumoto (2022)
 
-Reference: (**ramadan2022activity?**)
+Reference: (Ramadan, Rachman, and Matsumoto 2022)
 
 ``` r
 readxl::read_excel("data/raw/@ramadan2022activity/10163_2022_1371_MOESM2_ESM.xls")
 ```
 
     ## # A tibble: 20 × 17
-    ##    ...1                 `Sub-district` District `Average Slope` `Average eleva…`
-    ##    <chr>                <chr>          <chr>              <dbl>            <dbl>
-    ##  1 Cluster 1 (Rural)    Wonolopo       Mijen                 15              230
-    ##  2 <NA>                 Podorejo       Ngaliyan               5              123
-    ##  3 <NA>                 Rowosari       Tembala…              10               41
-    ##  4 <NA>                 Tugurejo       Tugu                   2                5
-    ##  5 Cluster 2 (Outer pe… Penggaron Kid… Pedurun…               2               19
-    ##  6 <NA>                 Kandri         Gunungp…               5              230
-    ##  7 <NA>                 Tambakharjo    Semaran…               5                6
-    ##  8 <NA>                 Gedawang       Banyuma…               5              214
-    ##  9 Cluster 3 (Inner pe… Gayamsari      Gayamsa…               2               10
-    ## 10 <NA>                 Karangroto     Genuk                  2                8
-    ## 11 <NA>                 Karang Tempel  Semaran…               2               10
-    ## 12 <NA>                 Sampangan      Gajah M…               5               18
-    ## 13 Cluster 4 (Urban co… Jagalan        Semaran…               2               10
-    ## 14 <NA>                 Barusari       Semaran…               5               12
-    ## 15 <NA>                 Candi          Candisa…               5               55
-    ## 16 <NA>                 Purwosari      Semaran…               2                6
-    ## 17 <NA>                 <NA>           <NA>                  NA               NA
-    ## 18 <NA>                 Total educati… <NA>                  NA               NA
-    ## 19 <NA>                 Total healthc… <NA>                  NA               NA
-    ## 20 <NA>                 Total economi… <NA>                  NA               NA
-    ## # … with 12 more variables: `Area of agricultural land (ha)` <dbl>,
-    ## #   `Area of non-agricultural land (ha)` <dbl>,
-    ## #   `Number of Population (inhabitant)` <dbl>, `Area (km2)` <dbl>,
-    ## #   `Number of Household (Unit)` <dbl>, `Housing Density (HH/km2)` <dbl>,
-    ## #   `Population Density (people/km2)` <dbl>,
-    ## #   `Total Education Facility (Unit)` <dbl>,
-    ## #   `Total Healthcare Facility (Unit)` <dbl>, …
+    ##    ...1      `Sub-district`          District  `Average Slope` `Average elevati…
+    ##    <chr>     <chr>                   <chr>               <dbl>             <dbl>
+    ##  1 Cluster … Wonolopo                Mijen                  15               230
+    ##  2 <NA>      Podorejo                Ngaliyan                5               123
+    ##  3 <NA>      Rowosari                Tembalang              10                41
+    ##  4 <NA>      Tugurejo                Tugu                    2                 5
+    ##  5 Cluster … Penggaron Kidul         Pedurung…               2                19
+    ##  6 <NA>      Kandri                  Gunungpa…               5               230
+    ##  7 <NA>      Tambakharjo             Semarang…               5                 6
+    ##  8 <NA>      Gedawang                Banyuman…               5               214
+    ##  9 Cluster … Gayamsari               Gayamsari               2                10
+    ## 10 <NA>      Karangroto              Genuk                   2                 8
+    ## 11 <NA>      Karang Tempel           Semarang…               2                10
+    ## 12 <NA>      Sampangan               Gajah Mu…               5                18
+    ## 13 Cluster … Jagalan                 Semarang…               2                10
+    ## 14 <NA>      Barusari                Semarang…               5                12
+    ## 15 <NA>      Candi                   Candisari               5                55
+    ## 16 <NA>      Purwosari               Semarang…               2                 6
+    ## 17 <NA>      <NA>                    <NA>                   NA                NA
+    ## 18 <NA>      Total education facili… <NA>                   NA                NA
+    ## 19 <NA>      Total healthcare facil… <NA>                   NA                NA
+    ## 20 <NA>      Total economic facilit… <NA>                   NA                NA
+    ## # … with 12 more variables: Area of agricultural land (ha) <dbl>,
+    ## #   Area of non-agricultural land (ha) <dbl>,
+    ## #   Number of Population (inhabitant) <dbl>, Area (km2) <dbl>,
+    ## #   Number of Household (Unit) <dbl>, Housing Density (HH/km2) <dbl>,
+    ## #   Population Density (people/km2) <dbl>,
+    ## #   Total Education Facility (Unit) <dbl>,
+    ## #   Total Healthcare Facility (Unit) <dbl>, …
+
+## Zürich (2022)
 
 # References
 
@@ -285,6 +288,23 @@ readxl::read_excel("data/raw/@ramadan2022activity/10163_2022_1371_MOESM2_ESM.xls
 Innovations, Waste2Worth. 2020. “Abidjan, Cote d’Ivoire, Waste
 Characterization Data, Feb-Mar 2018.” Zenodo.
 <https://doi.org/10.5281/zenodo.4012765>.
+
+</div>
+
+<div id="ref-ramadan2022activity" class="csl-entry">
+
+Ramadan, Bimastyaji Surya, Indriyani Rachman, and Toru Matsumoto. 2022.
+“Activity and Emission Inventory of Open Waste Burning at the Household
+Level in Developing Countries: A Case Study of Semarang City.” *Journal
+of Material Cycles and Waste Management*, February.
+<https://doi.org/10.1007/s10163-022-01371-3>.
+
+</div>
+
+<div id="ref-stadtzurich2022abfallgefasse" class="csl-entry">
+
+Zürich, Stadt. 2022. “Abfallgefässe - Stadt Zürich.”
+https://www.stadt-zuerich.ch/geodaten/download/Abfallgefaesse.
 
 </div>
 
