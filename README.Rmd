@@ -138,6 +138,69 @@ dat_zurich
 ```
 
 
+## What a waste!
+
+What a Waste is a global project to aggregate data on solid waste management from around the world. This database features the statistics collected through the effort, covering nearly all countries and over 330 cities. Beyond waste generation, there are a long list of additina indicators in this dataset.
+
+-   Source: https://datacatalog.worldbank.org/search/dataset/0039597
+
+```{r}
+
+# This code is copied from application exercise week 10
+
+data_country <- read_csv("data/raw_data/country_level_data_0.csv")
+
+data_city <-  read_csv("data/raw_data/city_level_data_0_0.csv")
+
+codebook_country <- read_csv("data/raw_data/country_level_codebook.csv")
+
+codebook_city <- read_csv("data/raw_data/city_level_codebook_0.csv")
+
+```
+
+Goal: Select data about waste composition for further analysis. 
+
+```{r}
+
+data_city %>% 
+  select(country_name, income_id, city_name)
+
+data_city %>% 
+  select(-iso3c, -region_id)
+
+data_country %>% 
+  select(country_name, ends_with("percent"))
+
+data_country %>% 
+  select(country_name, income_id, starts_with("waste_treatment")) %>% 
+  pivot_longer(cols = !country_name:income_id,
+               names_to = "waste_treatment",
+               values_to = "percent") %>% 
+  mutate(waste_treatment = str_remove(string = waste_treatment, pattern = "waste_treatment_")) %>% 
+  mutate(waste_treatment = str_remove(string = waste_treatment, pattern = "_percent")) %>% 
+  
+  group_by(waste_treatment) %>% 
+  summarise(
+    count = n(),
+    percent = mean(percent, na.rm = TRUE)
+  ) %>% 
+  
+  ggplot(aes(x = income_id, y = percent, fill = waste_treatment)) +
+  geom_col()
+
+
+
+
+
+
+data_city %>% 
+  names()
+
+data_city %>% 
+  select(country_name:city_name, 
+         waste_treatment_advanced_thermal_treatment_percent:waste_treatment_waterways_marine_percent) 
+
+```
 
 
 # References
