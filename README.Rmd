@@ -123,6 +123,21 @@ readxl::read_excel("data/raw/@ramadan2022activity/10163_2022_1371_MOESM2_ESM.xls
 ```
 
 
+## @stadtzurich2022abfallgefasse
+
+
+
+```{r}
+dat_zurich <- read_csv(file = "data/raw/@stadtzurich2022abfallgefasse/71dc10de-a5e2-11ec-94cb-005056b0ce82/data/erz.abfallgefaess_p.csv")
+
+```
+
+```{r}
+
+dat_zurich
+```
+
+
 
 
 # References
