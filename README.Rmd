@@ -78,7 +78,7 @@ dat %>%
     sum_mass_kg = sum(mass_kg)
   ) %>% 
   arrange(desc(sum_mass_kg)) 
-  
+
 dat %>% 
   arrange(sample) %>% 
   group_by(category) %>% 
@@ -148,26 +148,121 @@ What a Waste is a global project to aggregate data on solid waste management fro
 
 # This code is copied from application exercise week 10
 
-data_country <- read_csv("data/raw_data/country_level_data_0.csv")
+data_country <- read_csv("data/raw/what_a_waste/country_level_data_0.csv")
 
-data_city <-  read_csv("data/raw_data/city_level_data_0_0.csv")
+data_city <-  read_csv("data/raw/what_a_waste/city_level_data_0_0.csv")
 
-codebook_country <- read_csv("data/raw_data/country_level_codebook.csv")
+codebook_country <- read_csv("data/raw/what_a_waste/country_level_codebook.csv")
 
-codebook_city <- read_csv("data/raw_data/city_level_codebook_0.csv")
+codebook_city <- read_csv("data/raw/what_a_waste/city_level_codebook_0.csv")
 
 ```
 
 Goal: Select data about waste composition for further analysis. 
 
+## City level data
+
+### Waste treatment
+
+```{r}
+data_city_waste_treatment_tidy <- data_city %>% 
+  select(country = country_name, 
+         income_id, 
+         city = city_name,
+         #population = population_population_number_of_people,
+         starts_with("waste_treatment")) %>% 
+  pivot_longer(cols = !country:city,
+               names_to = "waste_treatment",
+               values_to = "percent") %>% 
+  mutate(waste_treatment = str_remove(string = waste_treatment, pattern = "waste_treatment_")) %>% 
+  mutate(waste_treatment = str_remove(string = waste_treatment, pattern = "_percent"))
+
+city_100_treatment_vector <- data_city_waste_treatment_tidy %>% 
+  group_by(city) %>% 
+  summarise(
+    percent = sum(percent, na.rm = TRUE)
+  ) %>% 
+  mutate(
+    is_100 = percent >= 99.99 & percent <= 100.01 
+  ) %>% 
+  filter(is_100 == TRUE) %>% 
+  pull(city)
+
+data_city_waste_treatment_tidy_100_percent <- data_city_waste_treatment_tidy %>% 
+  filter(city %in% city_100_treatment_vector) %>% 
+  replace_na(replace = list(percent = 0))
+
+## test: are all percentages between 100.1 and 99.9 ?``
+
+data_city_waste_treatment_tidy_100_percent %>% 
+  group_by(city) %>% 
+  summarise(
+    percent = sum(percent)
+  ) %>% 
+  arrange(percent) %>% 
+  mutate(is_100 = near(percent, 100, tol = 0.02)) %>% 
+  filter(is_100 == FALSE)
+
+write_csv(x = data_city_waste_treatment_tidy_100_percent, 
+          file = "data/derived/what-a-waste-city-level-data-treatment.csv")
+
+```
+
+## Waste composition
+
 ```{r}
 
-data_city %>% 
-  select(country_name, income_id, city_name)
+data_city_waste_composition_tidy <- data_city %>% 
+  select(country = country_name, 
+         income_id, 
+         city = city_name,
+         #population = population_population_number_of_people,
+         starts_with("composition")) %>% 
+  pivot_longer(cols = !country:city,
+               names_to = "waste_category",
+               values_to = "percent") %>% 
+  mutate(waste_category = str_remove(string = waste_category, pattern = "composition_")) %>% 
+  mutate(waste_category = str_remove(string = waste_category, pattern = "_percent")) 
 
-data_city %>% 
-  select(-iso3c, -region_id)
 
+city_100_composition_vector <- data_city_waste_composition_tidy %>%
+  group_by(city) %>% 
+  summarise(
+    percent = sum(percent, na.rm = TRUE)
+  ) %>% 
+  mutate(
+    is_100 = percent >= 99.99 & percent <= 100.01 
+  ) %>% 
+  filter(is_100 == TRUE) %>% 
+  pull(city)
+
+data_city_waste_composition_tidy_100_percent <- data_city_waste_composition_tidy %>% 
+  filter(city %in% city_100_composition_vector) %>% 
+  replace_na(replace = list(percent = 0)) 
+
+## test: are all percentages between 100.1 and 99.9 ?``
+
+data_city_waste_composition_tidy_100_percent %>% 
+  group_by(city) %>% 
+  summarise(
+    percent = sum(percent)
+  ) %>% 
+  arrange(percent) %>% 
+  mutate(is_100 = near(percent, 100, tol = 0.02)) %>% 
+  filter(is_100 == FALSE)
+
+write_csv(x = data_city_waste_treatment_tidy_100_percent, 
+          file = "data/derived/what-a-waste-city-level-data-composition.csv")
+
+```
+
+
+
+
+
+## Country level data
+
+```{r}
 data_country %>% 
   select(country_name, ends_with("percent"))
 
@@ -188,17 +283,6 @@ data_country %>%
   ggplot(aes(x = income_id, y = percent, fill = waste_treatment)) +
   geom_col()
 
-
-
-
-
-
-data_city %>% 
-  names()
-
-data_city %>% 
-  select(country_name:city_name, 
-         waste_treatment_advanced_thermal_treatment_percent:waste_treatment_waterways_marine_percent) 
 
 ```
 

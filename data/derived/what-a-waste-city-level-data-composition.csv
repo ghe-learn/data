@@ -1,0 +1,2389 @@
+country,income_id,city,waste_treatment,percent
+Afghanistan,LIC,Jalalabad,advanced_thermal_treatment,0
+Afghanistan,LIC,Jalalabad,anaerobic_digestion,0
+Afghanistan,LIC,Jalalabad,compost,0
+Afghanistan,LIC,Jalalabad,controlled_landfill,0
+Afghanistan,LIC,Jalalabad,incineration,0
+Afghanistan,LIC,Jalalabad,landfill_unspecified,0
+Afghanistan,LIC,Jalalabad,open_dump,100
+Afghanistan,LIC,Jalalabad,other,0
+Afghanistan,LIC,Jalalabad,recycling,0
+Afghanistan,LIC,Jalalabad,sanitary_landfill_landfill_gas_system,0
+Afghanistan,LIC,Jalalabad,unaccounted_for,0
+Afghanistan,LIC,Jalalabad,waterways_marine,0
+Afghanistan,LIC,Kandahar,advanced_thermal_treatment,0
+Afghanistan,LIC,Kandahar,anaerobic_digestion,0
+Afghanistan,LIC,Kandahar,compost,0
+Afghanistan,LIC,Kandahar,controlled_landfill,0
+Afghanistan,LIC,Kandahar,incineration,0
+Afghanistan,LIC,Kandahar,landfill_unspecified,0
+Afghanistan,LIC,Kandahar,open_dump,100
+Afghanistan,LIC,Kandahar,other,0
+Afghanistan,LIC,Kandahar,recycling,0
+Afghanistan,LIC,Kandahar,sanitary_landfill_landfill_gas_system,0
+Afghanistan,LIC,Kandahar,unaccounted_for,0
+Afghanistan,LIC,Kandahar,waterways_marine,0
+Afghanistan,LIC,Mazar-E-Sharif,advanced_thermal_treatment,0
+Afghanistan,LIC,Mazar-E-Sharif,anaerobic_digestion,0
+Afghanistan,LIC,Mazar-E-Sharif,compost,0
+Afghanistan,LIC,Mazar-E-Sharif,controlled_landfill,0
+Afghanistan,LIC,Mazar-E-Sharif,incineration,0
+Afghanistan,LIC,Mazar-E-Sharif,landfill_unspecified,0
+Afghanistan,LIC,Mazar-E-Sharif,open_dump,100
+Afghanistan,LIC,Mazar-E-Sharif,other,0
+Afghanistan,LIC,Mazar-E-Sharif,recycling,0
+Afghanistan,LIC,Mazar-E-Sharif,sanitary_landfill_landfill_gas_system,0
+Afghanistan,LIC,Mazar-E-Sharif,unaccounted_for,0
+Afghanistan,LIC,Mazar-E-Sharif,waterways_marine,0
+Afghanistan,LIC,Kabul,advanced_thermal_treatment,0
+Afghanistan,LIC,Kabul,anaerobic_digestion,0
+Afghanistan,LIC,Kabul,compost,0
+Afghanistan,LIC,Kabul,controlled_landfill,0
+Afghanistan,LIC,Kabul,incineration,0
+Afghanistan,LIC,Kabul,landfill_unspecified,0
+Afghanistan,LIC,Kabul,open_dump,75
+Afghanistan,LIC,Kabul,other,0
+Afghanistan,LIC,Kabul,recycling,0
+Afghanistan,LIC,Kabul,sanitary_landfill_landfill_gas_system,0
+Afghanistan,LIC,Kabul,unaccounted_for,25
+Afghanistan,LIC,Kabul,waterways_marine,0
+Afghanistan,LIC,HiratÂ ,advanced_thermal_treatment,0
+Afghanistan,LIC,HiratÂ ,anaerobic_digestion,0
+Afghanistan,LIC,HiratÂ ,compost,0
+Afghanistan,LIC,HiratÂ ,controlled_landfill,0
+Afghanistan,LIC,HiratÂ ,incineration,0
+Afghanistan,LIC,HiratÂ ,landfill_unspecified,0
+Afghanistan,LIC,HiratÂ ,open_dump,100
+Afghanistan,LIC,HiratÂ ,other,0
+Afghanistan,LIC,HiratÂ ,recycling,0
+Afghanistan,LIC,HiratÂ ,sanitary_landfill_landfill_gas_system,0
+Afghanistan,LIC,HiratÂ ,unaccounted_for,0
+Afghanistan,LIC,HiratÂ ,waterways_marine,0
+Albania,UMC,Korca,advanced_thermal_treatment,0
+Albania,UMC,Korca,anaerobic_digestion,0
+Albania,UMC,Korca,compost,0
+Albania,UMC,Korca,controlled_landfill,100
+Albania,UMC,Korca,incineration,0
+Albania,UMC,Korca,landfill_unspecified,0
+Albania,UMC,Korca,open_dump,0
+Albania,UMC,Korca,other,0
+Albania,UMC,Korca,recycling,0
+Albania,UMC,Korca,sanitary_landfill_landfill_gas_system,0
+Albania,UMC,Korca,unaccounted_for,0
+Albania,UMC,Korca,waterways_marine,0
+Albania,UMC,Vlora,advanced_thermal_treatment,0
+Albania,UMC,Vlora,anaerobic_digestion,0
+Albania,UMC,Vlora,compost,0
+Albania,UMC,Vlora,controlled_landfill,0
+Albania,UMC,Vlora,incineration,0
+Albania,UMC,Vlora,landfill_unspecified,0
+Albania,UMC,Vlora,open_dump,90
+Albania,UMC,Vlora,other,0
+Albania,UMC,Vlora,recycling,10
+Albania,UMC,Vlora,sanitary_landfill_landfill_gas_system,0
+Albania,UMC,Vlora,unaccounted_for,0
+Albania,UMC,Vlora,waterways_marine,0
+United Arab Emirates,HIC,Abu Dhabi,advanced_thermal_treatment,0
+United Arab Emirates,HIC,Abu Dhabi,anaerobic_digestion,0
+United Arab Emirates,HIC,Abu Dhabi,compost,9
+United Arab Emirates,HIC,Abu Dhabi,controlled_landfill,0
+United Arab Emirates,HIC,Abu Dhabi,incineration,0
+United Arab Emirates,HIC,Abu Dhabi,landfill_unspecified,9
+United Arab Emirates,HIC,Abu Dhabi,open_dump,62
+United Arab Emirates,HIC,Abu Dhabi,other,0
+United Arab Emirates,HIC,Abu Dhabi,recycling,20
+United Arab Emirates,HIC,Abu Dhabi,sanitary_landfill_landfill_gas_system,0
+United Arab Emirates,HIC,Abu Dhabi,unaccounted_for,0
+United Arab Emirates,HIC,Abu Dhabi,waterways_marine,0
+United Arab Emirates,HIC,Dubai,advanced_thermal_treatment,0
+United Arab Emirates,HIC,Dubai,anaerobic_digestion,0
+United Arab Emirates,HIC,Dubai,compost,0
+United Arab Emirates,HIC,Dubai,controlled_landfill,0
+United Arab Emirates,HIC,Dubai,incineration,0
+United Arab Emirates,HIC,Dubai,landfill_unspecified,0
+United Arab Emirates,HIC,Dubai,open_dump,0
+United Arab Emirates,HIC,Dubai,other,0
+United Arab Emirates,HIC,Dubai,recycling,25
+United Arab Emirates,HIC,Dubai,sanitary_landfill_landfill_gas_system,75
+United Arab Emirates,HIC,Dubai,unaccounted_for,0
+United Arab Emirates,HIC,Dubai,waterways_marine,0
+Argentina,HIC,CÃ³rdoba,advanced_thermal_treatment,0
+Argentina,HIC,CÃ³rdoba,anaerobic_digestion,0
+Argentina,HIC,CÃ³rdoba,compost,0
+Argentina,HIC,CÃ³rdoba,controlled_landfill,69.32
+Argentina,HIC,CÃ³rdoba,incineration,0
+Argentina,HIC,CÃ³rdoba,landfill_unspecified,0
+Argentina,HIC,CÃ³rdoba,open_dump,30
+Argentina,HIC,CÃ³rdoba,other,0
+Argentina,HIC,CÃ³rdoba,recycling,0.68
+Argentina,HIC,CÃ³rdoba,sanitary_landfill_landfill_gas_system,0
+Argentina,HIC,CÃ³rdoba,unaccounted_for,0
+Argentina,HIC,CÃ³rdoba,waterways_marine,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,advanced_thermal_treatment,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,anaerobic_digestion,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,compost,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,controlled_landfill,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,incineration,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,landfill_unspecified,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,open_dump,0
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,other,14.42
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,recycling,7.2
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,sanitary_landfill_landfill_gas_system,61.5
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,unaccounted_for,16.88
+Argentina,HIC,Ciudada AutÃ³noma De Buenos Aires (Caba).,waterways_marine,0
+Armenia,UMC,Vanadzor,advanced_thermal_treatment,0
+Armenia,UMC,Vanadzor,anaerobic_digestion,0
+Armenia,UMC,Vanadzor,compost,0
+Armenia,UMC,Vanadzor,controlled_landfill,0
+Armenia,UMC,Vanadzor,incineration,0
+Armenia,UMC,Vanadzor,landfill_unspecified,0
+Armenia,UMC,Vanadzor,open_dump,90
+Armenia,UMC,Vanadzor,other,0
+Armenia,UMC,Vanadzor,recycling,0
+Armenia,UMC,Vanadzor,sanitary_landfill_landfill_gas_system,0
+Armenia,UMC,Vanadzor,unaccounted_for,10
+Armenia,UMC,Vanadzor,waterways_marine,0
+Armenia,UMC,Spitak,advanced_thermal_treatment,0
+Armenia,UMC,Spitak,anaerobic_digestion,0
+Armenia,UMC,Spitak,compost,0
+Armenia,UMC,Spitak,controlled_landfill,0
+Armenia,UMC,Spitak,incineration,0
+Armenia,UMC,Spitak,landfill_unspecified,0
+Armenia,UMC,Spitak,open_dump,93.16
+Armenia,UMC,Spitak,other,0
+Armenia,UMC,Spitak,recycling,0
+Armenia,UMC,Spitak,sanitary_landfill_landfill_gas_system,0
+Armenia,UMC,Spitak,unaccounted_for,6.84
+Armenia,UMC,Spitak,waterways_marine,0
+Australia,HIC,Melbourne,advanced_thermal_treatment,0
+Australia,HIC,Melbourne,anaerobic_digestion,0
+Australia,HIC,Melbourne,compost,0
+Australia,HIC,Melbourne,controlled_landfill,74.19
+Australia,HIC,Melbourne,incineration,0
+Australia,HIC,Melbourne,landfill_unspecified,0
+Australia,HIC,Melbourne,open_dump,0
+Australia,HIC,Melbourne,other,0
+Australia,HIC,Melbourne,recycling,25.81
+Australia,HIC,Melbourne,sanitary_landfill_landfill_gas_system,0
+Australia,HIC,Melbourne,unaccounted_for,0
+Australia,HIC,Melbourne,waterways_marine,0
+Australia,HIC,Canberra,advanced_thermal_treatment,0
+Australia,HIC,Canberra,anaerobic_digestion,0
+Australia,HIC,Canberra,compost,0
+Australia,HIC,Canberra,controlled_landfill,28
+Australia,HIC,Canberra,incineration,0
+Australia,HIC,Canberra,landfill_unspecified,0
+Australia,HIC,Canberra,open_dump,0
+Australia,HIC,Canberra,other,0
+Australia,HIC,Canberra,recycling,70
+Australia,HIC,Canberra,sanitary_landfill_landfill_gas_system,0
+Australia,HIC,Canberra,unaccounted_for,2
+Australia,HIC,Canberra,waterways_marine,0
+Burundi,LIC,Muyinga,advanced_thermal_treatment,0
+Burundi,LIC,Muyinga,anaerobic_digestion,0
+Burundi,LIC,Muyinga,compost,0
+Burundi,LIC,Muyinga,controlled_landfill,0
+Burundi,LIC,Muyinga,incineration,0
+Burundi,LIC,Muyinga,landfill_unspecified,0
+Burundi,LIC,Muyinga,open_dump,100
+Burundi,LIC,Muyinga,other,0
+Burundi,LIC,Muyinga,recycling,0
+Burundi,LIC,Muyinga,sanitary_landfill_landfill_gas_system,0
+Burundi,LIC,Muyinga,unaccounted_for,0
+Burundi,LIC,Muyinga,waterways_marine,0
+Burundi,LIC,Ngozi,advanced_thermal_treatment,0
+Burundi,LIC,Ngozi,anaerobic_digestion,0
+Burundi,LIC,Ngozi,compost,0
+Burundi,LIC,Ngozi,controlled_landfill,0
+Burundi,LIC,Ngozi,incineration,0
+Burundi,LIC,Ngozi,landfill_unspecified,0
+Burundi,LIC,Ngozi,open_dump,100
+Burundi,LIC,Ngozi,other,0
+Burundi,LIC,Ngozi,recycling,0
+Burundi,LIC,Ngozi,sanitary_landfill_landfill_gas_system,0
+Burundi,LIC,Ngozi,unaccounted_for,0
+Burundi,LIC,Ngozi,waterways_marine,0
+Burundi,LIC,Bujumbura,advanced_thermal_treatment,0
+Burundi,LIC,Bujumbura,anaerobic_digestion,0
+Burundi,LIC,Bujumbura,compost,0
+Burundi,LIC,Bujumbura,controlled_landfill,0
+Burundi,LIC,Bujumbura,incineration,0
+Burundi,LIC,Bujumbura,landfill_unspecified,0
+Burundi,LIC,Bujumbura,open_dump,100
+Burundi,LIC,Bujumbura,other,0
+Burundi,LIC,Bujumbura,recycling,0
+Burundi,LIC,Bujumbura,sanitary_landfill_landfill_gas_system,0
+Burundi,LIC,Bujumbura,unaccounted_for,0
+Burundi,LIC,Bujumbura,waterways_marine,0
+Belgium,HIC,Liege,advanced_thermal_treatment,0
+Belgium,HIC,Liege,anaerobic_digestion,3
+Belgium,HIC,Liege,compost,14
+Belgium,HIC,Liege,controlled_landfill,0
+Belgium,HIC,Liege,incineration,26
+Belgium,HIC,Liege,landfill_unspecified,0
+Belgium,HIC,Liege,open_dump,0
+Belgium,HIC,Liege,other,0
+Belgium,HIC,Liege,recycling,53
+Belgium,HIC,Liege,sanitary_landfill_landfill_gas_system,4
+Belgium,HIC,Liege,unaccounted_for,0
+Belgium,HIC,Liege,waterways_marine,0
+Bangladesh,LMC,Patuakhali,advanced_thermal_treatment,0
+Bangladesh,LMC,Patuakhali,anaerobic_digestion,0
+Bangladesh,LMC,Patuakhali,compost,0
+Bangladesh,LMC,Patuakhali,controlled_landfill,0
+Bangladesh,LMC,Patuakhali,incineration,0
+Bangladesh,LMC,Patuakhali,landfill_unspecified,0
+Bangladesh,LMC,Patuakhali,open_dump,55.45
+Bangladesh,LMC,Patuakhali,other,0
+Bangladesh,LMC,Patuakhali,recycling,4.55
+Bangladesh,LMC,Patuakhali,sanitary_landfill_landfill_gas_system,0
+Bangladesh,LMC,Patuakhali,unaccounted_for,40
+Bangladesh,LMC,Patuakhali,waterways_marine,0
+Bangladesh,LMC,Chittagong,advanced_thermal_treatment,0
+Bangladesh,LMC,Chittagong,anaerobic_digestion,0
+Bangladesh,LMC,Chittagong,compost,0.42
+Bangladesh,LMC,Chittagong,controlled_landfill,0
+Bangladesh,LMC,Chittagong,incineration,0
+Bangladesh,LMC,Chittagong,landfill_unspecified,0
+Bangladesh,LMC,Chittagong,open_dump,29.17
+Bangladesh,LMC,Chittagong,other,0
+Bangladesh,LMC,Chittagong,recycling,12.41
+Bangladesh,LMC,Chittagong,sanitary_landfill_landfill_gas_system,0
+Bangladesh,LMC,Chittagong,unaccounted_for,58
+Bangladesh,LMC,Chittagong,waterways_marine,0
+Bangladesh,LMC,Rangpur,advanced_thermal_treatment,0
+Bangladesh,LMC,Rangpur,anaerobic_digestion,0
+Bangladesh,LMC,Rangpur,compost,0
+Bangladesh,LMC,Rangpur,controlled_landfill,0
+Bangladesh,LMC,Rangpur,incineration,0
+Bangladesh,LMC,Rangpur,landfill_unspecified,0
+Bangladesh,LMC,Rangpur,open_dump,27.16
+Bangladesh,LMC,Rangpur,other,0
+Bangladesh,LMC,Rangpur,recycling,4.84
+Bangladesh,LMC,Rangpur,sanitary_landfill_landfill_gas_system,0
+Bangladesh,LMC,Rangpur,unaccounted_for,68
+Bangladesh,LMC,Rangpur,waterways_marine,0
+Bangladesh,LMC,Dhaka,advanced_thermal_treatment,0
+Bangladesh,LMC,Dhaka,anaerobic_digestion,0
+Bangladesh,LMC,Dhaka,compost,0
+Bangladesh,LMC,Dhaka,controlled_landfill,0
+Bangladesh,LMC,Dhaka,incineration,0
+Bangladesh,LMC,Dhaka,landfill_unspecified,0
+Bangladesh,LMC,Dhaka,open_dump,43.5
+Bangladesh,LMC,Dhaka,other,43
+Bangladesh,LMC,Dhaka,recycling,13.5
+Bangladesh,LMC,Dhaka,sanitary_landfill_landfill_gas_system,0
+Bangladesh,LMC,Dhaka,unaccounted_for,0
+Bangladesh,LMC,Dhaka,waterways_marine,0
+Bangladesh,LMC,Rajshahi,advanced_thermal_treatment,0
+Bangladesh,LMC,Rajshahi,anaerobic_digestion,0
+Bangladesh,LMC,Rajshahi,compost,0
+Bangladesh,LMC,Rajshahi,controlled_landfill,0
+Bangladesh,LMC,Rajshahi,incineration,0
+Bangladesh,LMC,Rajshahi,landfill_unspecified,0
+Bangladesh,LMC,Rajshahi,open_dump,67.29
+Bangladesh,LMC,Rajshahi,other,0
+Bangladesh,LMC,Rajshahi,recycling,4.71
+Bangladesh,LMC,Rajshahi,sanitary_landfill_landfill_gas_system,0
+Bangladesh,LMC,Rajshahi,unaccounted_for,28
+Bangladesh,LMC,Rajshahi,waterways_marine,0
+Bosnia and Herzegovina,UMC,Banja Luka,advanced_thermal_treatment,0
+Bosnia and Herzegovina,UMC,Banja Luka,anaerobic_digestion,0
+Bosnia and Herzegovina,UMC,Banja Luka,compost,0
+Bosnia and Herzegovina,UMC,Banja Luka,controlled_landfill,0
+Bosnia and Herzegovina,UMC,Banja Luka,incineration,0
+Bosnia and Herzegovina,UMC,Banja Luka,landfill_unspecified,0
+Bosnia and Herzegovina,UMC,Banja Luka,open_dump,0
+Bosnia and Herzegovina,UMC,Banja Luka,other,0
+Bosnia and Herzegovina,UMC,Banja Luka,recycling,0
+Bosnia and Herzegovina,UMC,Banja Luka,sanitary_landfill_landfill_gas_system,100
+Bosnia and Herzegovina,UMC,Banja Luka,unaccounted_for,0
+Bosnia and Herzegovina,UMC,Banja Luka,waterways_marine,0
+Belarus,UMC,Minsk,advanced_thermal_treatment,0
+Belarus,UMC,Minsk,anaerobic_digestion,0
+Belarus,UMC,Minsk,compost,0
+Belarus,UMC,Minsk,controlled_landfill,0
+Belarus,UMC,Minsk,incineration,0
+Belarus,UMC,Minsk,landfill_unspecified,0
+Belarus,UMC,Minsk,open_dump,0
+Belarus,UMC,Minsk,other,0
+Belarus,UMC,Minsk,recycling,0
+Belarus,UMC,Minsk,sanitary_landfill_landfill_gas_system,97
+Belarus,UMC,Minsk,unaccounted_for,3
+Belarus,UMC,Minsk,waterways_marine,0
+Belarus,UMC,Grodno,advanced_thermal_treatment,0
+Belarus,UMC,Grodno,anaerobic_digestion,0
+Belarus,UMC,Grodno,compost,0
+Belarus,UMC,Grodno,controlled_landfill,99.4
+Belarus,UMC,Grodno,incineration,0
+Belarus,UMC,Grodno,landfill_unspecified,0
+Belarus,UMC,Grodno,open_dump,0
+Belarus,UMC,Grodno,other,0
+Belarus,UMC,Grodno,recycling,0.6
+Belarus,UMC,Grodno,sanitary_landfill_landfill_gas_system,0
+Belarus,UMC,Grodno,unaccounted_for,0
+Belarus,UMC,Grodno,waterways_marine,0
+Belize,UMC,San Pedro,advanced_thermal_treatment,0
+Belize,UMC,San Pedro,anaerobic_digestion,0
+Belize,UMC,San Pedro,compost,0
+Belize,UMC,San Pedro,controlled_landfill,0
+Belize,UMC,San Pedro,incineration,0
+Belize,UMC,San Pedro,landfill_unspecified,0
+Belize,UMC,San Pedro,open_dump,0
+Belize,UMC,San Pedro,other,0
+Belize,UMC,San Pedro,recycling,0
+Belize,UMC,San Pedro,sanitary_landfill_landfill_gas_system,57.6
+Belize,UMC,San Pedro,unaccounted_for,42.4
+Belize,UMC,San Pedro,waterways_marine,0
+Belize,UMC,Belize City,advanced_thermal_treatment,0
+Belize,UMC,Belize City,anaerobic_digestion,0
+Belize,UMC,Belize City,compost,0
+Belize,UMC,Belize City,controlled_landfill,0
+Belize,UMC,Belize City,incineration,0
+Belize,UMC,Belize City,landfill_unspecified,0
+Belize,UMC,Belize City,open_dump,0
+Belize,UMC,Belize City,other,0
+Belize,UMC,Belize City,recycling,0
+Belize,UMC,Belize City,sanitary_landfill_landfill_gas_system,65
+Belize,UMC,Belize City,unaccounted_for,35
+Belize,UMC,Belize City,waterways_marine,0
+Bolivia,LMC,La Paz,advanced_thermal_treatment,0
+Bolivia,LMC,La Paz,anaerobic_digestion,0
+Bolivia,LMC,La Paz,compost,1
+Bolivia,LMC,La Paz,controlled_landfill,0
+Bolivia,LMC,La Paz,incineration,0
+Bolivia,LMC,La Paz,landfill_unspecified,0
+Bolivia,LMC,La Paz,open_dump,0
+Bolivia,LMC,La Paz,other,0
+Bolivia,LMC,La Paz,recycling,4
+Bolivia,LMC,La Paz,sanitary_landfill_landfill_gas_system,89
+Bolivia,LMC,La Paz,unaccounted_for,6
+Bolivia,LMC,La Paz,waterways_marine,0
+Brazil,UMC,Rio De Janeiro,advanced_thermal_treatment,0
+Brazil,UMC,Rio De Janeiro,anaerobic_digestion,0
+Brazil,UMC,Rio De Janeiro,compost,0
+Brazil,UMC,Rio De Janeiro,controlled_landfill,6.3
+Brazil,UMC,Rio De Janeiro,incineration,0
+Brazil,UMC,Rio De Janeiro,landfill_unspecified,0
+Brazil,UMC,Rio De Janeiro,open_dump,0
+Brazil,UMC,Rio De Janeiro,other,0
+Brazil,UMC,Rio De Janeiro,recycling,0.5
+Brazil,UMC,Rio De Janeiro,sanitary_landfill_landfill_gas_system,93.2
+Brazil,UMC,Rio De Janeiro,unaccounted_for,0
+Brazil,UMC,Rio De Janeiro,waterways_marine,0
+Brazil,UMC,Sao Paulo,advanced_thermal_treatment,0
+Brazil,UMC,Sao Paulo,anaerobic_digestion,0
+Brazil,UMC,Sao Paulo,compost,3
+Brazil,UMC,Sao Paulo,controlled_landfill,24
+Brazil,UMC,Sao Paulo,incineration,0
+Brazil,UMC,Sao Paulo,landfill_unspecified,0
+Brazil,UMC,Sao Paulo,open_dump,18
+Brazil,UMC,Sao Paulo,other,0
+Brazil,UMC,Sao Paulo,recycling,0
+Brazil,UMC,Sao Paulo,sanitary_landfill_landfill_gas_system,55
+Brazil,UMC,Sao Paulo,unaccounted_for,0
+Brazil,UMC,Sao Paulo,waterways_marine,0
+Bhutan,LMC,PhuentsholingÂ ,advanced_thermal_treatment,0
+Bhutan,LMC,PhuentsholingÂ ,anaerobic_digestion,0
+Bhutan,LMC,PhuentsholingÂ ,compost,0
+Bhutan,LMC,PhuentsholingÂ ,controlled_landfill,0
+Bhutan,LMC,PhuentsholingÂ ,incineration,0
+Bhutan,LMC,PhuentsholingÂ ,landfill_unspecified,0
+Bhutan,LMC,PhuentsholingÂ ,open_dump,0
+Bhutan,LMC,PhuentsholingÂ ,other,0
+Bhutan,LMC,PhuentsholingÂ ,recycling,0
+Bhutan,LMC,PhuentsholingÂ ,sanitary_landfill_landfill_gas_system,100
+Bhutan,LMC,PhuentsholingÂ ,unaccounted_for,0
+Bhutan,LMC,PhuentsholingÂ ,waterways_marine,0
+Bhutan,LMC,Thimphu,advanced_thermal_treatment,0
+Bhutan,LMC,Thimphu,anaerobic_digestion,0
+Bhutan,LMC,Thimphu,compost,8
+Bhutan,LMC,Thimphu,controlled_landfill,0
+Bhutan,LMC,Thimphu,incineration,0
+Bhutan,LMC,Thimphu,landfill_unspecified,0
+Bhutan,LMC,Thimphu,open_dump,82
+Bhutan,LMC,Thimphu,other,0
+Bhutan,LMC,Thimphu,recycling,5
+Bhutan,LMC,Thimphu,sanitary_landfill_landfill_gas_system,0
+Bhutan,LMC,Thimphu,unaccounted_for,5
+Bhutan,LMC,Thimphu,waterways_marine,0
+Chile,HIC,Santiago De Chile,advanced_thermal_treatment,0
+Chile,HIC,Santiago De Chile,anaerobic_digestion,0
+Chile,HIC,Santiago De Chile,compost,0
+Chile,HIC,Santiago De Chile,controlled_landfill,1.2
+Chile,HIC,Santiago De Chile,incineration,0
+Chile,HIC,Santiago De Chile,landfill_unspecified,0
+Chile,HIC,Santiago De Chile,open_dump,0
+Chile,HIC,Santiago De Chile,other,0
+Chile,HIC,Santiago De Chile,recycling,0
+Chile,HIC,Santiago De Chile,sanitary_landfill_landfill_gas_system,98.8
+Chile,HIC,Santiago De Chile,unaccounted_for,0
+Chile,HIC,Santiago De Chile,waterways_marine,0
+China,UMC,Beijing,advanced_thermal_treatment,0
+China,UMC,Beijing,anaerobic_digestion,0
+China,UMC,Beijing,compost,2
+China,UMC,Beijing,controlled_landfill,0
+China,UMC,Beijing,incineration,8
+China,UMC,Beijing,landfill_unspecified,0
+China,UMC,Beijing,open_dump,0
+China,UMC,Beijing,other,0
+China,UMC,Beijing,recycling,0
+China,UMC,Beijing,sanitary_landfill_landfill_gas_system,90
+China,UMC,Beijing,unaccounted_for,0
+China,UMC,Beijing,waterways_marine,0
+"Congo, Dem. Rep.",LIC,Kinshasa,advanced_thermal_treatment,0
+"Congo, Dem. Rep.",LIC,Kinshasa,anaerobic_digestion,0
+"Congo, Dem. Rep.",LIC,Kinshasa,compost,0
+"Congo, Dem. Rep.",LIC,Kinshasa,controlled_landfill,0
+"Congo, Dem. Rep.",LIC,Kinshasa,incineration,0
+"Congo, Dem. Rep.",LIC,Kinshasa,landfill_unspecified,0
+"Congo, Dem. Rep.",LIC,Kinshasa,open_dump,10
+"Congo, Dem. Rep.",LIC,Kinshasa,other,0
+"Congo, Dem. Rep.",LIC,Kinshasa,recycling,0
+"Congo, Dem. Rep.",LIC,Kinshasa,sanitary_landfill_landfill_gas_system,0
+"Congo, Dem. Rep.",LIC,Kinshasa,unaccounted_for,90
+"Congo, Dem. Rep.",LIC,Kinshasa,waterways_marine,0
+Colombia,UMC,BogotÃ¡,advanced_thermal_treatment,0
+Colombia,UMC,BogotÃ¡,anaerobic_digestion,0
+Colombia,UMC,BogotÃ¡,compost,0
+Colombia,UMC,BogotÃ¡,controlled_landfill,0
+Colombia,UMC,BogotÃ¡,incineration,0
+Colombia,UMC,BogotÃ¡,landfill_unspecified,0
+Colombia,UMC,BogotÃ¡,open_dump,0
+Colombia,UMC,BogotÃ¡,other,0
+Colombia,UMC,BogotÃ¡,recycling,17
+Colombia,UMC,BogotÃ¡,sanitary_landfill_landfill_gas_system,83
+Colombia,UMC,BogotÃ¡,unaccounted_for,0
+Colombia,UMC,BogotÃ¡,waterways_marine,0
+Colombia,UMC,Medellin,advanced_thermal_treatment,0
+Colombia,UMC,Medellin,anaerobic_digestion,0
+Colombia,UMC,Medellin,compost,0
+Colombia,UMC,Medellin,controlled_landfill,0
+Colombia,UMC,Medellin,incineration,0
+Colombia,UMC,Medellin,landfill_unspecified,0
+Colombia,UMC,Medellin,open_dump,0
+Colombia,UMC,Medellin,other,0
+Colombia,UMC,Medellin,recycling,16
+Colombia,UMC,Medellin,sanitary_landfill_landfill_gas_system,84
+Colombia,UMC,Medellin,unaccounted_for,0
+Colombia,UMC,Medellin,waterways_marine,0
+Colombia,UMC,Cali,advanced_thermal_treatment,0
+Colombia,UMC,Cali,anaerobic_digestion,0
+Colombia,UMC,Cali,compost,0
+Colombia,UMC,Cali,controlled_landfill,0
+Colombia,UMC,Cali,incineration,0
+Colombia,UMC,Cali,landfill_unspecified,0
+Colombia,UMC,Cali,open_dump,0
+Colombia,UMC,Cali,other,0
+Colombia,UMC,Cali,recycling,15
+Colombia,UMC,Cali,sanitary_landfill_landfill_gas_system,85
+Colombia,UMC,Cali,unaccounted_for,0
+Colombia,UMC,Cali,waterways_marine,0
+Comoros,LIC,Moroni,advanced_thermal_treatment,0
+Comoros,LIC,Moroni,anaerobic_digestion,0
+Comoros,LIC,Moroni,compost,0
+Comoros,LIC,Moroni,controlled_landfill,40
+Comoros,LIC,Moroni,incineration,0
+Comoros,LIC,Moroni,landfill_unspecified,0
+Comoros,LIC,Moroni,open_dump,0
+Comoros,LIC,Moroni,other,0
+Comoros,LIC,Moroni,recycling,0
+Comoros,LIC,Moroni,sanitary_landfill_landfill_gas_system,0
+Comoros,LIC,Moroni,unaccounted_for,60
+Comoros,LIC,Moroni,waterways_marine,0
+Costa Rica,UMC,San JosÃ©,advanced_thermal_treatment,0
+Costa Rica,UMC,San JosÃ©,anaerobic_digestion,0
+Costa Rica,UMC,San JosÃ©,compost,0
+Costa Rica,UMC,San JosÃ©,controlled_landfill,0
+Costa Rica,UMC,San JosÃ©,incineration,0
+Costa Rica,UMC,San JosÃ©,landfill_unspecified,0
+Costa Rica,UMC,San JosÃ©,open_dump,0
+Costa Rica,UMC,San JosÃ©,other,0.38
+Costa Rica,UMC,San JosÃ©,recycling,5.2
+Costa Rica,UMC,San JosÃ©,sanitary_landfill_landfill_gas_system,94.42
+Costa Rica,UMC,San JosÃ©,unaccounted_for,0
+Costa Rica,UMC,San JosÃ©,waterways_marine,0
+Cuba,UMC,Havana,advanced_thermal_treatment,0
+Cuba,UMC,Havana,anaerobic_digestion,0
+Cuba,UMC,Havana,compost,0
+Cuba,UMC,Havana,controlled_landfill,97
+Cuba,UMC,Havana,incineration,0
+Cuba,UMC,Havana,landfill_unspecified,0
+Cuba,UMC,Havana,open_dump,0
+Cuba,UMC,Havana,other,3
+Cuba,UMC,Havana,recycling,0
+Cuba,UMC,Havana,sanitary_landfill_landfill_gas_system,0
+Cuba,UMC,Havana,unaccounted_for,0
+Cuba,UMC,Havana,waterways_marine,0
+Cyprus,HIC,Nicosia,advanced_thermal_treatment,0
+Cyprus,HIC,Nicosia,anaerobic_digestion,0
+Cyprus,HIC,Nicosia,compost,2.87
+Cyprus,HIC,Nicosia,controlled_landfill,0
+Cyprus,HIC,Nicosia,incineration,0
+Cyprus,HIC,Nicosia,landfill_unspecified,87.23
+Cyprus,HIC,Nicosia,open_dump,0
+Cyprus,HIC,Nicosia,other,0
+Cyprus,HIC,Nicosia,recycling,9.89
+Cyprus,HIC,Nicosia,sanitary_landfill_landfill_gas_system,0
+Cyprus,HIC,Nicosia,unaccounted_for,0.01
+Cyprus,HIC,Nicosia,waterways_marine,0
+Germany,HIC,Berlin,advanced_thermal_treatment,0
+Germany,HIC,Berlin,anaerobic_digestion,0
+Germany,HIC,Berlin,compost,0
+Germany,HIC,Berlin,controlled_landfill,1
+Germany,HIC,Berlin,incineration,65
+Germany,HIC,Berlin,landfill_unspecified,0
+Germany,HIC,Berlin,open_dump,0
+Germany,HIC,Berlin,other,6
+Germany,HIC,Berlin,recycling,28
+Germany,HIC,Berlin,sanitary_landfill_landfill_gas_system,0
+Germany,HIC,Berlin,unaccounted_for,0
+Germany,HIC,Berlin,waterways_marine,0
+Dominican Republic,UMC,Santo Domingo,advanced_thermal_treatment,0
+Dominican Republic,UMC,Santo Domingo,anaerobic_digestion,0
+Dominican Republic,UMC,Santo Domingo,compost,0
+Dominican Republic,UMC,Santo Domingo,controlled_landfill,0
+Dominican Republic,UMC,Santo Domingo,incineration,0
+Dominican Republic,UMC,Santo Domingo,landfill_unspecified,0
+Dominican Republic,UMC,Santo Domingo,open_dump,0
+Dominican Republic,UMC,Santo Domingo,other,0
+Dominican Republic,UMC,Santo Domingo,recycling,0
+Dominican Republic,UMC,Santo Domingo,sanitary_landfill_landfill_gas_system,72
+Dominican Republic,UMC,Santo Domingo,unaccounted_for,28
+Dominican Republic,UMC,Santo Domingo,waterways_marine,0
+Algeria,UMC,Algiers,advanced_thermal_treatment,0
+Algeria,UMC,Algiers,anaerobic_digestion,0
+Algeria,UMC,Algiers,compost,1
+Algeria,UMC,Algiers,controlled_landfill,0
+Algeria,UMC,Algiers,incineration,0
+Algeria,UMC,Algiers,landfill_unspecified,0
+Algeria,UMC,Algiers,open_dump,0
+Algeria,UMC,Algiers,other,7
+Algeria,UMC,Algiers,recycling,10
+Algeria,UMC,Algiers,sanitary_landfill_landfill_gas_system,82
+Algeria,UMC,Algiers,unaccounted_for,0
+Algeria,UMC,Algiers,waterways_marine,0
+Ecuador,UMC,Quito,advanced_thermal_treatment,0
+Ecuador,UMC,Quito,anaerobic_digestion,0
+Ecuador,UMC,Quito,compost,0
+Ecuador,UMC,Quito,controlled_landfill,0
+Ecuador,UMC,Quito,incineration,0
+Ecuador,UMC,Quito,landfill_unspecified,0
+Ecuador,UMC,Quito,open_dump,0
+Ecuador,UMC,Quito,other,0
+Ecuador,UMC,Quito,recycling,6
+Ecuador,UMC,Quito,sanitary_landfill_landfill_gas_system,89
+Ecuador,UMC,Quito,unaccounted_for,5
+Ecuador,UMC,Quito,waterways_marine,0
+Spain,HIC,Pamplona,advanced_thermal_treatment,0
+Spain,HIC,Pamplona,anaerobic_digestion,0
+Spain,HIC,Pamplona,compost,0
+Spain,HIC,Pamplona,controlled_landfill,68
+Spain,HIC,Pamplona,incineration,0
+Spain,HIC,Pamplona,landfill_unspecified,0
+Spain,HIC,Pamplona,open_dump,0
+Spain,HIC,Pamplona,other,0
+Spain,HIC,Pamplona,recycling,32
+Spain,HIC,Pamplona,sanitary_landfill_landfill_gas_system,0
+Spain,HIC,Pamplona,unaccounted_for,0
+Spain,HIC,Pamplona,waterways_marine,0
+Spain,HIC,Madrid,advanced_thermal_treatment,0
+Spain,HIC,Madrid,anaerobic_digestion,10
+Spain,HIC,Madrid,compost,5
+Spain,HIC,Madrid,controlled_landfill,29
+Spain,HIC,Madrid,incineration,10
+Spain,HIC,Madrid,landfill_unspecified,0
+Spain,HIC,Madrid,open_dump,0
+Spain,HIC,Madrid,other,36
+Spain,HIC,Madrid,recycling,10
+Spain,HIC,Madrid,sanitary_landfill_landfill_gas_system,0
+Spain,HIC,Madrid,unaccounted_for,0
+Spain,HIC,Madrid,waterways_marine,0
+Ethiopia,LIC,Dire Dawa,advanced_thermal_treatment,0
+Ethiopia,LIC,Dire Dawa,anaerobic_digestion,0
+Ethiopia,LIC,Dire Dawa,compost,0
+Ethiopia,LIC,Dire Dawa,controlled_landfill,0
+Ethiopia,LIC,Dire Dawa,incineration,0
+Ethiopia,LIC,Dire Dawa,landfill_unspecified,0
+Ethiopia,LIC,Dire Dawa,open_dump,100
+Ethiopia,LIC,Dire Dawa,other,0
+Ethiopia,LIC,Dire Dawa,recycling,0
+Ethiopia,LIC,Dire Dawa,sanitary_landfill_landfill_gas_system,0
+Ethiopia,LIC,Dire Dawa,unaccounted_for,0
+Ethiopia,LIC,Dire Dawa,waterways_marine,0
+Finland,HIC,Oulu,advanced_thermal_treatment,0
+Finland,HIC,Oulu,anaerobic_digestion,0
+Finland,HIC,Oulu,compost,0
+Finland,HIC,Oulu,controlled_landfill,0
+Finland,HIC,Oulu,incineration,0
+Finland,HIC,Oulu,landfill_unspecified,0
+Finland,HIC,Oulu,open_dump,0
+Finland,HIC,Oulu,other,0
+Finland,HIC,Oulu,recycling,0
+Finland,HIC,Oulu,sanitary_landfill_landfill_gas_system,7.5
+Finland,HIC,Oulu,unaccounted_for,92.5
+Finland,HIC,Oulu,waterways_marine,0
+France,HIC,Paris,advanced_thermal_treatment,0
+France,HIC,Paris,anaerobic_digestion,0
+France,HIC,Paris,compost,0
+France,HIC,Paris,controlled_landfill,0
+France,HIC,Paris,incineration,77.5
+France,HIC,Paris,landfill_unspecified,0
+France,HIC,Paris,open_dump,0
+France,HIC,Paris,other,0
+France,HIC,Paris,recycling,17.1
+France,HIC,Paris,sanitary_landfill_landfill_gas_system,5.4
+France,HIC,Paris,unaccounted_for,0
+France,HIC,Paris,waterways_marine,0
+Gabon,UMC,Libreville,advanced_thermal_treatment,0
+Gabon,UMC,Libreville,anaerobic_digestion,0
+Gabon,UMC,Libreville,compost,0
+Gabon,UMC,Libreville,controlled_landfill,0
+Gabon,UMC,Libreville,incineration,0
+Gabon,UMC,Libreville,landfill_unspecified,0
+Gabon,UMC,Libreville,open_dump,100
+Gabon,UMC,Libreville,other,0
+Gabon,UMC,Libreville,recycling,0
+Gabon,UMC,Libreville,sanitary_landfill_landfill_gas_system,0
+Gabon,UMC,Libreville,unaccounted_for,0
+Gabon,UMC,Libreville,waterways_marine,0
+United Kingdom,HIC,Bristol,advanced_thermal_treatment,25.3
+United Kingdom,HIC,Bristol,anaerobic_digestion,0
+United Kingdom,HIC,Bristol,compost,0
+United Kingdom,HIC,Bristol,controlled_landfill,29.67
+United Kingdom,HIC,Bristol,incineration,0
+United Kingdom,HIC,Bristol,landfill_unspecified,0
+United Kingdom,HIC,Bristol,open_dump,0
+United Kingdom,HIC,Bristol,other,0
+United Kingdom,HIC,Bristol,recycling,45.03
+United Kingdom,HIC,Bristol,sanitary_landfill_landfill_gas_system,0
+United Kingdom,HIC,Bristol,unaccounted_for,0
+United Kingdom,HIC,Bristol,waterways_marine,0
+Ghana,LMC,Accra,advanced_thermal_treatment,0
+Ghana,LMC,Accra,anaerobic_digestion,0
+Ghana,LMC,Accra,compost,0
+Ghana,LMC,Accra,controlled_landfill,0
+Ghana,LMC,Accra,incineration,0
+Ghana,LMC,Accra,landfill_unspecified,0
+Ghana,LMC,Accra,open_dump,0
+Ghana,LMC,Accra,other,0
+Ghana,LMC,Accra,recycling,5
+Ghana,LMC,Accra,sanitary_landfill_landfill_gas_system,0
+Ghana,LMC,Accra,unaccounted_for,95
+Ghana,LMC,Accra,waterways_marine,0
+Guatemala,UMC,Guatemala City,advanced_thermal_treatment,0
+Guatemala,UMC,Guatemala City,anaerobic_digestion,0
+Guatemala,UMC,Guatemala City,compost,0
+Guatemala,UMC,Guatemala City,controlled_landfill,0
+Guatemala,UMC,Guatemala City,incineration,0
+Guatemala,UMC,Guatemala City,landfill_unspecified,0
+Guatemala,UMC,Guatemala City,open_dump,48
+Guatemala,UMC,Guatemala City,other,47
+Guatemala,UMC,Guatemala City,recycling,5
+Guatemala,UMC,Guatemala City,sanitary_landfill_landfill_gas_system,0
+Guatemala,UMC,Guatemala City,unaccounted_for,0
+Guatemala,UMC,Guatemala City,waterways_marine,0
+Guatemala,UMC,Jutiapa,advanced_thermal_treatment,0
+Guatemala,UMC,Jutiapa,anaerobic_digestion,0
+Guatemala,UMC,Jutiapa,compost,0
+Guatemala,UMC,Jutiapa,controlled_landfill,0
+Guatemala,UMC,Jutiapa,incineration,0
+Guatemala,UMC,Jutiapa,landfill_unspecified,0
+Guatemala,UMC,Jutiapa,open_dump,12.44
+Guatemala,UMC,Jutiapa,other,87.56
+Guatemala,UMC,Jutiapa,recycling,0
+Guatemala,UMC,Jutiapa,sanitary_landfill_landfill_gas_system,0
+Guatemala,UMC,Jutiapa,unaccounted_for,0
+Guatemala,UMC,Jutiapa,waterways_marine,0
+Honduras,LMC,Tegucigalpa,advanced_thermal_treatment,0
+Honduras,LMC,Tegucigalpa,anaerobic_digestion,0
+Honduras,LMC,Tegucigalpa,compost,0
+Honduras,LMC,Tegucigalpa,controlled_landfill,0
+Honduras,LMC,Tegucigalpa,incineration,0
+Honduras,LMC,Tegucigalpa,landfill_unspecified,0
+Honduras,LMC,Tegucigalpa,open_dump,5
+Honduras,LMC,Tegucigalpa,other,2
+Honduras,LMC,Tegucigalpa,recycling,3
+Honduras,LMC,Tegucigalpa,sanitary_landfill_landfill_gas_system,89
+Honduras,LMC,Tegucigalpa,unaccounted_for,1
+Honduras,LMC,Tegucigalpa,waterways_marine,0
+Haiti,LIC,Port Au Prince,advanced_thermal_treatment,0
+Haiti,LIC,Port Au Prince,anaerobic_digestion,0
+Haiti,LIC,Port Au Prince,compost,0
+Haiti,LIC,Port Au Prince,controlled_landfill,20
+Haiti,LIC,Port Au Prince,incineration,0
+Haiti,LIC,Port Au Prince,landfill_unspecified,0
+Haiti,LIC,Port Au Prince,open_dump,0
+Haiti,LIC,Port Au Prince,other,0
+Haiti,LIC,Port Au Prince,recycling,0
+Haiti,LIC,Port Au Prince,sanitary_landfill_landfill_gas_system,0
+Haiti,LIC,Port Au Prince,unaccounted_for,80
+Haiti,LIC,Port Au Prince,waterways_marine,0
+Hungary,HIC,Budapest,advanced_thermal_treatment,0
+Hungary,HIC,Budapest,anaerobic_digestion,0
+Hungary,HIC,Budapest,compost,0
+Hungary,HIC,Budapest,controlled_landfill,0
+Hungary,HIC,Budapest,incineration,52
+Hungary,HIC,Budapest,landfill_unspecified,0
+Hungary,HIC,Budapest,open_dump,0
+Hungary,HIC,Budapest,other,0
+Hungary,HIC,Budapest,recycling,0
+Hungary,HIC,Budapest,sanitary_landfill_landfill_gas_system,0
+Hungary,HIC,Budapest,unaccounted_for,48
+Hungary,HIC,Budapest,waterways_marine,0
+Indonesia,LMC,Jakarta,advanced_thermal_treatment,0
+Indonesia,LMC,Jakarta,anaerobic_digestion,0
+Indonesia,LMC,Jakarta,compost,0
+Indonesia,LMC,Jakarta,controlled_landfill,0
+Indonesia,LMC,Jakarta,incineration,0
+Indonesia,LMC,Jakarta,landfill_unspecified,69.5
+Indonesia,LMC,Jakarta,open_dump,0
+Indonesia,LMC,Jakarta,other,0
+Indonesia,LMC,Jakarta,recycling,7.5
+Indonesia,LMC,Jakarta,sanitary_landfill_landfill_gas_system,0
+Indonesia,LMC,Jakarta,unaccounted_for,23
+Indonesia,LMC,Jakarta,waterways_marine,0
+India,LMC,Kota,advanced_thermal_treatment,0
+India,LMC,Kota,anaerobic_digestion,0
+India,LMC,Kota,compost,0
+India,LMC,Kota,controlled_landfill,0
+India,LMC,Kota,incineration,0
+India,LMC,Kota,landfill_unspecified,0
+India,LMC,Kota,open_dump,100
+India,LMC,Kota,other,0
+India,LMC,Kota,recycling,0
+India,LMC,Kota,sanitary_landfill_landfill_gas_system,0
+India,LMC,Kota,unaccounted_for,0
+India,LMC,Kota,waterways_marine,0
+India,LMC,Kozhikode,advanced_thermal_treatment,0
+India,LMC,Kozhikode,anaerobic_digestion,0
+India,LMC,Kozhikode,compost,25
+India,LMC,Kozhikode,controlled_landfill,0
+India,LMC,Kozhikode,incineration,0
+India,LMC,Kozhikode,landfill_unspecified,0
+India,LMC,Kozhikode,open_dump,60
+India,LMC,Kozhikode,other,0
+India,LMC,Kozhikode,recycling,0
+India,LMC,Kozhikode,sanitary_landfill_landfill_gas_system,0
+India,LMC,Kozhikode,unaccounted_for,15
+India,LMC,Kozhikode,waterways_marine,0
+India,LMC,Tirunelveli,advanced_thermal_treatment,0
+India,LMC,Tirunelveli,anaerobic_digestion,0
+India,LMC,Tirunelveli,compost,0
+India,LMC,Tirunelveli,controlled_landfill,0
+India,LMC,Tirunelveli,incineration,0
+India,LMC,Tirunelveli,landfill_unspecified,0
+India,LMC,Tirunelveli,open_dump,100
+India,LMC,Tirunelveli,other,0
+India,LMC,Tirunelveli,recycling,0
+India,LMC,Tirunelveli,sanitary_landfill_landfill_gas_system,0
+India,LMC,Tirunelveli,unaccounted_for,0
+India,LMC,Tirunelveli,waterways_marine,0
+India,LMC,Amritsar,advanced_thermal_treatment,0
+India,LMC,Amritsar,anaerobic_digestion,0
+India,LMC,Amritsar,compost,0
+India,LMC,Amritsar,controlled_landfill,0
+India,LMC,Amritsar,incineration,0
+India,LMC,Amritsar,landfill_unspecified,0
+India,LMC,Amritsar,open_dump,100
+India,LMC,Amritsar,other,0
+India,LMC,Amritsar,recycling,0
+India,LMC,Amritsar,sanitary_landfill_landfill_gas_system,0
+India,LMC,Amritsar,unaccounted_for,0
+India,LMC,Amritsar,waterways_marine,0
+India,LMC,Allahabad,advanced_thermal_treatment,0
+India,LMC,Allahabad,anaerobic_digestion,0
+India,LMC,Allahabad,compost,28
+India,LMC,Allahabad,controlled_landfill,0
+India,LMC,Allahabad,incineration,0
+India,LMC,Allahabad,landfill_unspecified,0
+India,LMC,Allahabad,open_dump,65.7
+India,LMC,Allahabad,other,0
+India,LMC,Allahabad,recycling,0
+India,LMC,Allahabad,sanitary_landfill_landfill_gas_system,0
+India,LMC,Allahabad,unaccounted_for,6.3
+India,LMC,Allahabad,waterways_marine,0
+India,LMC,Greater Hyderabad Â ,advanced_thermal_treatment,0
+India,LMC,Greater Hyderabad Â ,anaerobic_digestion,0
+India,LMC,Greater Hyderabad Â ,compost,44
+India,LMC,Greater Hyderabad Â ,controlled_landfill,10
+India,LMC,Greater Hyderabad Â ,incineration,0
+India,LMC,Greater Hyderabad Â ,landfill_unspecified,0
+India,LMC,Greater Hyderabad Â ,open_dump,0
+India,LMC,Greater Hyderabad Â ,other,36
+India,LMC,Greater Hyderabad Â ,recycling,0
+India,LMC,Greater Hyderabad Â ,sanitary_landfill_landfill_gas_system,0
+India,LMC,Greater Hyderabad Â ,unaccounted_for,10
+India,LMC,Greater Hyderabad Â ,waterways_marine,0
+India,LMC,Kochi,advanced_thermal_treatment,0
+India,LMC,Kochi,anaerobic_digestion,0
+India,LMC,Kochi,compost,40.3
+India,LMC,Kochi,controlled_landfill,38
+India,LMC,Kochi,incineration,0
+India,LMC,Kochi,landfill_unspecified,0
+India,LMC,Kochi,open_dump,0
+India,LMC,Kochi,other,0
+India,LMC,Kochi,recycling,21.6
+India,LMC,Kochi,sanitary_landfill_landfill_gas_system,0
+India,LMC,Kochi,unaccounted_for,0.1
+India,LMC,Kochi,waterways_marine,0
+India,LMC,Leh,advanced_thermal_treatment,0
+India,LMC,Leh,anaerobic_digestion,0
+India,LMC,Leh,compost,0
+India,LMC,Leh,controlled_landfill,0
+India,LMC,Leh,incineration,0
+India,LMC,Leh,landfill_unspecified,0
+India,LMC,Leh,open_dump,100
+India,LMC,Leh,other,0
+India,LMC,Leh,recycling,0
+India,LMC,Leh,sanitary_landfill_landfill_gas_system,0
+India,LMC,Leh,unaccounted_for,0
+India,LMC,Leh,waterways_marine,0
+India,LMC,Pune,advanced_thermal_treatment,0
+India,LMC,Pune,anaerobic_digestion,10.48
+India,LMC,Pune,compost,16.84
+India,LMC,Pune,controlled_landfill,0
+India,LMC,Pune,incineration,0
+India,LMC,Pune,landfill_unspecified,0
+India,LMC,Pune,open_dump,50
+India,LMC,Pune,other,10.89
+India,LMC,Pune,recycling,11.17
+India,LMC,Pune,sanitary_landfill_landfill_gas_system,0
+India,LMC,Pune,unaccounted_for,0.62
+India,LMC,Pune,waterways_marine,0
+India,LMC,Jodhpur,advanced_thermal_treatment,0
+India,LMC,Jodhpur,anaerobic_digestion,0
+India,LMC,Jodhpur,compost,24.7
+India,LMC,Jodhpur,controlled_landfill,0
+India,LMC,Jodhpur,incineration,0
+India,LMC,Jodhpur,landfill_unspecified,0
+India,LMC,Jodhpur,open_dump,54
+India,LMC,Jodhpur,other,0
+India,LMC,Jodhpur,recycling,0
+India,LMC,Jodhpur,sanitary_landfill_landfill_gas_system,0
+India,LMC,Jodhpur,unaccounted_for,21.3
+India,LMC,Jodhpur,waterways_marine,0
+India,LMC,Shimla,advanced_thermal_treatment,0
+India,LMC,Shimla,anaerobic_digestion,0
+India,LMC,Shimla,compost,0
+India,LMC,Shimla,controlled_landfill,0
+India,LMC,Shimla,incineration,0
+India,LMC,Shimla,landfill_unspecified,0
+India,LMC,Shimla,open_dump,0
+India,LMC,Shimla,other,16
+India,LMC,Shimla,recycling,15
+India,LMC,Shimla,sanitary_landfill_landfill_gas_system,0
+India,LMC,Shimla,unaccounted_for,69
+India,LMC,Shimla,waterways_marine,0
+India,LMC,Rudrapur,advanced_thermal_treatment,0
+India,LMC,Rudrapur,anaerobic_digestion,0
+India,LMC,Rudrapur,compost,0
+India,LMC,Rudrapur,controlled_landfill,0
+India,LMC,Rudrapur,incineration,0
+India,LMC,Rudrapur,landfill_unspecified,0
+India,LMC,Rudrapur,open_dump,92
+India,LMC,Rudrapur,other,0
+India,LMC,Rudrapur,recycling,0
+India,LMC,Rudrapur,sanitary_landfill_landfill_gas_system,0
+India,LMC,Rudrapur,unaccounted_for,8
+India,LMC,Rudrapur,waterways_marine,0
+India,LMC,Bengaluru,advanced_thermal_treatment,0
+India,LMC,Bengaluru,anaerobic_digestion,0.57
+India,LMC,Bengaluru,compost,14.28
+India,LMC,Bengaluru,controlled_landfill,0
+India,LMC,Bengaluru,incineration,0
+India,LMC,Bengaluru,landfill_unspecified,0
+India,LMC,Bengaluru,open_dump,70
+India,LMC,Bengaluru,other,0
+India,LMC,Bengaluru,recycling,0
+India,LMC,Bengaluru,sanitary_landfill_landfill_gas_system,0
+India,LMC,Bengaluru,unaccounted_for,15.15
+India,LMC,Bengaluru,waterways_marine,0
+India,LMC,Pimpri-Chinchwad,advanced_thermal_treatment,0
+India,LMC,Pimpri-Chinchwad,anaerobic_digestion,0
+India,LMC,Pimpri-Chinchwad,compost,60.9
+India,LMC,Pimpri-Chinchwad,controlled_landfill,0
+India,LMC,Pimpri-Chinchwad,incineration,0
+India,LMC,Pimpri-Chinchwad,landfill_unspecified,0
+India,LMC,Pimpri-Chinchwad,open_dump,0
+India,LMC,Pimpri-Chinchwad,other,0.2
+India,LMC,Pimpri-Chinchwad,recycling,18.8
+India,LMC,Pimpri-Chinchwad,sanitary_landfill_landfill_gas_system,20
+India,LMC,Pimpri-Chinchwad,unaccounted_for,0.1
+India,LMC,Pimpri-Chinchwad,waterways_marine,0
+India,LMC,Kanpur,advanced_thermal_treatment,0
+India,LMC,Kanpur,anaerobic_digestion,0
+India,LMC,Kanpur,compost,46.66
+India,LMC,Kanpur,controlled_landfill,0
+India,LMC,Kanpur,incineration,35
+India,LMC,Kanpur,landfill_unspecified,0
+India,LMC,Kanpur,open_dump,0
+India,LMC,Kanpur,other,0
+India,LMC,Kanpur,recycling,8
+India,LMC,Kanpur,sanitary_landfill_landfill_gas_system,0
+India,LMC,Kanpur,unaccounted_for,10.34
+India,LMC,Kanpur,waterways_marine,0
+India,LMC,Rajkot,advanced_thermal_treatment,0
+India,LMC,Rajkot,anaerobic_digestion,0
+India,LMC,Rajkot,compost,0
+India,LMC,Rajkot,controlled_landfill,0
+India,LMC,Rajkot,incineration,0
+India,LMC,Rajkot,landfill_unspecified,0
+India,LMC,Rajkot,open_dump,100
+India,LMC,Rajkot,other,0
+India,LMC,Rajkot,recycling,0
+India,LMC,Rajkot,sanitary_landfill_landfill_gas_system,0
+India,LMC,Rajkot,unaccounted_for,0
+India,LMC,Rajkot,waterways_marine,0
+India,LMC,Tenali,advanced_thermal_treatment,0
+India,LMC,Tenali,anaerobic_digestion,2.1
+India,LMC,Tenali,compost,1.05
+India,LMC,Tenali,controlled_landfill,0
+India,LMC,Tenali,incineration,0
+India,LMC,Tenali,landfill_unspecified,0
+India,LMC,Tenali,open_dump,90
+India,LMC,Tenali,other,0
+India,LMC,Tenali,recycling,3.7
+India,LMC,Tenali,sanitary_landfill_landfill_gas_system,0
+India,LMC,Tenali,unaccounted_for,3.15
+India,LMC,Tenali,waterways_marine,0
+India,LMC,Lucknow,advanced_thermal_treatment,0
+India,LMC,Lucknow,anaerobic_digestion,0
+India,LMC,Lucknow,compost,23
+India,LMC,Lucknow,controlled_landfill,0
+India,LMC,Lucknow,incineration,0
+India,LMC,Lucknow,landfill_unspecified,0
+India,LMC,Lucknow,open_dump,60
+India,LMC,Lucknow,other,15
+India,LMC,Lucknow,recycling,0
+India,LMC,Lucknow,sanitary_landfill_landfill_gas_system,0
+India,LMC,Lucknow,unaccounted_for,2
+India,LMC,Lucknow,waterways_marine,0
+India,LMC,Ludhiana,advanced_thermal_treatment,0
+India,LMC,Ludhiana,anaerobic_digestion,0
+India,LMC,Ludhiana,compost,0
+India,LMC,Ludhiana,controlled_landfill,0
+India,LMC,Ludhiana,incineration,0
+India,LMC,Ludhiana,landfill_unspecified,0
+India,LMC,Ludhiana,open_dump,45
+India,LMC,Ludhiana,other,55
+India,LMC,Ludhiana,recycling,0
+India,LMC,Ludhiana,sanitary_landfill_landfill_gas_system,0
+India,LMC,Ludhiana,unaccounted_for,0
+India,LMC,Ludhiana,waterways_marine,0
+India,LMC,Tadipatri,advanced_thermal_treatment,0
+India,LMC,Tadipatri,anaerobic_digestion,0
+India,LMC,Tadipatri,compost,70
+India,LMC,Tadipatri,controlled_landfill,0
+India,LMC,Tadipatri,incineration,0
+India,LMC,Tadipatri,landfill_unspecified,0
+India,LMC,Tadipatri,open_dump,30
+India,LMC,Tadipatri,other,0
+India,LMC,Tadipatri,recycling,0
+India,LMC,Tadipatri,sanitary_landfill_landfill_gas_system,0
+India,LMC,Tadipatri,unaccounted_for,0
+India,LMC,Tadipatri,waterways_marine,0
+India,LMC,Bhopal,advanced_thermal_treatment,0
+India,LMC,Bhopal,anaerobic_digestion,0.75
+India,LMC,Bhopal,compost,21.1
+India,LMC,Bhopal,controlled_landfill,0
+India,LMC,Bhopal,incineration,0
+India,LMC,Bhopal,landfill_unspecified,0
+India,LMC,Bhopal,open_dump,0
+India,LMC,Bhopal,other,0
+India,LMC,Bhopal,recycling,0
+India,LMC,Bhopal,sanitary_landfill_landfill_gas_system,0
+India,LMC,Bhopal,unaccounted_for,78.15
+India,LMC,Bhopal,waterways_marine,0
+India,LMC,Cuttack,advanced_thermal_treatment,0
+India,LMC,Cuttack,anaerobic_digestion,0
+India,LMC,Cuttack,compost,0
+India,LMC,Cuttack,controlled_landfill,0
+India,LMC,Cuttack,incineration,0
+India,LMC,Cuttack,landfill_unspecified,0
+India,LMC,Cuttack,open_dump,100
+India,LMC,Cuttack,other,0
+India,LMC,Cuttack,recycling,0
+India,LMC,Cuttack,sanitary_landfill_landfill_gas_system,0
+India,LMC,Cuttack,unaccounted_for,0
+India,LMC,Cuttack,waterways_marine,0
+India,LMC,Itanagar,advanced_thermal_treatment,0
+India,LMC,Itanagar,anaerobic_digestion,0
+India,LMC,Itanagar,compost,62.5
+India,LMC,Itanagar,controlled_landfill,0
+India,LMC,Itanagar,incineration,0
+India,LMC,Itanagar,landfill_unspecified,0
+India,LMC,Itanagar,open_dump,12
+India,LMC,Itanagar,other,0
+India,LMC,Itanagar,recycling,0
+India,LMC,Itanagar,sanitary_landfill_landfill_gas_system,0
+India,LMC,Itanagar,unaccounted_for,25.5
+India,LMC,Itanagar,waterways_marine,0
+India,LMC,Vishakhapatnam,advanced_thermal_treatment,0
+India,LMC,Vishakhapatnam,anaerobic_digestion,0
+India,LMC,Vishakhapatnam,compost,0
+India,LMC,Vishakhapatnam,controlled_landfill,0
+India,LMC,Vishakhapatnam,incineration,0
+India,LMC,Vishakhapatnam,landfill_unspecified,0
+India,LMC,Vishakhapatnam,open_dump,97
+India,LMC,Vishakhapatnam,other,0
+India,LMC,Vishakhapatnam,recycling,0
+India,LMC,Vishakhapatnam,sanitary_landfill_landfill_gas_system,0
+India,LMC,Vishakhapatnam,unaccounted_for,3
+India,LMC,Vishakhapatnam,waterways_marine,0
+India,LMC,Srinagar,advanced_thermal_treatment,0
+India,LMC,Srinagar,anaerobic_digestion,0
+India,LMC,Srinagar,compost,0
+India,LMC,Srinagar,controlled_landfill,0
+India,LMC,Srinagar,incineration,0
+India,LMC,Srinagar,landfill_unspecified,0
+India,LMC,Srinagar,open_dump,100
+India,LMC,Srinagar,other,0
+India,LMC,Srinagar,recycling,0
+India,LMC,Srinagar,sanitary_landfill_landfill_gas_system,0
+India,LMC,Srinagar,unaccounted_for,0
+India,LMC,Srinagar,waterways_marine,0
+India,LMC,Ghaziabad,advanced_thermal_treatment,0
+India,LMC,Ghaziabad,anaerobic_digestion,0
+India,LMC,Ghaziabad,compost,40
+India,LMC,Ghaziabad,controlled_landfill,0
+India,LMC,Ghaziabad,incineration,0
+India,LMC,Ghaziabad,landfill_unspecified,0
+India,LMC,Ghaziabad,open_dump,60
+India,LMC,Ghaziabad,other,0
+India,LMC,Ghaziabad,recycling,0
+India,LMC,Ghaziabad,sanitary_landfill_landfill_gas_system,0
+India,LMC,Ghaziabad,unaccounted_for,0
+India,LMC,Ghaziabad,waterways_marine,0
+India,LMC,Surat,advanced_thermal_treatment,0
+India,LMC,Surat,anaerobic_digestion,0
+India,LMC,Surat,compost,23.5
+India,LMC,Surat,controlled_landfill,0
+India,LMC,Surat,incineration,0
+India,LMC,Surat,landfill_unspecified,0
+India,LMC,Surat,open_dump,76
+India,LMC,Surat,other,0
+India,LMC,Surat,recycling,0
+India,LMC,Surat,sanitary_landfill_landfill_gas_system,0
+India,LMC,Surat,unaccounted_for,0.5
+India,LMC,Surat,waterways_marine,0
+India,LMC,Vijaywada,advanced_thermal_treatment,0
+India,LMC,Vijaywada,anaerobic_digestion,3.5
+India,LMC,Vijaywada,compost,22
+India,LMC,Vijaywada,controlled_landfill,0
+India,LMC,Vijaywada,incineration,0
+India,LMC,Vijaywada,landfill_unspecified,0
+India,LMC,Vijaywada,open_dump,74
+India,LMC,Vijaywada,other,0
+India,LMC,Vijaywada,recycling,0
+India,LMC,Vijaywada,sanitary_landfill_landfill_gas_system,0
+India,LMC,Vijaywada,unaccounted_for,0.5
+India,LMC,Vijaywada,waterways_marine,0
+India,LMC,Chennai,advanced_thermal_treatment,0
+India,LMC,Chennai,anaerobic_digestion,0
+India,LMC,Chennai,compost,1
+India,LMC,Chennai,controlled_landfill,99
+India,LMC,Chennai,incineration,0
+India,LMC,Chennai,landfill_unspecified,0
+India,LMC,Chennai,open_dump,0
+India,LMC,Chennai,other,0
+India,LMC,Chennai,recycling,0
+India,LMC,Chennai,sanitary_landfill_landfill_gas_system,0
+India,LMC,Chennai,unaccounted_for,0
+India,LMC,Chennai,waterways_marine,0
+India,LMC,Indore,advanced_thermal_treatment,0
+India,LMC,Indore,anaerobic_digestion,0
+India,LMC,Indore,compost,50
+India,LMC,Indore,controlled_landfill,0
+India,LMC,Indore,incineration,0
+India,LMC,Indore,landfill_unspecified,0
+India,LMC,Indore,open_dump,25
+India,LMC,Indore,other,25
+India,LMC,Indore,recycling,0
+India,LMC,Indore,sanitary_landfill_landfill_gas_system,0
+India,LMC,Indore,unaccounted_for,0
+India,LMC,Indore,waterways_marine,0
+India,LMC,Navi Mumbai,advanced_thermal_treatment,0
+India,LMC,Navi Mumbai,anaerobic_digestion,0
+India,LMC,Navi Mumbai,compost,82
+India,LMC,Navi Mumbai,controlled_landfill,18
+India,LMC,Navi Mumbai,incineration,0
+India,LMC,Navi Mumbai,landfill_unspecified,0
+India,LMC,Navi Mumbai,open_dump,0
+India,LMC,Navi Mumbai,other,0
+India,LMC,Navi Mumbai,recycling,0
+India,LMC,Navi Mumbai,sanitary_landfill_landfill_gas_system,0
+India,LMC,Navi Mumbai,unaccounted_for,0
+India,LMC,Navi Mumbai,waterways_marine,0
+India,LMC,Greater Mumbai,advanced_thermal_treatment,0
+India,LMC,Greater Mumbai,anaerobic_digestion,0
+India,LMC,Greater Mumbai,compost,0
+India,LMC,Greater Mumbai,controlled_landfill,0
+India,LMC,Greater Mumbai,incineration,0
+India,LMC,Greater Mumbai,landfill_unspecified,0
+India,LMC,Greater Mumbai,open_dump,54
+India,LMC,Greater Mumbai,other,45.53
+India,LMC,Greater Mumbai,recycling,0
+India,LMC,Greater Mumbai,sanitary_landfill_landfill_gas_system,0
+India,LMC,Greater Mumbai,unaccounted_for,0.47
+India,LMC,Greater Mumbai,waterways_marine,0
+India,LMC,Guwahati,advanced_thermal_treatment,0
+India,LMC,Guwahati,anaerobic_digestion,0
+India,LMC,Guwahati,compost,8.2
+India,LMC,Guwahati,controlled_landfill,0
+India,LMC,Guwahati,incineration,0
+India,LMC,Guwahati,landfill_unspecified,0
+India,LMC,Guwahati,open_dump,75
+India,LMC,Guwahati,other,0
+India,LMC,Guwahati,recycling,0
+India,LMC,Guwahati,sanitary_landfill_landfill_gas_system,0
+India,LMC,Guwahati,unaccounted_for,16.8
+India,LMC,Guwahati,waterways_marine,0
+India,LMC,GwaliorÂ ,advanced_thermal_treatment,0
+India,LMC,GwaliorÂ ,anaerobic_digestion,0
+India,LMC,GwaliorÂ ,compost,39.5
+India,LMC,GwaliorÂ ,controlled_landfill,0
+India,LMC,GwaliorÂ ,incineration,0
+India,LMC,GwaliorÂ ,landfill_unspecified,0
+India,LMC,GwaliorÂ ,open_dump,60
+India,LMC,GwaliorÂ ,other,0
+India,LMC,GwaliorÂ ,recycling,0
+India,LMC,GwaliorÂ ,sanitary_landfill_landfill_gas_system,0
+India,LMC,GwaliorÂ ,unaccounted_for,0.5
+India,LMC,GwaliorÂ ,waterways_marine,0
+India,LMC,Bhubaneswar,advanced_thermal_treatment,0
+India,LMC,Bhubaneswar,anaerobic_digestion,0
+India,LMC,Bhubaneswar,compost,0
+India,LMC,Bhubaneswar,controlled_landfill,0
+India,LMC,Bhubaneswar,incineration,0
+India,LMC,Bhubaneswar,landfill_unspecified,0
+India,LMC,Bhubaneswar,open_dump,100
+India,LMC,Bhubaneswar,other,0
+India,LMC,Bhubaneswar,recycling,0
+India,LMC,Bhubaneswar,sanitary_landfill_landfill_gas_system,0
+India,LMC,Bhubaneswar,unaccounted_for,0
+India,LMC,Bhubaneswar,waterways_marine,0
+Ireland,HIC,Dublin,advanced_thermal_treatment,0
+Ireland,HIC,Dublin,anaerobic_digestion,0
+Ireland,HIC,Dublin,compost,0
+Ireland,HIC,Dublin,controlled_landfill,0
+Ireland,HIC,Dublin,incineration,0
+Ireland,HIC,Dublin,landfill_unspecified,0
+Ireland,HIC,Dublin,open_dump,0
+Ireland,HIC,Dublin,other,0
+Ireland,HIC,Dublin,recycling,49
+Ireland,HIC,Dublin,sanitary_landfill_landfill_gas_system,0
+Ireland,HIC,Dublin,unaccounted_for,51
+Ireland,HIC,Dublin,waterways_marine,0
+"Iran, Islamic Rep.",UMC,Tehran,advanced_thermal_treatment,0
+"Iran, Islamic Rep.",UMC,Tehran,anaerobic_digestion,1.9
+"Iran, Islamic Rep.",UMC,Tehran,compost,50
+"Iran, Islamic Rep.",UMC,Tehran,controlled_landfill,0
+"Iran, Islamic Rep.",UMC,Tehran,incineration,2.5
+"Iran, Islamic Rep.",UMC,Tehran,landfill_unspecified,0
+"Iran, Islamic Rep.",UMC,Tehran,open_dump,41.5
+"Iran, Islamic Rep.",UMC,Tehran,other,0
+"Iran, Islamic Rep.",UMC,Tehran,recycling,4
+"Iran, Islamic Rep.",UMC,Tehran,sanitary_landfill_landfill_gas_system,0
+"Iran, Islamic Rep.",UMC,Tehran,unaccounted_for,0.1
+"Iran, Islamic Rep.",UMC,Tehran,waterways_marine,0
+Iraq,UMC,Baghdad,advanced_thermal_treatment,0
+Iraq,UMC,Baghdad,anaerobic_digestion,0
+Iraq,UMC,Baghdad,compost,0
+Iraq,UMC,Baghdad,controlled_landfill,0
+Iraq,UMC,Baghdad,incineration,0
+Iraq,UMC,Baghdad,landfill_unspecified,0
+Iraq,UMC,Baghdad,open_dump,100
+Iraq,UMC,Baghdad,other,0
+Iraq,UMC,Baghdad,recycling,0
+Iraq,UMC,Baghdad,sanitary_landfill_landfill_gas_system,0
+Iraq,UMC,Baghdad,unaccounted_for,0
+Iraq,UMC,Baghdad,waterways_marine,0
+Israel,HIC,Jerusalem,advanced_thermal_treatment,0
+Israel,HIC,Jerusalem,anaerobic_digestion,0
+Israel,HIC,Jerusalem,compost,0
+Israel,HIC,Jerusalem,controlled_landfill,0
+Israel,HIC,Jerusalem,incineration,0
+Israel,HIC,Jerusalem,landfill_unspecified,0
+Israel,HIC,Jerusalem,open_dump,0
+Israel,HIC,Jerusalem,other,0
+Israel,HIC,Jerusalem,recycling,5
+Israel,HIC,Jerusalem,sanitary_landfill_landfill_gas_system,0
+Israel,HIC,Jerusalem,unaccounted_for,95
+Israel,HIC,Jerusalem,waterways_marine,0
+Israel,HIC,Tel Aviv,advanced_thermal_treatment,0
+Israel,HIC,Tel Aviv,anaerobic_digestion,0
+Israel,HIC,Tel Aviv,compost,0
+Israel,HIC,Tel Aviv,controlled_landfill,0
+Israel,HIC,Tel Aviv,incineration,0
+Israel,HIC,Tel Aviv,landfill_unspecified,0
+Israel,HIC,Tel Aviv,open_dump,0
+Israel,HIC,Tel Aviv,other,0
+Israel,HIC,Tel Aviv,recycling,10.6
+Israel,HIC,Tel Aviv,sanitary_landfill_landfill_gas_system,0
+Israel,HIC,Tel Aviv,unaccounted_for,89.4
+Israel,HIC,Tel Aviv,waterways_marine,0
+Italy,HIC,Parma,advanced_thermal_treatment,0
+Italy,HIC,Parma,anaerobic_digestion,0
+Italy,HIC,Parma,compost,0
+Italy,HIC,Parma,controlled_landfill,0
+Italy,HIC,Parma,incineration,0
+Italy,HIC,Parma,landfill_unspecified,0
+Italy,HIC,Parma,open_dump,0
+Italy,HIC,Parma,other,0
+Italy,HIC,Parma,recycling,72
+Italy,HIC,Parma,sanitary_landfill_landfill_gas_system,0
+Italy,HIC,Parma,unaccounted_for,28
+Italy,HIC,Parma,waterways_marine,0
+Jordan,UMC,Amman,advanced_thermal_treatment,0
+Jordan,UMC,Amman,anaerobic_digestion,0
+Jordan,UMC,Amman,compost,0
+Jordan,UMC,Amman,controlled_landfill,0
+Jordan,UMC,Amman,incineration,0
+Jordan,UMC,Amman,landfill_unspecified,0
+Jordan,UMC,Amman,open_dump,10
+Jordan,UMC,Amman,other,0
+Jordan,UMC,Amman,recycling,0
+Jordan,UMC,Amman,sanitary_landfill_landfill_gas_system,90
+Jordan,UMC,Amman,unaccounted_for,0
+Jordan,UMC,Amman,waterways_marine,0
+Kazakhstan,UMC,Atyrau,advanced_thermal_treatment,0
+Kazakhstan,UMC,Atyrau,anaerobic_digestion,0
+Kazakhstan,UMC,Atyrau,compost,0
+Kazakhstan,UMC,Atyrau,controlled_landfill,0
+Kazakhstan,UMC,Atyrau,incineration,0
+Kazakhstan,UMC,Atyrau,landfill_unspecified,0
+Kazakhstan,UMC,Atyrau,open_dump,100
+Kazakhstan,UMC,Atyrau,other,0
+Kazakhstan,UMC,Atyrau,recycling,0
+Kazakhstan,UMC,Atyrau,sanitary_landfill_landfill_gas_system,0
+Kazakhstan,UMC,Atyrau,unaccounted_for,0
+Kazakhstan,UMC,Atyrau,waterways_marine,0
+Kenya,LMC,EldoretÂ ,advanced_thermal_treatment,0
+Kenya,LMC,EldoretÂ ,anaerobic_digestion,0
+Kenya,LMC,EldoretÂ ,compost,0
+Kenya,LMC,EldoretÂ ,controlled_landfill,0
+Kenya,LMC,EldoretÂ ,incineration,0
+Kenya,LMC,EldoretÂ ,landfill_unspecified,0
+Kenya,LMC,EldoretÂ ,open_dump,100
+Kenya,LMC,EldoretÂ ,other,0
+Kenya,LMC,EldoretÂ ,recycling,0
+Kenya,LMC,EldoretÂ ,sanitary_landfill_landfill_gas_system,0
+Kenya,LMC,EldoretÂ ,unaccounted_for,0
+Kenya,LMC,EldoretÂ ,waterways_marine,0
+Kenya,LMC,Nairobi,advanced_thermal_treatment,0
+Kenya,LMC,Nairobi,anaerobic_digestion,0
+Kenya,LMC,Nairobi,compost,0
+Kenya,LMC,Nairobi,controlled_landfill,0
+Kenya,LMC,Nairobi,incineration,0
+Kenya,LMC,Nairobi,landfill_unspecified,0
+Kenya,LMC,Nairobi,open_dump,33
+Kenya,LMC,Nairobi,other,0
+Kenya,LMC,Nairobi,recycling,5
+Kenya,LMC,Nairobi,sanitary_landfill_landfill_gas_system,0
+Kenya,LMC,Nairobi,unaccounted_for,62
+Kenya,LMC,Nairobi,waterways_marine,0
+Kyrgyz Republic,LMC,Osh,advanced_thermal_treatment,0
+Kyrgyz Republic,LMC,Osh,anaerobic_digestion,0
+Kyrgyz Republic,LMC,Osh,compost,0
+Kyrgyz Republic,LMC,Osh,controlled_landfill,0
+Kyrgyz Republic,LMC,Osh,incineration,0
+Kyrgyz Republic,LMC,Osh,landfill_unspecified,0
+Kyrgyz Republic,LMC,Osh,open_dump,100
+Kyrgyz Republic,LMC,Osh,other,0
+Kyrgyz Republic,LMC,Osh,recycling,0
+Kyrgyz Republic,LMC,Osh,sanitary_landfill_landfill_gas_system,0
+Kyrgyz Republic,LMC,Osh,unaccounted_for,0
+Kyrgyz Republic,LMC,Osh,waterways_marine,0
+Cambodia,LMC,Phnom Penh,advanced_thermal_treatment,0
+Cambodia,LMC,Phnom Penh,anaerobic_digestion,0
+Cambodia,LMC,Phnom Penh,compost,0.15
+Cambodia,LMC,Phnom Penh,controlled_landfill,0
+Cambodia,LMC,Phnom Penh,incineration,0
+Cambodia,LMC,Phnom Penh,landfill_unspecified,0
+Cambodia,LMC,Phnom Penh,open_dump,0
+Cambodia,LMC,Phnom Penh,other,0
+Cambodia,LMC,Phnom Penh,recycling,0
+Cambodia,LMC,Phnom Penh,sanitary_landfill_landfill_gas_system,0
+Cambodia,LMC,Phnom Penh,unaccounted_for,99.85
+Cambodia,LMC,Phnom Penh,waterways_marine,0
+Kiribati,LMC,South Tarawa,advanced_thermal_treatment,0
+Kiribati,LMC,South Tarawa,anaerobic_digestion,0
+Kiribati,LMC,South Tarawa,compost,0
+Kiribati,LMC,South Tarawa,controlled_landfill,0
+Kiribati,LMC,South Tarawa,incineration,0
+Kiribati,LMC,South Tarawa,landfill_unspecified,26
+Kiribati,LMC,South Tarawa,open_dump,0
+Kiribati,LMC,South Tarawa,other,38
+Kiribati,LMC,South Tarawa,recycling,1
+Kiribati,LMC,South Tarawa,sanitary_landfill_landfill_gas_system,0
+Kiribati,LMC,South Tarawa,unaccounted_for,0
+Kiribati,LMC,South Tarawa,waterways_marine,35
+"Korea, Rep.",HIC,Seoul,advanced_thermal_treatment,0
+"Korea, Rep.",HIC,Seoul,anaerobic_digestion,0
+"Korea, Rep.",HIC,Seoul,compost,29
+"Korea, Rep.",HIC,Seoul,controlled_landfill,0
+"Korea, Rep.",HIC,Seoul,incineration,8
+"Korea, Rep.",HIC,Seoul,landfill_unspecified,0
+"Korea, Rep.",HIC,Seoul,open_dump,0
+"Korea, Rep.",HIC,Seoul,other,0
+"Korea, Rep.",HIC,Seoul,recycling,36
+"Korea, Rep.",HIC,Seoul,sanitary_landfill_landfill_gas_system,27
+"Korea, Rep.",HIC,Seoul,unaccounted_for,0
+"Korea, Rep.",HIC,Seoul,waterways_marine,0
+Kuwait,HIC,Kuwait City,advanced_thermal_treatment,0
+Kuwait,HIC,Kuwait City,anaerobic_digestion,0
+Kuwait,HIC,Kuwait City,compost,0
+Kuwait,HIC,Kuwait City,controlled_landfill,0
+Kuwait,HIC,Kuwait City,incineration,0
+Kuwait,HIC,Kuwait City,landfill_unspecified,0
+Kuwait,HIC,Kuwait City,open_dump,100
+Kuwait,HIC,Kuwait City,other,0
+Kuwait,HIC,Kuwait City,recycling,0
+Kuwait,HIC,Kuwait City,sanitary_landfill_landfill_gas_system,0
+Kuwait,HIC,Kuwait City,unaccounted_for,0.01
+Kuwait,HIC,Kuwait City,waterways_marine,0
+Lao PDR,LMC,Vientiane,advanced_thermal_treatment,0
+Lao PDR,LMC,Vientiane,anaerobic_digestion,0
+Lao PDR,LMC,Vientiane,compost,0
+Lao PDR,LMC,Vientiane,controlled_landfill,50
+Lao PDR,LMC,Vientiane,incineration,0
+Lao PDR,LMC,Vientiane,landfill_unspecified,0
+Lao PDR,LMC,Vientiane,open_dump,0
+Lao PDR,LMC,Vientiane,other,0
+Lao PDR,LMC,Vientiane,recycling,10
+Lao PDR,LMC,Vientiane,sanitary_landfill_landfill_gas_system,0
+Lao PDR,LMC,Vientiane,unaccounted_for,40
+Lao PDR,LMC,Vientiane,waterways_marine,0
+Lebanon,UMC,Beirut,advanced_thermal_treatment,0
+Lebanon,UMC,Beirut,anaerobic_digestion,0
+Lebanon,UMC,Beirut,compost,10
+Lebanon,UMC,Beirut,controlled_landfill,0
+Lebanon,UMC,Beirut,incineration,0
+Lebanon,UMC,Beirut,landfill_unspecified,0
+Lebanon,UMC,Beirut,open_dump,0
+Lebanon,UMC,Beirut,other,2
+Lebanon,UMC,Beirut,recycling,5
+Lebanon,UMC,Beirut,sanitary_landfill_landfill_gas_system,83
+Lebanon,UMC,Beirut,unaccounted_for,0
+Lebanon,UMC,Beirut,waterways_marine,0
+Lebanon,UMC,Saida,advanced_thermal_treatment,0
+Lebanon,UMC,Saida,anaerobic_digestion,50
+Lebanon,UMC,Saida,compost,10
+Lebanon,UMC,Saida,controlled_landfill,0
+Lebanon,UMC,Saida,incineration,0
+Lebanon,UMC,Saida,landfill_unspecified,0
+Lebanon,UMC,Saida,open_dump,0
+Lebanon,UMC,Saida,other,7
+Lebanon,UMC,Saida,recycling,20
+Lebanon,UMC,Saida,sanitary_landfill_landfill_gas_system,0
+Lebanon,UMC,Saida,unaccounted_for,0
+Lebanon,UMC,Saida,waterways_marine,13
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,advanced_thermal_treatment,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,anaerobic_digestion,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,compost,0.5
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,controlled_landfill,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,incineration,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,landfill_unspecified,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,open_dump,92.2
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,other,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,recycling,3.4
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,sanitary_landfill_landfill_gas_system,0
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,unaccounted_for,3.9
+Sri Lanka,LMC,Dehiwala Mt. Lavinia Municipal Council,waterways_marine,0
+Sri Lanka,LMC,Kurunegala,advanced_thermal_treatment,0
+Sri Lanka,LMC,Kurunegala,anaerobic_digestion,0
+Sri Lanka,LMC,Kurunegala,compost,2.7
+Sri Lanka,LMC,Kurunegala,controlled_landfill,0
+Sri Lanka,LMC,Kurunegala,incineration,0
+Sri Lanka,LMC,Kurunegala,landfill_unspecified,0
+Sri Lanka,LMC,Kurunegala,open_dump,80.4
+Sri Lanka,LMC,Kurunegala,other,2.7
+Sri Lanka,LMC,Kurunegala,recycling,14.2
+Sri Lanka,LMC,Kurunegala,sanitary_landfill_landfill_gas_system,0
+Sri Lanka,LMC,Kurunegala,unaccounted_for,0
+Sri Lanka,LMC,Kurunegala,waterways_marine,0
+Sri Lanka,LMC,Trincomalee,advanced_thermal_treatment,0
+Sri Lanka,LMC,Trincomalee,anaerobic_digestion,0
+Sri Lanka,LMC,Trincomalee,compost,5.6
+Sri Lanka,LMC,Trincomalee,controlled_landfill,0
+Sri Lanka,LMC,Trincomalee,incineration,0
+Sri Lanka,LMC,Trincomalee,landfill_unspecified,0
+Sri Lanka,LMC,Trincomalee,open_dump,61.5
+Sri Lanka,LMC,Trincomalee,other,28.7
+Sri Lanka,LMC,Trincomalee,recycling,4.1
+Sri Lanka,LMC,Trincomalee,sanitary_landfill_landfill_gas_system,0
+Sri Lanka,LMC,Trincomalee,unaccounted_for,0.1
+Sri Lanka,LMC,Trincomalee,waterways_marine,0
+Sri Lanka,LMC,Moratuwa,advanced_thermal_treatment,0
+Sri Lanka,LMC,Moratuwa,anaerobic_digestion,0
+Sri Lanka,LMC,Moratuwa,compost,14.2
+Sri Lanka,LMC,Moratuwa,controlled_landfill,48.6
+Sri Lanka,LMC,Moratuwa,incineration,0
+Sri Lanka,LMC,Moratuwa,landfill_unspecified,0
+Sri Lanka,LMC,Moratuwa,open_dump,0
+Sri Lanka,LMC,Moratuwa,other,12.9
+Sri Lanka,LMC,Moratuwa,recycling,3.1
+Sri Lanka,LMC,Moratuwa,sanitary_landfill_landfill_gas_system,0
+Sri Lanka,LMC,Moratuwa,unaccounted_for,21.2
+Sri Lanka,LMC,Moratuwa,waterways_marine,0
+Sri Lanka,LMC,Colombo,advanced_thermal_treatment,0
+Sri Lanka,LMC,Colombo,anaerobic_digestion,0
+Sri Lanka,LMC,Colombo,compost,0.97
+Sri Lanka,LMC,Colombo,controlled_landfill,0
+Sri Lanka,LMC,Colombo,incineration,0
+Sri Lanka,LMC,Colombo,landfill_unspecified,0
+Sri Lanka,LMC,Colombo,open_dump,99
+Sri Lanka,LMC,Colombo,other,0
+Sri Lanka,LMC,Colombo,recycling,0
+Sri Lanka,LMC,Colombo,sanitary_landfill_landfill_gas_system,0
+Sri Lanka,LMC,Colombo,unaccounted_for,0.03
+Sri Lanka,LMC,Colombo,waterways_marine,0
+Lithuania,HIC,Vilnius,advanced_thermal_treatment,0
+Lithuania,HIC,Vilnius,anaerobic_digestion,0
+Lithuania,HIC,Vilnius,compost,0
+Lithuania,HIC,Vilnius,controlled_landfill,64
+Lithuania,HIC,Vilnius,incineration,0
+Lithuania,HIC,Vilnius,landfill_unspecified,0
+Lithuania,HIC,Vilnius,open_dump,0
+Lithuania,HIC,Vilnius,other,0
+Lithuania,HIC,Vilnius,recycling,36
+Lithuania,HIC,Vilnius,sanitary_landfill_landfill_gas_system,0
+Lithuania,HIC,Vilnius,unaccounted_for,0
+Lithuania,HIC,Vilnius,waterways_marine,0
+Lithuania,HIC,Kaunas,advanced_thermal_treatment,0
+Lithuania,HIC,Kaunas,anaerobic_digestion,0
+Lithuania,HIC,Kaunas,compost,0
+Lithuania,HIC,Kaunas,controlled_landfill,87
+Lithuania,HIC,Kaunas,incineration,0
+Lithuania,HIC,Kaunas,landfill_unspecified,0
+Lithuania,HIC,Kaunas,open_dump,0
+Lithuania,HIC,Kaunas,other,0
+Lithuania,HIC,Kaunas,recycling,13
+Lithuania,HIC,Kaunas,sanitary_landfill_landfill_gas_system,0
+Lithuania,HIC,Kaunas,unaccounted_for,0
+Lithuania,HIC,Kaunas,waterways_marine,0
+Morocco,LMC,Rabat,advanced_thermal_treatment,0
+Morocco,LMC,Rabat,anaerobic_digestion,0
+Morocco,LMC,Rabat,compost,0
+Morocco,LMC,Rabat,controlled_landfill,0
+Morocco,LMC,Rabat,incineration,0
+Morocco,LMC,Rabat,landfill_unspecified,0
+Morocco,LMC,Rabat,open_dump,0
+Morocco,LMC,Rabat,other,0
+Morocco,LMC,Rabat,recycling,3
+Morocco,LMC,Rabat,sanitary_landfill_landfill_gas_system,97
+Morocco,LMC,Rabat,unaccounted_for,0
+Morocco,LMC,Rabat,waterways_marine,0
+Morocco,LMC,Tangier,advanced_thermal_treatment,0
+Morocco,LMC,Tangier,anaerobic_digestion,0
+Morocco,LMC,Tangier,compost,0
+Morocco,LMC,Tangier,controlled_landfill,0
+Morocco,LMC,Tangier,incineration,0
+Morocco,LMC,Tangier,landfill_unspecified,0
+Morocco,LMC,Tangier,open_dump,100
+Morocco,LMC,Tangier,other,0
+Morocco,LMC,Tangier,recycling,0
+Morocco,LMC,Tangier,sanitary_landfill_landfill_gas_system,0
+Morocco,LMC,Tangier,unaccounted_for,0
+Morocco,LMC,Tangier,waterways_marine,0
+Maldives,UMC,Male,advanced_thermal_treatment,0
+Maldives,UMC,Male,anaerobic_digestion,0
+Maldives,UMC,Male,compost,0
+Maldives,UMC,Male,controlled_landfill,0
+Maldives,UMC,Male,incineration,0
+Maldives,UMC,Male,landfill_unspecified,0
+Maldives,UMC,Male,open_dump,100
+Maldives,UMC,Male,other,0
+Maldives,UMC,Male,recycling,0
+Maldives,UMC,Male,sanitary_landfill_landfill_gas_system,0
+Maldives,UMC,Male,unaccounted_for,0
+Maldives,UMC,Male,waterways_marine,0
+Maldives,UMC,Addu,advanced_thermal_treatment,0
+Maldives,UMC,Addu,anaerobic_digestion,0
+Maldives,UMC,Addu,compost,0
+Maldives,UMC,Addu,controlled_landfill,0
+Maldives,UMC,Addu,incineration,0
+Maldives,UMC,Addu,landfill_unspecified,0
+Maldives,UMC,Addu,open_dump,100
+Maldives,UMC,Addu,other,0
+Maldives,UMC,Addu,recycling,0
+Maldives,UMC,Addu,sanitary_landfill_landfill_gas_system,0
+Maldives,UMC,Addu,unaccounted_for,0
+Maldives,UMC,Addu,waterways_marine,0
+Maldives,UMC,Fuahmulah,advanced_thermal_treatment,0
+Maldives,UMC,Fuahmulah,anaerobic_digestion,0
+Maldives,UMC,Fuahmulah,compost,0
+Maldives,UMC,Fuahmulah,controlled_landfill,0
+Maldives,UMC,Fuahmulah,incineration,0
+Maldives,UMC,Fuahmulah,landfill_unspecified,0
+Maldives,UMC,Fuahmulah,open_dump,100
+Maldives,UMC,Fuahmulah,other,0
+Maldives,UMC,Fuahmulah,recycling,0
+Maldives,UMC,Fuahmulah,sanitary_landfill_landfill_gas_system,0
+Maldives,UMC,Fuahmulah,unaccounted_for,0
+Maldives,UMC,Fuahmulah,waterways_marine,0
+Mexico,UMC,MÃ©xico City,advanced_thermal_treatment,0
+Mexico,UMC,MÃ©xico City,anaerobic_digestion,0
+Mexico,UMC,MÃ©xico City,compost,10.6
+Mexico,UMC,MÃ©xico City,controlled_landfill,66.7
+Mexico,UMC,MÃ©xico City,incineration,0
+Mexico,UMC,MÃ©xico City,landfill_unspecified,0
+Mexico,UMC,MÃ©xico City,open_dump,0
+Mexico,UMC,MÃ©xico City,other,4.2
+Mexico,UMC,MÃ©xico City,recycling,14.19
+Mexico,UMC,MÃ©xico City,sanitary_landfill_landfill_gas_system,1.56
+Mexico,UMC,MÃ©xico City,unaccounted_for,2.75
+Mexico,UMC,MÃ©xico City,waterways_marine,0
+Mexico,UMC,Guadalajara,advanced_thermal_treatment,0
+Mexico,UMC,Guadalajara,anaerobic_digestion,0
+Mexico,UMC,Guadalajara,compost,0
+Mexico,UMC,Guadalajara,controlled_landfill,0
+Mexico,UMC,Guadalajara,incineration,0
+Mexico,UMC,Guadalajara,landfill_unspecified,0
+Mexico,UMC,Guadalajara,open_dump,0
+Mexico,UMC,Guadalajara,other,0
+Mexico,UMC,Guadalajara,recycling,8
+Mexico,UMC,Guadalajara,sanitary_landfill_landfill_gas_system,92
+Mexico,UMC,Guadalajara,unaccounted_for,0
+Mexico,UMC,Guadalajara,waterways_marine,0
+Mexico,UMC,Monterrey,advanced_thermal_treatment,0
+Mexico,UMC,Monterrey,anaerobic_digestion,0
+Mexico,UMC,Monterrey,compost,0
+Mexico,UMC,Monterrey,controlled_landfill,0
+Mexico,UMC,Monterrey,incineration,0
+Mexico,UMC,Monterrey,landfill_unspecified,0
+Mexico,UMC,Monterrey,open_dump,0
+Mexico,UMC,Monterrey,other,0
+Mexico,UMC,Monterrey,recycling,0
+Mexico,UMC,Monterrey,sanitary_landfill_landfill_gas_system,100
+Mexico,UMC,Monterrey,unaccounted_for,0
+Mexico,UMC,Monterrey,waterways_marine,0
+"Macedonia, FYR",UMC,Skopje,advanced_thermal_treatment,0
+"Macedonia, FYR",UMC,Skopje,anaerobic_digestion,0
+"Macedonia, FYR",UMC,Skopje,compost,0
+"Macedonia, FYR",UMC,Skopje,controlled_landfill,95
+"Macedonia, FYR",UMC,Skopje,incineration,0
+"Macedonia, FYR",UMC,Skopje,landfill_unspecified,0
+"Macedonia, FYR",UMC,Skopje,open_dump,2
+"Macedonia, FYR",UMC,Skopje,other,0
+"Macedonia, FYR",UMC,Skopje,recycling,3
+"Macedonia, FYR",UMC,Skopje,sanitary_landfill_landfill_gas_system,0
+"Macedonia, FYR",UMC,Skopje,unaccounted_for,0
+"Macedonia, FYR",UMC,Skopje,waterways_marine,0
+Mali,LIC,Sikasso,advanced_thermal_treatment,0
+Mali,LIC,Sikasso,anaerobic_digestion,0
+Mali,LIC,Sikasso,compost,0
+Mali,LIC,Sikasso,controlled_landfill,0
+Mali,LIC,Sikasso,incineration,0
+Mali,LIC,Sikasso,landfill_unspecified,25
+Mali,LIC,Sikasso,open_dump,0
+Mali,LIC,Sikasso,other,0
+Mali,LIC,Sikasso,recycling,0
+Mali,LIC,Sikasso,sanitary_landfill_landfill_gas_system,0
+Mali,LIC,Sikasso,unaccounted_for,75
+Mali,LIC,Sikasso,waterways_marine,0
+Montenegro,UMC,Podgorica,advanced_thermal_treatment,0
+Montenegro,UMC,Podgorica,anaerobic_digestion,0
+Montenegro,UMC,Podgorica,compost,0
+Montenegro,UMC,Podgorica,controlled_landfill,0
+Montenegro,UMC,Podgorica,incineration,0
+Montenegro,UMC,Podgorica,landfill_unspecified,0
+Montenegro,UMC,Podgorica,open_dump,0
+Montenegro,UMC,Podgorica,other,0
+Montenegro,UMC,Podgorica,recycling,0
+Montenegro,UMC,Podgorica,sanitary_landfill_landfill_gas_system,69.79
+Montenegro,UMC,Podgorica,unaccounted_for,30.21
+Montenegro,UMC,Podgorica,waterways_marine,0
+Montenegro,UMC,Kotor,advanced_thermal_treatment,0
+Montenegro,UMC,Kotor,anaerobic_digestion,0
+Montenegro,UMC,Kotor,compost,0
+Montenegro,UMC,Kotor,controlled_landfill,59.98
+Montenegro,UMC,Kotor,incineration,0
+Montenegro,UMC,Kotor,landfill_unspecified,0
+Montenegro,UMC,Kotor,open_dump,0
+Montenegro,UMC,Kotor,other,0
+Montenegro,UMC,Kotor,recycling,0
+Montenegro,UMC,Kotor,sanitary_landfill_landfill_gas_system,0
+Montenegro,UMC,Kotor,unaccounted_for,40.02
+Montenegro,UMC,Kotor,waterways_marine,0
+Mongolia,LMC,Ulaanbaatar,advanced_thermal_treatment,0
+Mongolia,LMC,Ulaanbaatar,anaerobic_digestion,0
+Mongolia,LMC,Ulaanbaatar,compost,0
+Mongolia,LMC,Ulaanbaatar,controlled_landfill,0
+Mongolia,LMC,Ulaanbaatar,incineration,0
+Mongolia,LMC,Ulaanbaatar,landfill_unspecified,0
+Mongolia,LMC,Ulaanbaatar,open_dump,88.85
+Mongolia,LMC,Ulaanbaatar,other,0
+Mongolia,LMC,Ulaanbaatar,recycling,3.2
+Mongolia,LMC,Ulaanbaatar,sanitary_landfill_landfill_gas_system,0
+Mongolia,LMC,Ulaanbaatar,unaccounted_for,7.95
+Mongolia,LMC,Ulaanbaatar,waterways_marine,0
+Mozambique,LIC,Maputo,advanced_thermal_treatment,0
+Mozambique,LIC,Maputo,anaerobic_digestion,0
+Mozambique,LIC,Maputo,compost,0
+Mozambique,LIC,Maputo,controlled_landfill,0
+Mozambique,LIC,Maputo,incineration,0
+Mozambique,LIC,Maputo,landfill_unspecified,0
+Mozambique,LIC,Maputo,open_dump,99
+Mozambique,LIC,Maputo,other,0
+Mozambique,LIC,Maputo,recycling,1
+Mozambique,LIC,Maputo,sanitary_landfill_landfill_gas_system,0
+Mozambique,LIC,Maputo,unaccounted_for,0
+Mozambique,LIC,Maputo,waterways_marine,0
+Malaysia,UMC,Kuala Lumpur,advanced_thermal_treatment,0
+Malaysia,UMC,Kuala Lumpur,anaerobic_digestion,0
+Malaysia,UMC,Kuala Lumpur,compost,0
+Malaysia,UMC,Kuala Lumpur,controlled_landfill,0
+Malaysia,UMC,Kuala Lumpur,incineration,0
+Malaysia,UMC,Kuala Lumpur,landfill_unspecified,0
+Malaysia,UMC,Kuala Lumpur,open_dump,0
+Malaysia,UMC,Kuala Lumpur,other,0
+Malaysia,UMC,Kuala Lumpur,recycling,10.4
+Malaysia,UMC,Kuala Lumpur,sanitary_landfill_landfill_gas_system,0
+Malaysia,UMC,Kuala Lumpur,unaccounted_for,89.6
+Malaysia,UMC,Kuala Lumpur,waterways_marine,0
+Niger,LIC,Niamey,advanced_thermal_treatment,0
+Niger,LIC,Niamey,anaerobic_digestion,0
+Niger,LIC,Niamey,compost,0
+Niger,LIC,Niamey,controlled_landfill,0
+Niger,LIC,Niamey,incineration,0
+Niger,LIC,Niamey,landfill_unspecified,0
+Niger,LIC,Niamey,open_dump,37.4
+Niger,LIC,Niamey,other,52.5
+Niger,LIC,Niamey,recycling,0
+Niger,LIC,Niamey,sanitary_landfill_landfill_gas_system,0
+Niger,LIC,Niamey,unaccounted_for,10.1
+Niger,LIC,Niamey,waterways_marine,0
+Nigeria,LMC,Ibadan,advanced_thermal_treatment,0
+Nigeria,LMC,Ibadan,anaerobic_digestion,0
+Nigeria,LMC,Ibadan,compost,0
+Nigeria,LMC,Ibadan,controlled_landfill,0
+Nigeria,LMC,Ibadan,incineration,0
+Nigeria,LMC,Ibadan,landfill_unspecified,0
+Nigeria,LMC,Ibadan,open_dump,44
+Nigeria,LMC,Ibadan,other,0
+Nigeria,LMC,Ibadan,recycling,0
+Nigeria,LMC,Ibadan,sanitary_landfill_landfill_gas_system,0
+Nigeria,LMC,Ibadan,unaccounted_for,56
+Nigeria,LMC,Ibadan,waterways_marine,0
+Nicaragua,LMC,Puerto Cabezas,advanced_thermal_treatment,0
+Nicaragua,LMC,Puerto Cabezas,anaerobic_digestion,0
+Nicaragua,LMC,Puerto Cabezas,compost,0
+Nicaragua,LMC,Puerto Cabezas,controlled_landfill,0
+Nicaragua,LMC,Puerto Cabezas,incineration,0
+Nicaragua,LMC,Puerto Cabezas,landfill_unspecified,100
+Nicaragua,LMC,Puerto Cabezas,open_dump,0
+Nicaragua,LMC,Puerto Cabezas,other,0
+Nicaragua,LMC,Puerto Cabezas,recycling,0
+Nicaragua,LMC,Puerto Cabezas,sanitary_landfill_landfill_gas_system,0
+Nicaragua,LMC,Puerto Cabezas,unaccounted_for,0
+Nicaragua,LMC,Puerto Cabezas,waterways_marine,0
+Nicaragua,LMC,Managua,advanced_thermal_treatment,0
+Nicaragua,LMC,Managua,anaerobic_digestion,0
+Nicaragua,LMC,Managua,compost,0
+Nicaragua,LMC,Managua,controlled_landfill,0
+Nicaragua,LMC,Managua,incineration,0
+Nicaragua,LMC,Managua,landfill_unspecified,87.61
+Nicaragua,LMC,Managua,open_dump,0
+Nicaragua,LMC,Managua,other,0
+Nicaragua,LMC,Managua,recycling,8.95
+Nicaragua,LMC,Managua,sanitary_landfill_landfill_gas_system,0
+Nicaragua,LMC,Managua,unaccounted_for,3.44
+Nicaragua,LMC,Managua,waterways_marine,0
+Netherlands,HIC,Amsterdam,advanced_thermal_treatment,0
+Netherlands,HIC,Amsterdam,anaerobic_digestion,0
+Netherlands,HIC,Amsterdam,compost,0
+Netherlands,HIC,Amsterdam,controlled_landfill,0
+Netherlands,HIC,Amsterdam,incineration,0
+Netherlands,HIC,Amsterdam,landfill_unspecified,0
+Netherlands,HIC,Amsterdam,open_dump,0
+Netherlands,HIC,Amsterdam,other,0
+Netherlands,HIC,Amsterdam,recycling,14
+Netherlands,HIC,Amsterdam,sanitary_landfill_landfill_gas_system,0
+Netherlands,HIC,Amsterdam,unaccounted_for,86
+Netherlands,HIC,Amsterdam,waterways_marine,0
+Norway,HIC,Bergen,advanced_thermal_treatment,0
+Norway,HIC,Bergen,anaerobic_digestion,0
+Norway,HIC,Bergen,compost,0
+Norway,HIC,Bergen,controlled_landfill,0
+Norway,HIC,Bergen,incineration,39.1
+Norway,HIC,Bergen,landfill_unspecified,14.5
+Norway,HIC,Bergen,open_dump,0
+Norway,HIC,Bergen,other,0
+Norway,HIC,Bergen,recycling,46.4
+Norway,HIC,Bergen,sanitary_landfill_landfill_gas_system,0
+Norway,HIC,Bergen,unaccounted_for,0
+Norway,HIC,Bergen,waterways_marine,0
+Norway,HIC,Oslo,advanced_thermal_treatment,0
+Norway,HIC,Oslo,anaerobic_digestion,0
+Norway,HIC,Oslo,compost,0
+Norway,HIC,Oslo,controlled_landfill,0
+Norway,HIC,Oslo,incineration,57.85
+Norway,HIC,Oslo,landfill_unspecified,0
+Norway,HIC,Oslo,open_dump,0
+Norway,HIC,Oslo,other,1.547
+Norway,HIC,Oslo,recycling,37.197
+Norway,HIC,Oslo,sanitary_landfill_landfill_gas_system,3.4
+Norway,HIC,Oslo,unaccounted_for,0.006
+Norway,HIC,Oslo,waterways_marine,0
+Nepal,LIC,Butwal,advanced_thermal_treatment,0
+Nepal,LIC,Butwal,anaerobic_digestion,0
+Nepal,LIC,Butwal,compost,0
+Nepal,LIC,Butwal,controlled_landfill,0
+Nepal,LIC,Butwal,incineration,0
+Nepal,LIC,Butwal,landfill_unspecified,0
+Nepal,LIC,Butwal,open_dump,0
+Nepal,LIC,Butwal,other,62.7
+Nepal,LIC,Butwal,recycling,0
+Nepal,LIC,Butwal,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Butwal,unaccounted_for,37.3
+Nepal,LIC,Butwal,waterways_marine,0
+Nepal,LIC,Pokhara,advanced_thermal_treatment,0
+Nepal,LIC,Pokhara,anaerobic_digestion,0
+Nepal,LIC,Pokhara,compost,0
+Nepal,LIC,Pokhara,controlled_landfill,0
+Nepal,LIC,Pokhara,incineration,0
+Nepal,LIC,Pokhara,landfill_unspecified,0
+Nepal,LIC,Pokhara,open_dump,0
+Nepal,LIC,Pokhara,other,0
+Nepal,LIC,Pokhara,recycling,0
+Nepal,LIC,Pokhara,sanitary_landfill_landfill_gas_system,42.7
+Nepal,LIC,Pokhara,unaccounted_for,57.3
+Nepal,LIC,Pokhara,waterways_marine,0
+Nepal,LIC,Dhankuta,advanced_thermal_treatment,0
+Nepal,LIC,Dhankuta,anaerobic_digestion,0
+Nepal,LIC,Dhankuta,compost,0
+Nepal,LIC,Dhankuta,controlled_landfill,0
+Nepal,LIC,Dhankuta,incineration,0
+Nepal,LIC,Dhankuta,landfill_unspecified,0
+Nepal,LIC,Dhankuta,open_dump,0
+Nepal,LIC,Dhankuta,other,0
+Nepal,LIC,Dhankuta,recycling,0
+Nepal,LIC,Dhankuta,sanitary_landfill_landfill_gas_system,81.1
+Nepal,LIC,Dhankuta,unaccounted_for,18.9
+Nepal,LIC,Dhankuta,waterways_marine,0
+Nepal,LIC,Birgunj,advanced_thermal_treatment,0
+Nepal,LIC,Birgunj,anaerobic_digestion,0
+Nepal,LIC,Birgunj,compost,0
+Nepal,LIC,Birgunj,controlled_landfill,0
+Nepal,LIC,Birgunj,incineration,0
+Nepal,LIC,Birgunj,landfill_unspecified,0
+Nepal,LIC,Birgunj,open_dump,19.65
+Nepal,LIC,Birgunj,other,19.65
+Nepal,LIC,Birgunj,recycling,0
+Nepal,LIC,Birgunj,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Birgunj,unaccounted_for,60.7
+Nepal,LIC,Birgunj,waterways_marine,0
+Nepal,LIC,Kathmandu,advanced_thermal_treatment,0
+Nepal,LIC,Kathmandu,anaerobic_digestion,0
+Nepal,LIC,Kathmandu,compost,0
+Nepal,LIC,Kathmandu,controlled_landfill,0
+Nepal,LIC,Kathmandu,incineration,0
+Nepal,LIC,Kathmandu,landfill_unspecified,0
+Nepal,LIC,Kathmandu,open_dump,0
+Nepal,LIC,Kathmandu,other,0
+Nepal,LIC,Kathmandu,recycling,0
+Nepal,LIC,Kathmandu,sanitary_landfill_landfill_gas_system,86.9
+Nepal,LIC,Kathmandu,unaccounted_for,13.1
+Nepal,LIC,Kathmandu,waterways_marine,0
+Nepal,LIC,Lalitpur,advanced_thermal_treatment,0
+Nepal,LIC,Lalitpur,anaerobic_digestion,0
+Nepal,LIC,Lalitpur,compost,0
+Nepal,LIC,Lalitpur,controlled_landfill,0
+Nepal,LIC,Lalitpur,incineration,0
+Nepal,LIC,Lalitpur,landfill_unspecified,0
+Nepal,LIC,Lalitpur,open_dump,0
+Nepal,LIC,Lalitpur,other,0
+Nepal,LIC,Lalitpur,recycling,0
+Nepal,LIC,Lalitpur,sanitary_landfill_landfill_gas_system,71.2
+Nepal,LIC,Lalitpur,unaccounted_for,28.8
+Nepal,LIC,Lalitpur,waterways_marine,0
+Nepal,LIC,Badimalika,advanced_thermal_treatment,0
+Nepal,LIC,Badimalika,anaerobic_digestion,0
+Nepal,LIC,Badimalika,compost,0
+Nepal,LIC,Badimalika,controlled_landfill,0
+Nepal,LIC,Badimalika,incineration,0
+Nepal,LIC,Badimalika,landfill_unspecified,0
+Nepal,LIC,Badimalika,open_dump,100
+Nepal,LIC,Badimalika,other,0
+Nepal,LIC,Badimalika,recycling,0
+Nepal,LIC,Badimalika,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Badimalika,unaccounted_for,0
+Nepal,LIC,Badimalika,waterways_marine,0
+Nepal,LIC,Bharatpur,advanced_thermal_treatment,0
+Nepal,LIC,Bharatpur,anaerobic_digestion,0
+Nepal,LIC,Bharatpur,compost,0
+Nepal,LIC,Bharatpur,controlled_landfill,0
+Nepal,LIC,Bharatpur,incineration,0
+Nepal,LIC,Bharatpur,landfill_unspecified,0
+Nepal,LIC,Bharatpur,open_dump,25.4
+Nepal,LIC,Bharatpur,other,0
+Nepal,LIC,Bharatpur,recycling,0
+Nepal,LIC,Bharatpur,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Bharatpur,unaccounted_for,74.6
+Nepal,LIC,Bharatpur,waterways_marine,0
+Nepal,LIC,Dharan,advanced_thermal_treatment,0
+Nepal,LIC,Dharan,anaerobic_digestion,0
+Nepal,LIC,Dharan,compost,0
+Nepal,LIC,Dharan,controlled_landfill,0
+Nepal,LIC,Dharan,incineration,0
+Nepal,LIC,Dharan,landfill_unspecified,0
+Nepal,LIC,Dharan,open_dump,0
+Nepal,LIC,Dharan,other,68.7
+Nepal,LIC,Dharan,recycling,0
+Nepal,LIC,Dharan,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Dharan,unaccounted_for,31.3
+Nepal,LIC,Dharan,waterways_marine,0
+Nepal,LIC,Biratnagar,advanced_thermal_treatment,0
+Nepal,LIC,Biratnagar,anaerobic_digestion,0
+Nepal,LIC,Biratnagar,compost,0
+Nepal,LIC,Biratnagar,controlled_landfill,0
+Nepal,LIC,Biratnagar,incineration,0
+Nepal,LIC,Biratnagar,landfill_unspecified,0
+Nepal,LIC,Biratnagar,open_dump,85.7
+Nepal,LIC,Biratnagar,other,0
+Nepal,LIC,Biratnagar,recycling,0
+Nepal,LIC,Biratnagar,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Biratnagar,unaccounted_for,14.3
+Nepal,LIC,Biratnagar,waterways_marine,0
+Nepal,LIC,Bhaktapur,advanced_thermal_treatment,0
+Nepal,LIC,Bhaktapur,anaerobic_digestion,0
+Nepal,LIC,Bhaktapur,compost,0
+Nepal,LIC,Bhaktapur,controlled_landfill,0
+Nepal,LIC,Bhaktapur,incineration,0
+Nepal,LIC,Bhaktapur,landfill_unspecified,0
+Nepal,LIC,Bhaktapur,open_dump,86.5
+Nepal,LIC,Bhaktapur,other,0
+Nepal,LIC,Bhaktapur,recycling,0
+Nepal,LIC,Bhaktapur,sanitary_landfill_landfill_gas_system,0
+Nepal,LIC,Bhaktapur,unaccounted_for,13.5
+Nepal,LIC,Bhaktapur,waterways_marine,0
+New Zealand,HIC,Wellington,advanced_thermal_treatment,0
+New Zealand,HIC,Wellington,anaerobic_digestion,0
+New Zealand,HIC,Wellington,compost,1
+New Zealand,HIC,Wellington,controlled_landfill,0
+New Zealand,HIC,Wellington,incineration,0
+New Zealand,HIC,Wellington,landfill_unspecified,88
+New Zealand,HIC,Wellington,open_dump,0
+New Zealand,HIC,Wellington,other,0
+New Zealand,HIC,Wellington,recycling,10
+New Zealand,HIC,Wellington,sanitary_landfill_landfill_gas_system,0
+New Zealand,HIC,Wellington,unaccounted_for,1
+New Zealand,HIC,Wellington,waterways_marine,0
+Pakistan,LMC,Karachi,advanced_thermal_treatment,0
+Pakistan,LMC,Karachi,anaerobic_digestion,0
+Pakistan,LMC,Karachi,compost,0
+Pakistan,LMC,Karachi,controlled_landfill,60
+Pakistan,LMC,Karachi,incineration,0
+Pakistan,LMC,Karachi,landfill_unspecified,0
+Pakistan,LMC,Karachi,open_dump,0
+Pakistan,LMC,Karachi,other,40
+Pakistan,LMC,Karachi,recycling,0
+Pakistan,LMC,Karachi,sanitary_landfill_landfill_gas_system,0
+Pakistan,LMC,Karachi,unaccounted_for,0
+Pakistan,LMC,Karachi,waterways_marine,0
+Pakistan,LMC,Lahore,advanced_thermal_treatment,0
+Pakistan,LMC,Lahore,anaerobic_digestion,0
+Pakistan,LMC,Lahore,compost,0
+Pakistan,LMC,Lahore,controlled_landfill,61.53
+Pakistan,LMC,Lahore,incineration,6.15
+Pakistan,LMC,Lahore,landfill_unspecified,0
+Pakistan,LMC,Lahore,open_dump,0
+Pakistan,LMC,Lahore,other,0
+Pakistan,LMC,Lahore,recycling,0
+Pakistan,LMC,Lahore,sanitary_landfill_landfill_gas_system,32.31
+Pakistan,LMC,Lahore,unaccounted_for,0.01
+Pakistan,LMC,Lahore,waterways_marine,0
+Pakistan,LMC,Sialkot,advanced_thermal_treatment,0
+Pakistan,LMC,Sialkot,anaerobic_digestion,0
+Pakistan,LMC,Sialkot,compost,0
+Pakistan,LMC,Sialkot,controlled_landfill,0
+Pakistan,LMC,Sialkot,incineration,0
+Pakistan,LMC,Sialkot,landfill_unspecified,0
+Pakistan,LMC,Sialkot,open_dump,25
+Pakistan,LMC,Sialkot,other,0
+Pakistan,LMC,Sialkot,recycling,0
+Pakistan,LMC,Sialkot,sanitary_landfill_landfill_gas_system,0
+Pakistan,LMC,Sialkot,unaccounted_for,75
+Pakistan,LMC,Sialkot,waterways_marine,0
+Panama,HIC,PanamÃ¡ City,advanced_thermal_treatment,0
+Panama,HIC,PanamÃ¡ City,anaerobic_digestion,0
+Panama,HIC,PanamÃ¡ City,compost,0
+Panama,HIC,PanamÃ¡ City,controlled_landfill,0
+Panama,HIC,PanamÃ¡ City,incineration,0
+Panama,HIC,PanamÃ¡ City,landfill_unspecified,0
+Panama,HIC,PanamÃ¡ City,open_dump,0
+Panama,HIC,PanamÃ¡ City,other,0
+Panama,HIC,PanamÃ¡ City,recycling,2
+Panama,HIC,PanamÃ¡ City,sanitary_landfill_landfill_gas_system,65
+Panama,HIC,PanamÃ¡ City,unaccounted_for,33
+Panama,HIC,PanamÃ¡ City,waterways_marine,0
+Panama,HIC,San Miguelito,advanced_thermal_treatment,0
+Panama,HIC,San Miguelito,anaerobic_digestion,0
+Panama,HIC,San Miguelito,compost,0
+Panama,HIC,San Miguelito,controlled_landfill,0
+Panama,HIC,San Miguelito,incineration,0
+Panama,HIC,San Miguelito,landfill_unspecified,0
+Panama,HIC,San Miguelito,open_dump,0
+Panama,HIC,San Miguelito,other,0
+Panama,HIC,San Miguelito,recycling,0
+Panama,HIC,San Miguelito,sanitary_landfill_landfill_gas_system,97.5
+Panama,HIC,San Miguelito,unaccounted_for,2.5
+Panama,HIC,San Miguelito,waterways_marine,0
+Panama,HIC,ColÃ³n,advanced_thermal_treatment,0
+Panama,HIC,ColÃ³n,anaerobic_digestion,0
+Panama,HIC,ColÃ³n,compost,0
+Panama,HIC,ColÃ³n,controlled_landfill,0
+Panama,HIC,ColÃ³n,incineration,0
+Panama,HIC,ColÃ³n,landfill_unspecified,0
+Panama,HIC,ColÃ³n,open_dump,74
+Panama,HIC,ColÃ³n,other,0
+Panama,HIC,ColÃ³n,recycling,0
+Panama,HIC,ColÃ³n,sanitary_landfill_landfill_gas_system,0
+Panama,HIC,ColÃ³n,unaccounted_for,26
+Panama,HIC,ColÃ³n,waterways_marine,0
+Peru,UMC,Cusco,advanced_thermal_treatment,0
+Peru,UMC,Cusco,anaerobic_digestion,0
+Peru,UMC,Cusco,compost,0
+Peru,UMC,Cusco,controlled_landfill,0
+Peru,UMC,Cusco,incineration,0
+Peru,UMC,Cusco,landfill_unspecified,0
+Peru,UMC,Cusco,open_dump,69.6
+Peru,UMC,Cusco,other,0
+Peru,UMC,Cusco,recycling,0.3
+Peru,UMC,Cusco,sanitary_landfill_landfill_gas_system,0
+Peru,UMC,Cusco,unaccounted_for,0
+Peru,UMC,Cusco,waterways_marine,30.1
+Philippines,LMC,Cebu,advanced_thermal_treatment,0
+Philippines,LMC,Cebu,anaerobic_digestion,0
+Philippines,LMC,Cebu,compost,0
+Philippines,LMC,Cebu,controlled_landfill,0
+Philippines,LMC,Cebu,incineration,0
+Philippines,LMC,Cebu,landfill_unspecified,0
+Philippines,LMC,Cebu,open_dump,60
+Philippines,LMC,Cebu,other,0
+Philippines,LMC,Cebu,recycling,0
+Philippines,LMC,Cebu,sanitary_landfill_landfill_gas_system,40
+Philippines,LMC,Cebu,unaccounted_for,0
+Philippines,LMC,Cebu,waterways_marine,0
+Papua New Guinea,LMC,Port Moresby,advanced_thermal_treatment,0
+Papua New Guinea,LMC,Port Moresby,anaerobic_digestion,0
+Papua New Guinea,LMC,Port Moresby,compost,0
+Papua New Guinea,LMC,Port Moresby,controlled_landfill,61.56
+Papua New Guinea,LMC,Port Moresby,incineration,0
+Papua New Guinea,LMC,Port Moresby,landfill_unspecified,0
+Papua New Guinea,LMC,Port Moresby,open_dump,0
+Papua New Guinea,LMC,Port Moresby,other,36.73
+Papua New Guinea,LMC,Port Moresby,recycling,1.7
+Papua New Guinea,LMC,Port Moresby,sanitary_landfill_landfill_gas_system,0
+Papua New Guinea,LMC,Port Moresby,unaccounted_for,0.01
+Papua New Guinea,LMC,Port Moresby,waterways_marine,0
+Portugal,HIC,Lisbon,advanced_thermal_treatment,0
+Portugal,HIC,Lisbon,anaerobic_digestion,0
+Portugal,HIC,Lisbon,compost,0
+Portugal,HIC,Lisbon,controlled_landfill,0
+Portugal,HIC,Lisbon,incineration,0
+Portugal,HIC,Lisbon,landfill_unspecified,0
+Portugal,HIC,Lisbon,open_dump,0
+Portugal,HIC,Lisbon,other,0
+Portugal,HIC,Lisbon,recycling,21.8
+Portugal,HIC,Lisbon,sanitary_landfill_landfill_gas_system,0
+Portugal,HIC,Lisbon,unaccounted_for,78.2
+Portugal,HIC,Lisbon,waterways_marine,0
+Paraguay,UMC,AsunciÃ³n,advanced_thermal_treatment,0
+Paraguay,UMC,AsunciÃ³n,anaerobic_digestion,0
+Paraguay,UMC,AsunciÃ³n,compost,0
+Paraguay,UMC,AsunciÃ³n,controlled_landfill,0
+Paraguay,UMC,AsunciÃ³n,incineration,0
+Paraguay,UMC,AsunciÃ³n,landfill_unspecified,0
+Paraguay,UMC,AsunciÃ³n,open_dump,92.2
+Paraguay,UMC,AsunciÃ³n,other,0
+Paraguay,UMC,AsunciÃ³n,recycling,0
+Paraguay,UMC,AsunciÃ³n,sanitary_landfill_landfill_gas_system,0
+Paraguay,UMC,AsunciÃ³n,unaccounted_for,7.8
+Paraguay,UMC,AsunciÃ³n,waterways_marine,0
+Paraguay,UMC,Ciudad Del Este,advanced_thermal_treatment,0
+Paraguay,UMC,Ciudad Del Este,anaerobic_digestion,0
+Paraguay,UMC,Ciudad Del Este,compost,0
+Paraguay,UMC,Ciudad Del Este,controlled_landfill,48.8
+Paraguay,UMC,Ciudad Del Este,incineration,0
+Paraguay,UMC,Ciudad Del Este,landfill_unspecified,0
+Paraguay,UMC,Ciudad Del Este,open_dump,0
+Paraguay,UMC,Ciudad Del Este,other,0
+Paraguay,UMC,Ciudad Del Este,recycling,0
+Paraguay,UMC,Ciudad Del Este,sanitary_landfill_landfill_gas_system,0
+Paraguay,UMC,Ciudad Del Este,unaccounted_for,51.2
+Paraguay,UMC,Ciudad Del Este,waterways_marine,0
+Paraguay,UMC,San Lorenzo,advanced_thermal_treatment,0
+Paraguay,UMC,San Lorenzo,anaerobic_digestion,0
+Paraguay,UMC,San Lorenzo,compost,0
+Paraguay,UMC,San Lorenzo,controlled_landfill,0
+Paraguay,UMC,San Lorenzo,incineration,0
+Paraguay,UMC,San Lorenzo,landfill_unspecified,0
+Paraguay,UMC,San Lorenzo,open_dump,58.2
+Paraguay,UMC,San Lorenzo,other,0
+Paraguay,UMC,San Lorenzo,recycling,0
+Paraguay,UMC,San Lorenzo,sanitary_landfill_landfill_gas_system,0
+Paraguay,UMC,San Lorenzo,unaccounted_for,41.8
+Paraguay,UMC,San Lorenzo,waterways_marine,0
+Russian Federation,UMC,Moscow,advanced_thermal_treatment,0
+Russian Federation,UMC,Moscow,anaerobic_digestion,0
+Russian Federation,UMC,Moscow,compost,0
+Russian Federation,UMC,Moscow,controlled_landfill,0
+Russian Federation,UMC,Moscow,incineration,0
+Russian Federation,UMC,Moscow,landfill_unspecified,0
+Russian Federation,UMC,Moscow,open_dump,90
+Russian Federation,UMC,Moscow,other,6
+Russian Federation,UMC,Moscow,recycling,4
+Russian Federation,UMC,Moscow,sanitary_landfill_landfill_gas_system,0
+Russian Federation,UMC,Moscow,unaccounted_for,0
+Russian Federation,UMC,Moscow,waterways_marine,0
+Russian Federation,UMC,St.petersburg,advanced_thermal_treatment,0
+Russian Federation,UMC,St.petersburg,anaerobic_digestion,0
+Russian Federation,UMC,St.petersburg,compost,0
+Russian Federation,UMC,St.petersburg,controlled_landfill,0
+Russian Federation,UMC,St.petersburg,incineration,0
+Russian Federation,UMC,St.petersburg,landfill_unspecified,80
+Russian Federation,UMC,St.petersburg,open_dump,0
+Russian Federation,UMC,St.petersburg,other,3
+Russian Federation,UMC,St.petersburg,recycling,10
+Russian Federation,UMC,St.petersburg,sanitary_landfill_landfill_gas_system,0
+Russian Federation,UMC,St.petersburg,unaccounted_for,7
+Russian Federation,UMC,St.petersburg,waterways_marine,0
+Russian Federation,UMC,Kemerovo,advanced_thermal_treatment,0
+Russian Federation,UMC,Kemerovo,anaerobic_digestion,0
+Russian Federation,UMC,Kemerovo,compost,0
+Russian Federation,UMC,Kemerovo,controlled_landfill,0
+Russian Federation,UMC,Kemerovo,incineration,0
+Russian Federation,UMC,Kemerovo,landfill_unspecified,0
+Russian Federation,UMC,Kemerovo,open_dump,98.1
+Russian Federation,UMC,Kemerovo,other,0
+Russian Federation,UMC,Kemerovo,recycling,1.9
+Russian Federation,UMC,Kemerovo,sanitary_landfill_landfill_gas_system,0
+Russian Federation,UMC,Kemerovo,unaccounted_for,0
+Russian Federation,UMC,Kemerovo,waterways_marine,0
+Rwanda,LIC,KigaliÂ ,advanced_thermal_treatment,0
+Rwanda,LIC,KigaliÂ ,anaerobic_digestion,0
+Rwanda,LIC,KigaliÂ ,compost,0
+Rwanda,LIC,KigaliÂ ,controlled_landfill,25
+Rwanda,LIC,KigaliÂ ,incineration,0
+Rwanda,LIC,KigaliÂ ,landfill_unspecified,0
+Rwanda,LIC,KigaliÂ ,open_dump,0
+Rwanda,LIC,KigaliÂ ,other,0
+Rwanda,LIC,KigaliÂ ,recycling,0
+Rwanda,LIC,KigaliÂ ,sanitary_landfill_landfill_gas_system,0
+Rwanda,LIC,KigaliÂ ,unaccounted_for,75
+Rwanda,LIC,KigaliÂ ,waterways_marine,0
+Saudi Arabia,HIC,Riyadh,advanced_thermal_treatment,0
+Saudi Arabia,HIC,Riyadh,anaerobic_digestion,0
+Saudi Arabia,HIC,Riyadh,compost,0
+Saudi Arabia,HIC,Riyadh,controlled_landfill,85
+Saudi Arabia,HIC,Riyadh,incineration,0
+Saudi Arabia,HIC,Riyadh,landfill_unspecified,0
+Saudi Arabia,HIC,Riyadh,open_dump,0
+Saudi Arabia,HIC,Riyadh,other,0
+Saudi Arabia,HIC,Riyadh,recycling,0
+Saudi Arabia,HIC,Riyadh,sanitary_landfill_landfill_gas_system,0
+Saudi Arabia,HIC,Riyadh,unaccounted_for,15
+Saudi Arabia,HIC,Riyadh,waterways_marine,0
+El Salvador,LMC,San Salvador,advanced_thermal_treatment,0
+El Salvador,LMC,San Salvador,anaerobic_digestion,0
+El Salvador,LMC,San Salvador,compost,0
+El Salvador,LMC,San Salvador,controlled_landfill,0
+El Salvador,LMC,San Salvador,incineration,0
+El Salvador,LMC,San Salvador,landfill_unspecified,0
+El Salvador,LMC,San Salvador,open_dump,0
+El Salvador,LMC,San Salvador,other,0
+El Salvador,LMC,San Salvador,recycling,0
+El Salvador,LMC,San Salvador,sanitary_landfill_landfill_gas_system,65.4
+El Salvador,LMC,San Salvador,unaccounted_for,34.6
+El Salvador,LMC,San Salvador,waterways_marine,0
+Serbia,UMC,Novi Sad,advanced_thermal_treatment,0
+Serbia,UMC,Novi Sad,anaerobic_digestion,0
+Serbia,UMC,Novi Sad,compost,0
+Serbia,UMC,Novi Sad,controlled_landfill,0
+Serbia,UMC,Novi Sad,incineration,0
+Serbia,UMC,Novi Sad,landfill_unspecified,0
+Serbia,UMC,Novi Sad,open_dump,0
+Serbia,UMC,Novi Sad,other,0
+Serbia,UMC,Novi Sad,recycling,2
+Serbia,UMC,Novi Sad,sanitary_landfill_landfill_gas_system,0
+Serbia,UMC,Novi Sad,unaccounted_for,98
+Serbia,UMC,Novi Sad,waterways_marine,0
+Slovak Republic,HIC,Bratislava,advanced_thermal_treatment,0
+Slovak Republic,HIC,Bratislava,anaerobic_digestion,0
+Slovak Republic,HIC,Bratislava,compost,0
+Slovak Republic,HIC,Bratislava,controlled_landfill,32.01
+Slovak Republic,HIC,Bratislava,incineration,41.02
+Slovak Republic,HIC,Bratislava,landfill_unspecified,0
+Slovak Republic,HIC,Bratislava,open_dump,0.43
+Slovak Republic,HIC,Bratislava,other,16.73
+Slovak Republic,HIC,Bratislava,recycling,9.81
+Slovak Republic,HIC,Bratislava,sanitary_landfill_landfill_gas_system,0
+Slovak Republic,HIC,Bratislava,unaccounted_for,0
+Slovak Republic,HIC,Bratislava,waterways_marine,0
+Slovenia,HIC,Ljubljana,advanced_thermal_treatment,0
+Slovenia,HIC,Ljubljana,anaerobic_digestion,0
+Slovenia,HIC,Ljubljana,compost,0
+Slovenia,HIC,Ljubljana,controlled_landfill,0
+Slovenia,HIC,Ljubljana,incineration,0
+Slovenia,HIC,Ljubljana,landfill_unspecified,39
+Slovenia,HIC,Ljubljana,open_dump,0
+Slovenia,HIC,Ljubljana,other,0
+Slovenia,HIC,Ljubljana,recycling,61
+Slovenia,HIC,Ljubljana,sanitary_landfill_landfill_gas_system,0
+Slovenia,HIC,Ljubljana,unaccounted_for,0
+Slovenia,HIC,Ljubljana,waterways_marine,0
+Thailand,UMC,Bangkok,advanced_thermal_treatment,0
+Thailand,UMC,Bangkok,anaerobic_digestion,0
+Thailand,UMC,Bangkok,compost,48.7
+Thailand,UMC,Bangkok,controlled_landfill,0
+Thailand,UMC,Bangkok,incineration,0
+Thailand,UMC,Bangkok,landfill_unspecified,0
+Thailand,UMC,Bangkok,open_dump,0
+Thailand,UMC,Bangkok,other,0
+Thailand,UMC,Bangkok,recycling,11.85
+Thailand,UMC,Bangkok,sanitary_landfill_landfill_gas_system,39.45
+Thailand,UMC,Bangkok,unaccounted_for,0
+Thailand,UMC,Bangkok,waterways_marine,0
+Tonga,UMC,Vavaâ€™u,advanced_thermal_treatment,0
+Tonga,UMC,Vavaâ€™u,anaerobic_digestion,0
+Tonga,UMC,Vavaâ€™u,compost,1.5
+Tonga,UMC,Vavaâ€™u,controlled_landfill,27.4
+Tonga,UMC,Vavaâ€™u,incineration,0
+Tonga,UMC,Vavaâ€™u,landfill_unspecified,0
+Tonga,UMC,Vavaâ€™u,open_dump,0
+Tonga,UMC,Vavaâ€™u,other,12.3
+Tonga,UMC,Vavaâ€™u,recycling,5.1
+Tonga,UMC,Vavaâ€™u,sanitary_landfill_landfill_gas_system,0
+Tonga,UMC,Vavaâ€™u,unaccounted_for,53.7
+Tonga,UMC,Vavaâ€™u,waterways_marine,0
+Tunisia,LMC,Tunis,advanced_thermal_treatment,0
+Tunisia,LMC,Tunis,anaerobic_digestion,0
+Tunisia,LMC,Tunis,compost,0
+Tunisia,LMC,Tunis,controlled_landfill,0
+Tunisia,LMC,Tunis,incineration,0
+Tunisia,LMC,Tunis,landfill_unspecified,0
+Tunisia,LMC,Tunis,open_dump,4
+Tunisia,LMC,Tunis,other,0
+Tunisia,LMC,Tunis,recycling,3
+Tunisia,LMC,Tunis,sanitary_landfill_landfill_gas_system,93
+Tunisia,LMC,Tunis,unaccounted_for,0
+Tunisia,LMC,Tunis,waterways_marine,0
+Tunisia,LMC,Sfax,advanced_thermal_treatment,0
+Tunisia,LMC,Sfax,anaerobic_digestion,0
+Tunisia,LMC,Sfax,compost,0
+Tunisia,LMC,Sfax,controlled_landfill,0
+Tunisia,LMC,Sfax,incineration,0
+Tunisia,LMC,Sfax,landfill_unspecified,0
+Tunisia,LMC,Sfax,open_dump,0
+Tunisia,LMC,Sfax,other,0
+Tunisia,LMC,Sfax,recycling,2
+Tunisia,LMC,Sfax,sanitary_landfill_landfill_gas_system,98
+Tunisia,LMC,Sfax,unaccounted_for,0
+Tunisia,LMC,Sfax,waterways_marine,0
+Turkey,UMC,Sakarya Mm,advanced_thermal_treatment,0
+Turkey,UMC,Sakarya Mm,anaerobic_digestion,0
+Turkey,UMC,Sakarya Mm,compost,0
+Turkey,UMC,Sakarya Mm,controlled_landfill,0
+Turkey,UMC,Sakarya Mm,incineration,0
+Turkey,UMC,Sakarya Mm,landfill_unspecified,0
+Turkey,UMC,Sakarya Mm,open_dump,0
+Turkey,UMC,Sakarya Mm,other,0
+Turkey,UMC,Sakarya Mm,recycling,2.49
+Turkey,UMC,Sakarya Mm,sanitary_landfill_landfill_gas_system,0
+Turkey,UMC,Sakarya Mm,unaccounted_for,97.51
+Turkey,UMC,Sakarya Mm,waterways_marine,0
+Tanzania,LIC,Dar Es Salaam,advanced_thermal_treatment,0
+Tanzania,LIC,Dar Es Salaam,anaerobic_digestion,0
+Tanzania,LIC,Dar Es Salaam,compost,0
+Tanzania,LIC,Dar Es Salaam,controlled_landfill,0
+Tanzania,LIC,Dar Es Salaam,incineration,0
+Tanzania,LIC,Dar Es Salaam,landfill_unspecified,0
+Tanzania,LIC,Dar Es Salaam,open_dump,0
+Tanzania,LIC,Dar Es Salaam,other,18
+Tanzania,LIC,Dar Es Salaam,recycling,13
+Tanzania,LIC,Dar Es Salaam,sanitary_landfill_landfill_gas_system,28
+Tanzania,LIC,Dar Es Salaam,unaccounted_for,41
+Tanzania,LIC,Dar Es Salaam,waterways_marine,0
+Tanzania,LIC,Moshi,advanced_thermal_treatment,0
+Tanzania,LIC,Moshi,anaerobic_digestion,0
+Tanzania,LIC,Moshi,compost,20
+Tanzania,LIC,Moshi,controlled_landfill,49
+Tanzania,LIC,Moshi,incineration,0
+Tanzania,LIC,Moshi,landfill_unspecified,0
+Tanzania,LIC,Moshi,open_dump,0
+Tanzania,LIC,Moshi,other,0
+Tanzania,LIC,Moshi,recycling,0
+Tanzania,LIC,Moshi,sanitary_landfill_landfill_gas_system,0
+Tanzania,LIC,Moshi,unaccounted_for,31
+Tanzania,LIC,Moshi,waterways_marine,0
+Uganda,LIC,Kampala,advanced_thermal_treatment,0
+Uganda,LIC,Kampala,anaerobic_digestion,0
+Uganda,LIC,Kampala,compost,0
+Uganda,LIC,Kampala,controlled_landfill,100
+Uganda,LIC,Kampala,incineration,0
+Uganda,LIC,Kampala,landfill_unspecified,0
+Uganda,LIC,Kampala,open_dump,0
+Uganda,LIC,Kampala,other,0
+Uganda,LIC,Kampala,recycling,0
+Uganda,LIC,Kampala,sanitary_landfill_landfill_gas_system,0
+Uganda,LIC,Kampala,unaccounted_for,0
+Uganda,LIC,Kampala,waterways_marine,0
+Ukraine,LMC,Kiev,advanced_thermal_treatment,0
+Ukraine,LMC,Kiev,anaerobic_digestion,0
+Ukraine,LMC,Kiev,compost,0
+Ukraine,LMC,Kiev,controlled_landfill,0
+Ukraine,LMC,Kiev,incineration,23
+Ukraine,LMC,Kiev,landfill_unspecified,70.6
+Ukraine,LMC,Kiev,open_dump,0
+Ukraine,LMC,Kiev,other,0
+Ukraine,LMC,Kiev,recycling,6.4
+Ukraine,LMC,Kiev,sanitary_landfill_landfill_gas_system,0
+Ukraine,LMC,Kiev,unaccounted_for,0
+Ukraine,LMC,Kiev,waterways_marine,0
+Uruguay,HIC,Montevideo,advanced_thermal_treatment,0
+Uruguay,HIC,Montevideo,anaerobic_digestion,0
+Uruguay,HIC,Montevideo,compost,0
+Uruguay,HIC,Montevideo,controlled_landfill,71
+Uruguay,HIC,Montevideo,incineration,0
+Uruguay,HIC,Montevideo,landfill_unspecified,0
+Uruguay,HIC,Montevideo,open_dump,0
+Uruguay,HIC,Montevideo,other,0
+Uruguay,HIC,Montevideo,recycling,29
+Uruguay,HIC,Montevideo,sanitary_landfill_landfill_gas_system,0
+Uruguay,HIC,Montevideo,unaccounted_for,0
+Uruguay,HIC,Montevideo,waterways_marine,0
+United States,HIC,Seattle,advanced_thermal_treatment,0
+United States,HIC,Seattle,anaerobic_digestion,0
+United States,HIC,Seattle,compost,0
+United States,HIC,Seattle,controlled_landfill,41.95
+United States,HIC,Seattle,incineration,0
+United States,HIC,Seattle,landfill_unspecified,0
+United States,HIC,Seattle,open_dump,0
+United States,HIC,Seattle,other,0
+United States,HIC,Seattle,recycling,58.04
+United States,HIC,Seattle,sanitary_landfill_landfill_gas_system,0
+United States,HIC,Seattle,unaccounted_for,0
+United States,HIC,Seattle,waterways_marine,0
+United States,HIC,Washington Dc,advanced_thermal_treatment,32
+United States,HIC,Washington Dc,anaerobic_digestion,0
+United States,HIC,Washington Dc,compost,1
+United States,HIC,Washington Dc,controlled_landfill,56
+United States,HIC,Washington Dc,incineration,0
+United States,HIC,Washington Dc,landfill_unspecified,0
+United States,HIC,Washington Dc,open_dump,0
+United States,HIC,Washington Dc,other,0
+United States,HIC,Washington Dc,recycling,11
+United States,HIC,Washington Dc,sanitary_landfill_landfill_gas_system,0
+United States,HIC,Washington Dc,unaccounted_for,0
+United States,HIC,Washington Dc,waterways_marine,0
+"Venezuela, RB",UMC,Caracas,advanced_thermal_treatment,0
+"Venezuela, RB",UMC,Caracas,anaerobic_digestion,0
+"Venezuela, RB",UMC,Caracas,compost,0
+"Venezuela, RB",UMC,Caracas,controlled_landfill,0
+"Venezuela, RB",UMC,Caracas,incineration,0
+"Venezuela, RB",UMC,Caracas,landfill_unspecified,0
+"Venezuela, RB",UMC,Caracas,open_dump,0
+"Venezuela, RB",UMC,Caracas,other,0
+"Venezuela, RB",UMC,Caracas,recycling,0.9
+"Venezuela, RB",UMC,Caracas,sanitary_landfill_landfill_gas_system,99.1
+"Venezuela, RB",UMC,Caracas,unaccounted_for,0
+"Venezuela, RB",UMC,Caracas,waterways_marine,0
+Vietnam,LMC,Ho Chi Minh City,advanced_thermal_treatment,0
+Vietnam,LMC,Ho Chi Minh City,anaerobic_digestion,0
+Vietnam,LMC,Ho Chi Minh City,compost,15
+Vietnam,LMC,Ho Chi Minh City,controlled_landfill,0
+Vietnam,LMC,Ho Chi Minh City,incineration,0
+Vietnam,LMC,Ho Chi Minh City,landfill_unspecified,0
+Vietnam,LMC,Ho Chi Minh City,open_dump,0
+Vietnam,LMC,Ho Chi Minh City,other,0
+Vietnam,LMC,Ho Chi Minh City,recycling,0
+Vietnam,LMC,Ho Chi Minh City,sanitary_landfill_landfill_gas_system,85
+Vietnam,LMC,Ho Chi Minh City,unaccounted_for,0
+Vietnam,LMC,Ho Chi Minh City,waterways_marine,0
+Kosovo,LMC,Gjilan,advanced_thermal_treatment,0
+Kosovo,LMC,Gjilan,anaerobic_digestion,0
+Kosovo,LMC,Gjilan,compost,0
+Kosovo,LMC,Gjilan,controlled_landfill,0
+Kosovo,LMC,Gjilan,incineration,0
+Kosovo,LMC,Gjilan,landfill_unspecified,100
+Kosovo,LMC,Gjilan,open_dump,0
+Kosovo,LMC,Gjilan,other,0
+Kosovo,LMC,Gjilan,recycling,0
+Kosovo,LMC,Gjilan,sanitary_landfill_landfill_gas_system,0
+Kosovo,LMC,Gjilan,unaccounted_for,0
+Kosovo,LMC,Gjilan,waterways_marine,0
+Kosovo,LMC,Pristina,advanced_thermal_treatment,0
+Kosovo,LMC,Pristina,anaerobic_digestion,0
+Kosovo,LMC,Pristina,compost,0
+Kosovo,LMC,Pristina,controlled_landfill,80
+Kosovo,LMC,Pristina,incineration,0
+Kosovo,LMC,Pristina,landfill_unspecified,0
+Kosovo,LMC,Pristina,open_dump,10
+Kosovo,LMC,Pristina,other,0
+Kosovo,LMC,Pristina,recycling,10
+Kosovo,LMC,Pristina,sanitary_landfill_landfill_gas_system,0
+Kosovo,LMC,Pristina,unaccounted_for,0
+Kosovo,LMC,Pristina,waterways_marine,0
+"Yemen, Rep.",LIC,SanaÃ¡,advanced_thermal_treatment,0
+"Yemen, Rep.",LIC,SanaÃ¡,anaerobic_digestion,0
+"Yemen, Rep.",LIC,SanaÃ¡,compost,0
+"Yemen, Rep.",LIC,SanaÃ¡,controlled_landfill,53
+"Yemen, Rep.",LIC,SanaÃ¡,incineration,0
+"Yemen, Rep.",LIC,SanaÃ¡,landfill_unspecified,0
+"Yemen, Rep.",LIC,SanaÃ¡,open_dump,0
+"Yemen, Rep.",LIC,SanaÃ¡,other,0
+"Yemen, Rep.",LIC,SanaÃ¡,recycling,12
+"Yemen, Rep.",LIC,SanaÃ¡,sanitary_landfill_landfill_gas_system,0
+"Yemen, Rep.",LIC,SanaÃ¡,unaccounted_for,30
+"Yemen, Rep.",LIC,SanaÃ¡,waterways_marine,5
+South Africa,UMC,JohannesburgÂ ,advanced_thermal_treatment,0
+South Africa,UMC,JohannesburgÂ ,anaerobic_digestion,0
+South Africa,UMC,JohannesburgÂ ,compost,5
+South Africa,UMC,JohannesburgÂ ,controlled_landfill,0
+South Africa,UMC,JohannesburgÂ ,incineration,0
+South Africa,UMC,JohannesburgÂ ,landfill_unspecified,95
+South Africa,UMC,JohannesburgÂ ,open_dump,0
+South Africa,UMC,JohannesburgÂ ,other,0
+South Africa,UMC,JohannesburgÂ ,recycling,0
+South Africa,UMC,JohannesburgÂ ,sanitary_landfill_landfill_gas_system,0
+South Africa,UMC,JohannesburgÂ ,unaccounted_for,0
+South Africa,UMC,JohannesburgÂ ,waterways_marine,0
+South Africa,UMC,BloemfonteinÂ ,advanced_thermal_treatment,0
+South Africa,UMC,BloemfonteinÂ ,anaerobic_digestion,0
+South Africa,UMC,BloemfonteinÂ ,compost,0
+South Africa,UMC,BloemfonteinÂ ,controlled_landfill,32.3
+South Africa,UMC,BloemfonteinÂ ,incineration,0
+South Africa,UMC,BloemfonteinÂ ,landfill_unspecified,0
+South Africa,UMC,BloemfonteinÂ ,open_dump,0
+South Africa,UMC,BloemfonteinÂ ,other,0
+South Africa,UMC,BloemfonteinÂ ,recycling,0
+South Africa,UMC,BloemfonteinÂ ,sanitary_landfill_landfill_gas_system,0
+South Africa,UMC,BloemfonteinÂ ,unaccounted_for,67.7
+South Africa,UMC,BloemfonteinÂ ,waterways_marine,0
+Zambia,LMC,Lusaka,advanced_thermal_treatment,0
+Zambia,LMC,Lusaka,anaerobic_digestion,0
+Zambia,LMC,Lusaka,compost,0
+Zambia,LMC,Lusaka,controlled_landfill,26
+Zambia,LMC,Lusaka,incineration,0
+Zambia,LMC,Lusaka,landfill_unspecified,0
+Zambia,LMC,Lusaka,open_dump,0
+Zambia,LMC,Lusaka,other,0
+Zambia,LMC,Lusaka,recycling,6
+Zambia,LMC,Lusaka,sanitary_landfill_landfill_gas_system,0
+Zambia,LMC,Lusaka,unaccounted_for,68
+Zambia,LMC,Lusaka,waterways_marine,0
+Zimbabwe,LIC,Mbare,advanced_thermal_treatment,0
+Zimbabwe,LIC,Mbare,anaerobic_digestion,0
+Zimbabwe,LIC,Mbare,compost,10
+Zimbabwe,LIC,Mbare,controlled_landfill,51
+Zimbabwe,LIC,Mbare,incineration,0
+Zimbabwe,LIC,Mbare,landfill_unspecified,0
+Zimbabwe,LIC,Mbare,open_dump,24
+Zimbabwe,LIC,Mbare,other,15
+Zimbabwe,LIC,Mbare,recycling,0
+Zimbabwe,LIC,Mbare,sanitary_landfill_landfill_gas_system,0
+Zimbabwe,LIC,Mbare,unaccounted_for,0
+Zimbabwe,LIC,Mbare,waterways_marine,0
