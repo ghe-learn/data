@@ -156,11 +156,47 @@ codebook_country <- read_csv("data/raw/what_a_waste/country_level_codebook.csv")
 
 codebook_city <- read_csv("data/raw/what_a_waste/city_level_codebook_0.csv")
 
+
+data_city %>% 
+  glimpse()
+
+
 ```
 
 Goal: Select data about waste composition for further analysis. 
 
 ## City level data
+
+### Metadata
+
+```{r}
+data_city %>% 
+  select(city = city_name,
+         country = country_name, 
+         income_id) %>%
+  write_csv("data/derived/what-a-waste-city-level-data-country-income.csv")
+```
+
+
+### Population
+
+```{r}
+data_city %>% 
+  select(city = city_name,
+         pop = population_population_number_of_people) %>% 
+  filter(!is.na(pop)) %>% 
+  write_csv("data/derived/what-a-waste-city-level-data-population.csv")
+```
+
+
+### Waste generation
+
+```{r}
+data_city %>% 
+  select(city = city_name,
+         msw_generation_tons_year = total_msw_total_msw_generated_tons_year) %>% 
+  write_csv("data/derived/what-a-waste-city-level-data-generation.csv")
+```
 
 ### Waste treatment
 
@@ -208,7 +244,7 @@ write_csv(x = data_city_waste_treatment_tidy_100_percent,
 
 ```
 
-## Waste composition
+### Waste composition
 
 ```{r}
 
@@ -255,9 +291,6 @@ write_csv(x = data_city_waste_treatment_tidy_100_percent,
           file = "data/derived/what-a-waste-city-level-data-composition.csv")
 
 ```
-
-
-
 
 
 ## Country level data

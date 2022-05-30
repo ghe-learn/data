@@ -1,0 +1,368 @@
+city,country,income_id
+Jalalabad,Afghanistan,LIC
+Kandahar,Afghanistan,LIC
+Mazar-E-Sharif,Afghanistan,LIC
+Kabul,Afghanistan,LIC
+HiratÂ ,Afghanistan,LIC
+Luanda,Angola,LMC
+Korca,Albania,UMC
+Vlora,Albania,UMC
+Abu Dhabi,United Arab Emirates,HIC
+Dubai,United Arab Emirates,HIC
+CÃ³rdoba,Argentina,HIC
+Rosario,Argentina,HIC
+Ciudada AutÃ³noma De Buenos Aires (Caba).,Argentina,HIC
+Vanadzor,Armenia,UMC
+Spitak,Armenia,UMC
+Pago Pago,American Samoa,UMC
+Perth,Australia,HIC
+Melbourne,Australia,HIC
+Canberra,Australia,HIC
+Vienna,Austria,HIC
+Baku,Azerbaijan,UMC
+Muyinga,Burundi,LIC
+Kayanza,Burundi,LIC
+Ngozi,Burundi,LIC
+Bujumbura,Burundi,LIC
+Brussels,Belgium,HIC
+Liege,Belgium,HIC
+Porto Novo,Benin,LIC
+Cotonou,Benin,LIC
+Bobo Dioulasso,Burkina Faso,LIC
+Ouagadougou,Burkina Faso,LIC
+Patuakhali,Bangladesh,LMC
+Chittagong,Bangladesh,LMC
+Rangpur,Bangladesh,LMC
+Dhaka,Bangladesh,LMC
+Rajshahi,Bangladesh,LMC
+Ruse,Bulgaria,UMC
+Burgas,Bulgaria,UMC
+Manama,Bahrain,HIC
+Banja Luka,Bosnia and Herzegovina,UMC
+Sarajevo,Bosnia and Herzegovina,UMC
+Minsk,Belarus,UMC
+Grodno,Belarus,UMC
+San Pedro,Belize,UMC
+Belize City,Belize,UMC
+La Paz,Bolivia,LMC
+"Distrito Federal, Brasilia",Brazil,UMC
+Rio De Janeiro,Brazil,UMC
+Sao Paulo,Brazil,UMC
+PhuentsholingÂ ,Bhutan,LMC
+Thimphu,Bhutan,LMC
+Gaborone,Botswana,UMC
+Toronto,Canada,HIC
+Ottawa,Canada,HIC
+Vancouver,Canada,HIC
+Bern,Switzerland,HIC
+Zurich,Switzerland,HIC
+Santiago De Chile,Chile,HIC
+Beijing,China,UMC
+Abidjan,Côte d’Ivoire,LMC
+Limbe,Cameroon,LMC
+Douala,Cameroon,LMC
+Yaounde,Cameroon,LMC
+Bafoussam,Cameroon,LMC
+Kinshasa,"Congo, Dem. Rep.",LIC
+Dolisie,"Congo, Rep.",LMC
+BogotÃ¡,Colombia,UMC
+Medellin,Colombia,UMC
+Cali,Colombia,UMC
+Moroni,Comoros,LIC
+San JosÃ©,Costa Rica,UMC
+Alajuela,Costa Rica,UMC
+Havana,Cuba,UMC
+Paralimini,Cyprus,HIC
+Nicosia,Cyprus,HIC
+Karlovy Vary,Czech Republic,HIC
+Prague,Czech Republic,HIC
+Hamburg,Germany,HIC
+Berlin,Germany,HIC
+Djiibouti City,Djibouti,LMC
+Copenhagen,Denmark,HIC
+Santo Domingo,Dominican Republic,UMC
+Algiers,Algeria,UMC
+Mostaganem,Algeria,UMC
+Quito,Ecuador,UMC
+Cairo,"Egypt, Arab Rep.",LMC
+Pamplona,Spain,HIC
+Madrid,Spain,HIC
+Tallinn,Estonia,HIC
+Tartummaa,Estonia,HIC
+Adola Woyu,Ethiopia,LIC
+Bule Hora,Ethiopia,LIC
+Addis Ababa,Ethiopia,LIC
+Maichew,Ethiopia,LIC
+Tepi,Ethiopia,LIC
+Gerbe Guracha,Ethiopia,LIC
+Weldiya,Ethiopia,LIC
+Debre Tabor,Ethiopia,LIC
+Bati,Ethiopia,LIC
+Dire Dawa,Ethiopia,LIC
+Halaba Kulito,Ethiopia,LIC
+Dembi Dolo,Ethiopia,LIC
+Oulu,Finland,HIC
+Riihimaki,Finland,HIC
+Turku,Finland,HIC
+Suva,Fiji,UMC
+Angers-Loire Metropole,France,HIC
+Paris,France,HIC
+Pohnpei,"Micronesia, Fed. Sts.",LMC
+Libreville,Gabon,UMC
+London,United Kingdom,HIC
+Bristol,United Kingdom,HIC
+Tbilisi,Georgia,LMC
+Accra,Ghana,LMC
+Kumasi,Ghana,LMC
+Conakry,Guinea,LIC
+Banjul,"Gambia, The",LIC
+Labe,Equatorial Guinea,UMC
+Athens,Greece,HIC
+Thessaloniki,Greece,HIC
+Guatemala City,Guatemala,UMC
+Antigua Guatemala,Guatemala,UMC
+Jutiapa,Guatemala,UMC
+Tegucigalpa,Honduras,LMC
+San Pedro Sula,Honduras,LMC
+Zagreb,Croatia,HIC
+Cakovec,Croatia,HIC
+Port Au Prince,Haiti,LIC
+Debrecen,Hungary,HIC
+Budapest,Hungary,HIC
+Jakarta,Indonesia,LMC
+Douglas,Isle of Man,HIC
+Kota,India,LMC
+Kozhikode,India,LMC
+Jaipur,India,LMC
+Tirunelveli,India,LMC
+Amritsar,India,LMC
+Allahabad,India,LMC
+Greater Hyderabad Â ,India,LMC
+Kochi,India,LMC
+Leh,India,LMC
+Pune,India,LMC
+Patna,India,LMC
+Jodhpur,India,LMC
+Nagpur,India,LMC
+Shimla,India,LMC
+Rudrapur,India,LMC
+Bengaluru,India,LMC
+Pimpri-Chinchwad,India,LMC
+Kanpur,India,LMC
+Rajkot,India,LMC
+Tenali,India,LMC
+Lucknow,India,LMC
+Ludhiana,India,LMC
+Tadipatri,India,LMC
+Bhopal,India,LMC
+Faridabad,India,LMC
+Cuttack,India,LMC
+Ahmedabad,India,LMC
+Itanagar,India,LMC
+Vishakhapatnam,India,LMC
+Nashik,India,LMC
+Dhanbad,India,LMC
+Delhi,India,LMC
+Srinagar,India,LMC
+Ghaziabad,India,LMC
+Imphal,India,LMC
+Surat,India,LMC
+Vijaywada,India,LMC
+Chennai,India,LMC
+Indore,India,LMC
+Coimbatore,India,LMC
+Navi Mumbai,India,LMC
+Greater Mumbai,India,LMC
+Guwahati,India,LMC
+GwaliorÂ ,India,LMC
+Bhubaneswar,India,LMC
+Mysore,India,LMC
+Warangal,India,LMC
+Dublin,Ireland,HIC
+Tehran,"Iran, Islamic Rep.",UMC
+Baghdad,Iraq,UMC
+Jerusalem,Israel,HIC
+Tel Aviv,Israel,HIC
+Parma,Italy,HIC
+Milano,Italy,HIC
+Amman,Jordan,UMC
+Yokohama,Japan,HIC
+Kobe,Japan,HIC
+Osaka,Japan,HIC
+Naha,Japan,HIC
+Kitakyushu,Japan,HIC
+Toyama,Japan,HIC
+Atyrau,Kazakhstan,UMC
+Kostanay,Kazakhstan,UMC
+EldoretÂ ,Kenya,LMC
+Nairobi,Kenya,LMC
+Osh,Kyrgyz Republic,LMC
+Bishkek,Kyrgyz Republic,LMC
+Phnom Penh,Cambodia,LMC
+South Tarawa,Kiribati,LMC
+Seoul,"Korea, Rep.",HIC
+Kuwait City,Kuwait,HIC
+Vientiane,Lao PDR,LMC
+Beirut,Lebanon,UMC
+Saida,Lebanon,UMC
+Monrovia,Liberia,LIC
+Tripoli,Libya,UMC
+Dehiwala Mt. Lavinia Municipal Council,Sri Lanka,LMC
+Kurunegala,Sri Lanka,LMC
+Trincomalee,Sri Lanka,LMC
+Jaffna,Sri Lanka,LMC
+Moratuwa,Sri Lanka,LMC
+Colombo,Sri Lanka,LMC
+Vilnius,Lithuania,HIC
+Kaunas,Lithuania,HIC
+Liepaja,Latvia,HIC
+Riga,Latvia,HIC
+Rabat,Morocco,LMC
+Tangier,Morocco,LMC
+Beni Mellal,Morocco,LMC
+Soldanesti,Moldova,LMC
+Chisinau,Moldova,LMC
+Antananarivo,Madagascar,LIC
+Male,Maldives,UMC
+Addu,Maldives,UMC
+Fuahmulah,Maldives,UMC
+MÃ©xico City,Mexico,UMC
+Guadalajara,Mexico,UMC
+Monterrey,Mexico,UMC
+Majuro,Marshall Islands,UMC
+Kratovo,"Macedonia, FYR",UMC
+Skopje,"Macedonia, FYR",UMC
+Bamako,Mali,LIC
+Sikasso,Mali,LIC
+Mandalay,Myanmar,LMC
+Yangon,Myanmar,LMC
+Podgorica,Montenegro,UMC
+Kotor,Montenegro,UMC
+Ulaanbaatar,Mongolia,LMC
+Saipan,Northern Mariana Islands,HIC
+Maputo,Mozambique,LIC
+Nouakchott,Mauritania,LMC
+Blantyre,Malawi,LIC
+Lilongwe,Malawi,LIC
+Kuala Lumpur,Malaysia,UMC
+Windhoek,Namibia,UMC
+Niamey,Niger,LIC
+Ilorin,Nigeria,LMC
+Lagos,Nigeria,LMC
+Kano,Nigeria,LMC
+Oyo,Nigeria,LMC
+Ibadan,Nigeria,LMC
+Puerto Cabezas,Nicaragua,LMC
+Managua,Nicaragua,LMC
+Amsterdam,Netherlands,HIC
+Eindhoven,Netherlands,HIC
+Bergen,Norway,HIC
+Oslo,Norway,HIC
+Butwal,Nepal,LIC
+Pokhara,Nepal,LIC
+Dhankuta,Nepal,LIC
+Birgunj,Nepal,LIC
+Kathmandu,Nepal,LIC
+Lalitpur,Nepal,LIC
+Badimalika,Nepal,LIC
+Bharatpur,Nepal,LIC
+Dharan,Nepal,LIC
+Bhimeshwor,Nepal,LIC
+Biratnagar,Nepal,LIC
+Bhaktapur,Nepal,LIC
+Auckland,New Zealand,HIC
+Wellington,New Zealand,HIC
+Muscat,Oman,HIC
+Karachi,Pakistan,LMC
+Lahore,Pakistan,LMC
+Sialkot,Pakistan,LMC
+PanamÃ¡ City,Panama,HIC
+San Miguelito,Panama,HIC
+ColÃ³n,Panama,HIC
+Cusco,Peru,UMC
+Cebu,Philippines,LMC
+Quezon City,Philippines,LMC
+Koror,Palau,HIC
+Port Moresby,Papua New Guinea,LMC
+Lodzi,Poland,HIC
+KrakÃ³w,Poland,HIC
+Lisbon,Portugal,HIC
+GuimarÃ£es,Portugal,HIC
+AsunciÃ³n,Paraguay,UMC
+Ciudad Del Este,Paraguay,UMC
+San Lorenzo,Paraguay,UMC
+Ramallah,West Bank and Gaza,LMC
+Doha,Qatar,HIC
+Cluj-Napoca,Romania,UMC
+Bucharest,Romania,UMC
+Moscow,Russian Federation,UMC
+St.petersburg,Russian Federation,UMC
+Kemerovo,Russian Federation,UMC
+KigaliÂ ,Rwanda,LIC
+Nyagatare,Rwanda,LIC
+Jeddah,Saudi Arabia,HIC
+Riyadh,Saudi Arabia,HIC
+Rufisque,Senegal,LIC
+Honiara,Solomon Islands,LMC
+Freetown,Sierra Leone,LIC
+San Salvador,El Salvador,LMC
+Hargeysa,Somalia,LIC
+Belgrade,Serbia,UMC
+Novi Sad,Serbia,UMC
+Juba,South Sudan,LIC
+Trnava,Slovak Republic,HIC
+Bratislava,Slovak Republic,HIC
+Ljubljana,Slovenia,HIC
+BorÃ¥s,Sweden,HIC
+Stockholm,Sweden,HIC
+Damascus,Syrian Arab Republic,LIC
+Lome,Togo,LIC
+Bangkok,Thailand,UMC
+DushanbeÂ ,Tajikistan,LIC
+Khujand,Tajikistan,LIC
+Ashgabat,Turkmenistan,UMC
+Dili,Timor-Leste,LMC
+Tongatapu,Tonga,UMC
+Vavaâ€™u,Tonga,UMC
+Tunis,Tunisia,LMC
+Sfax,Tunisia,LMC
+Sousse,Tunisia,LMC
+Sakarya Mm,Turkey,UMC
+Bursa Mm (Metropolitan Municipality),Turkey,UMC
+Funafuti,Tuvalu,UMC
+Dar Es Salaam,Tanzania,LIC
+Moshi,Tanzania,LIC
+Mountain Kilimanjaro,Tanzania,LIC
+Kampala,Uganda,LIC
+Pavlograd,Ukraine,LMC
+Kiev,Ukraine,LMC
+Montevideo,Uruguay,HIC
+Seattle,United States,HIC
+Washington Dc,United States,HIC
+Ann Arbor,United States,HIC
+Namangan,Uzbekistan,LMC
+Tashkent,Uzbekistan,LMC
+Caracas,"Venezuela, RB",UMC
+Hanoi,Vietnam,LMC
+Ho Chi Minh City,Vietnam,LMC
+Port Vila,Vanuatu,LMC
+Upolu (Apia),Samoa,UMC
+Gjilan,Kosovo,LMC
+Pristina,Kosovo,LMC
+SanaÃ¡,"Yemen, Rep.",LIC
+JohannesburgÂ ,South Africa,UMC
+Cape Town,South Africa,UMC
+Soweto,South Africa,UMC
+BloemfonteinÂ ,South Africa,UMC
+Durban,South Africa,UMC
+NdolaÂ ,Zambia,LMC
+Lusaka,Zambia,LMC
+Kadoma City,Zimbabwe,LIC
+Mbare,Zimbabwe,LIC
+Norton,Zimbabwe,LIC
+Chinhoyi,Zimbabwe,LIC
+HarareÂ ,Zimbabwe,LIC
+Gweru,Zimbabwe,LIC
+Kariba,Zimbabwe,LIC
+Masvingo City,Zimbabwe,LIC
+SakubvaÂ ,Zimbabwe,LIC

@@ -1,0 +1,358 @@
+city,pop
+Jalalabad,326585
+Kandahar,429000
+Mazar-E-Sharif,635250
+Kabul,3700000
+HiratÂ ,337000
+Luanda,4508000
+Korca,51152
+Vlora,79513
+Abu Dhabi,1145000
+Dubai,2415000
+CÃ³rdoba,1329604
+Rosario,1193605
+Ciudada AutÃ³noma De Buenos Aires (Caba).,2981781
+Vanadzor,86199
+Spitak,12881
+Perth,20359
+Melbourne,4203000
+Canberra,353626
+Vienna,1741246
+Baku,2374000
+Muyinga,632409
+Kayanza,585412
+Ngozi,39884
+Bujumbura,412000
+Brussels,1154635
+Liege,1020579
+Porto Novo,600000
+Cotonou,642000
+Bobo Dioulasso,365000
+Ouagadougou,1328000
+Patuakhali,65000
+Chittagong,2581643
+Rangpur,294265
+Dhaka,5700000
+Rajshahi,448087
+Ruse,144936
+Burgas,202766
+Manama,411000
+Banja Luka,180053
+Sarajevo,318000
+Minsk,1915000
+Grodno,340000
+San Pedro,14215
+Belize City,68266
+La Paz,840209
+"Distrito Federal, Brasilia",2977216
+Rio De Janeiro,6453682
+Sao Paulo,11895893
+PhuentsholingÂ ,40000
+Thimphu,101990
+Gaborone,210000
+Toronto,2800000
+Ottawa,934243
+Vancouver,2465031
+Bern,358000
+Zurich,1246000
+Santiago De Chile,7007620
+Beijing,20384000
+Abidjan,4150000
+Douala,1490000
+Yaounde,2349000
+Bafoussam,193000
+Kinshasa,11587000
+Dolisie,95000
+BogotÃ¡,6840116
+Medellin,2464322
+Cali,2224158
+Moroni,56000
+San JosÃ©,309673
+Alajuela,254886
+Havana,2135747
+Paralimini,11836
+Nicosia,55014
+Karlovy Vary,299293
+Prague,1243201
+Hamburg,1831000
+Berlin,3563000
+Djiibouti City,404000
+Copenhagen,570171
+Santo Domingo,3976012
+Algiers,2594000
+Mostaganem,720000
+Quito,2344231
+Cairo,9000000
+Pamplona,195650
+Madrid,3165235
+Tallinn,391000
+Tartummaa,150000
+Adola Woyu,32692
+Bule Hora,35192
+Addis Ababa,2979100
+Maichew,33560
+Tepi,36128
+Gerbe Guracha,41438
+Weldiya,86311
+Debre Tabor,78706
+Bati,20536
+Dire Dawa,270000
+Halaba Kulito,271654
+Dembi Dolo,41031
+Oulu,196321
+Riihimaki,30000
+Turku,180000
+Suva,86000
+Angers-Loire Metropole,277506
+Paris,2254262
+Pohnpei,34574
+Libreville,707000
+London,8173941
+Bristol,449300
+Tbilisi,1147000
+Accra,1960000
+Kumasi,1470000
+Conakry,1045000
+Banjul,331000
+Athens,664046
+Thessaloniki,354290
+Guatemala City,2918000
+Antigua Guatemala,41500
+Jutiapa,453369
+Tegucigalpa,1200000
+San Pedro Sula,852000
+Zagreb,687000
+Cakovec,15000
+Port Au Prince,2618894
+Debrecen,201981
+Budapest,1744665
+Jakarta,9607787
+Douglas,29000
+Kota,1001694
+Kozhikode,431560
+Jaipur,3046163
+Tirunelveli,479606
+Amritsar,1132383
+Allahabad,1168385
+Greater Hyderabad Â ,6731790
+Kochi,602046
+Leh,17353
+Pune,3124458
+Patna,1684222
+Jodhpur,1033756
+Nagpur,2405665
+Shimla,169578
+Rudrapur,154554
+Bengaluru,8443675
+Pimpri-Chinchwad,1727692
+Kanpur,2767031
+Rajkot,1432734
+Tenali,164937
+Lucknow,2817106
+Ludhiana,1840000
+Tadipatri,108249
+Bhopal,1798218
+Faridabad,1414050
+Cuttack,610189
+Ahmedabad,6494197
+Itanagar,59500
+Vishakhapatnam,1728128
+Nashik,1486053
+Dhanbad,1162472
+Delhi,11034555
+Srinagar,1147613
+Ghaziabad,1648643
+Imphal,268243
+Surat,5500000
+Vijaywada,1137793
+Chennai,6671309
+Indore,1994397
+Coimbatore,1050721
+Navi Mumbai,1120574
+Greater Mumbai,12478447
+Guwahati,957352
+GwaliorÂ ,1069276
+Bhubaneswar,837737
+Mysore,1058210
+Warangal,615998
+Dublin,527612
+Tehran,8432000
+Baghdad,7000000
+Jerusalem,778000
+Tel Aviv,3311000
+Parma,192836
+Milano,1236837
+Amman,2400000
+Yokohama,3730345
+Kobe,1547494
+Osaka,2679962
+Naha,323558
+Kitakyushu,972192
+Toyama,418495
+Atyrau,275896
+Kostanay,228000
+EldoretÂ ,167016
+Nairobi,3050000
+Osh,281900
+Bishkek,865000
+Phnom Penh,1731000
+South Tarawa,46000
+Seoul,10204000
+Kuwait City,2779000
+Vientiane,997000
+Beirut,650000
+Saida,150000
+Monrovia,1056000
+Tripoli,1126000
+Dehiwala Mt. Lavinia Municipal Council,187684
+Kurunegala,25317
+Trincomalee,50268
+Jaffna,82493
+Moratuwa,171214
+Colombo,318048
+Vilnius,517000
+Kaunas,292691
+Liepaja,69443
+Riga,643368
+Rabat,650000
+Tangier,1100000
+Beni Mellal,192362
+Soldanesti,7500
+Chisinau,789534
+Antananarivo,2610000
+Male,153904
+Addu,21275
+Fuahmulah,8510
+MÃ©xico City,8851080
+Guadalajara,1460148
+Monterrey,1109171
+Majuro,40108
+Kratovo,9536
+Skopje,503000
+Bamako,1933000
+Sikasso,225000
+Mandalay,1000000
+Yangon,4802000
+Podgorica,190392
+Kotor,22515
+Ulaanbaatar,1377000
+Saipan,49000
+Maputo,1100000
+Nouakchott,968000
+Blantyre,701000
+Lilongwe,731000
+Kuala Lumpur,6837000
+Windhoek,227000
+Niamey,816000
+Ilorin,857000
+Lagos,9000000
+Oyo,322000
+Ibadan,3160000
+Puerto Cabezas,66169
+Managua,1002882
+Amsterdam,799345
+Eindhoven,226879
+Bergen,271949
+Oslo,986000
+Butwal,120982
+Pokhara,264991
+Dhankuta,28364
+Birgunj,139068
+Kathmandu,1003285
+Lalitpur,226728
+Badimalika,18207
+Bharatpur,147777
+Dharan,119915
+Bhimeshwor,23337
+Biratnagar,204949
+Bhaktapur,83658
+Auckland,1414700
+Wellington,383000
+Muscat,838000
+Karachi,14910352
+Lahore,11126285
+Sialkot,809000
+PanamÃ¡ City,1382667
+San Miguelito,560285
+ColÃ³n,250802
+Cusco,111340
+Cebu,923000
+Quezon City,2940000
+Koror,11754
+Port Moresby,345000
+Lodzi,728900
+KrakÃ³w,741208
+Lisbon,511667
+GuimarÃ£es,158100
+AsunciÃ³n,525293
+Ciudad Del Este,337608
+San Lorenzo,283939
+Doha,718000
+Cluj-Napoca,327000
+Bucharest,1868000
+Moscow,11461000
+St.petersburg,4993000
+Kemerovo,533000
+KigaliÂ ,1257000
+Nyagatare,465855
+Jeddah,4076000
+Riyadh,6370000
+Rufisque,300000
+Honiara,78000
+Freetown,800000
+San Salvador,1097000
+Hargeysa,607000
+Belgrade,1392691
+Novi Sad,314192
+Juba,321000
+Trnava,65536
+Bratislava,415589
+Ljubljana,309261
+BorÃ¥s,106000
+Stockholm,897700
+Damascus,2566000
+Lome,956000
+Bangkok,9270000
+DushanbeÂ ,679400
+Khujand,144865
+Ashgabat,746000
+Dili,234331
+Tongatapu,69211
+Vavaâ€™u,14936
+Tunis,700000
+Sfax,300000
+Sousse,170000
+Sakarya Mm,925662
+Bursa Mm (Metropolitan Municipality),2764826
+Funafuti,6000
+Dar Es Salaam,4364541
+Moshi,183520
+Mountain Kilimanjaro,210000
+Kampala,1936000
+Pavlograd,109885
+Kiev,2942000
+Montevideo,1319108
+Seattle,631350
+Washington Dc,693972
+Ann Arbor,307000
+Namangan,521000
+Tashkent,2251000
+Caracas,3220540
+Hanoi,3629000
+Ho Chi Minh City,7981900
+Port Vila,44039
+Upolu (Apia),147184
+Gjilan,90015
+Pristina,210000
+SanaÃ¡,2330689
+JohannesburgÂ ,4434827
+Cape Town,3430000
+BloemfonteinÂ ,256185
+Durban,2739000
+NdolaÂ ,453000
+Lusaka,1719000
+Norton,58421
+Chinhoyi,98000
+HarareÂ ,1379000
+Gweru,157865
+Kariba,26512
