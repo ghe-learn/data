@@ -216,11 +216,12 @@ data_city_large %>%
 ```{r}
 
 city_data_distance <- data_city %>% 
-  select(city = city_name, contains("distance"), -transportation_distance_na) %>% 
-  pivot_longer(cols = !city,
-               names_to = "distance",
-               values_to = "value") 
-
+  select(city = city_name, 
+         pop = population_population_number_of_people,
+         income_id,
+         transporation_distance_disposal_site = transportation_distance_from_city_center_to_main_landfill_or_dumpsite_km,
+         transportation_distance_total_km_year = transportation_distance_km_year) %>% 
+  drop_na(transporation_distance_disposal_site) 
 
 city_data_distance %>% 
   write_csv("data/derived/what-a-waste-city-level-data-distance.csv")
